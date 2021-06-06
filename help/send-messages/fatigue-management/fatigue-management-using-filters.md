@@ -1,5 +1,5 @@
 ---
-title: Administración de la fatiga comercial con reglas de presión
+title: Administrar la fatiga mediante filtros predefinidos
 description: Aprenda a implementar la administración de la fatiga en Adobe Campaign mediante filtros.
 feature: Administración de fatiga
 kt: 7958
@@ -9,15 +9,15 @@ activity: use
 team: TM
 role: Business Practitioner, Developer, Administrator
 level: Experienced
-source-git-commit: 626b5430b0214926e7134a178dbe4d10d832e5a7
+source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 38%
+source-wordcount: '64'
+ht-degree: 31%
 
 ---
 
 
-# Configuración de la gestión de la fatiga mediante filtros predefinidos
+# Administrar la fatiga mediante filtros predefinidos
 
 La gestión de la fatiga controla la frecuencia y la cantidad de mensajes para evitar el exceso de solicitudes de destinatarios.
 Aprenda a implementar la administración de la fatiga en Adobe Campaign mediante filtros.
