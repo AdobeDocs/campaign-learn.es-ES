@@ -5,10 +5,10 @@ user-guide-title: Tutorials de Adobe Campaign
 user-guide-description: Adobe Campaign permite a los especialistas en marketing diseñar experiencias entre clientes y proporciona un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en canales cruzados.
 breadcrumb-title: Tutoriales
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
+source-git-commit: ee567c5fbe90ddce24617b3d5a8210c04728b4db
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 43%
+source-wordcount: '301'
+ht-degree: 39%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 43%
 + [Información general](/help/overview.md)
 + Introducción {#getting-started}
    + [Introducción a Adobe Campaign](/help/getting-started/introduction-to-adobe-campaign.md)
-   + [Instalación y configuración de un cliente de Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
+   + [Instalación y configuración del cliente de Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [Exploración de la interfaz de usuario de Adobe Campaign ](/help/getting-started/explore-the-adobe-campaign-user-interface.md)
    + [Administración de campañas de marketing](/help/getting-started/manage-marketing-campaigns.md)
    + [Creación de un plan de marketing, programas y campañas](/help/getting-started/create-a-marketing-plan-programs-and-campaigns.md)
@@ -57,7 +57,7 @@ ht-degree: 43%
    + Uso de plantillas de entrega{#using-delivery-templates}
       + [Configuración de una plantilla de envíos](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
       + [Establecer propiedades de plantilla de envío](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
-      + [Implementación de una plantilla de envío de correo electrónico ad-hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
+      + [Implementación de una plantilla de envíos de correo electrónico ad hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
    + Administración de fatiga{#fatigue-management}
       + [Reglas de tipología](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Filtros predefinidos](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
