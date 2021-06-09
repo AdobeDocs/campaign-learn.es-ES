@@ -1,5 +1,5 @@
 ---
-title: Diseño y creación de envíos de correo electrónico
+title: Creación y diseño de envíos de correos electrónicos
 description: Comprenda el proceso de creación de un envío de correo electrónico, y aprenda a diseñar y personalizar el contenido del correo electrónico.
 feature: Correo electrónico, Diseño de correo electrónico, Personalización
 kt: 7847
@@ -9,15 +9,15 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
-source-git-commit: 30e16faef1a85a0854b7e4d8fe0177833c631565
+source-git-commit: 23c441d426ed7fe40403efa2f29b2b70b379bbe0
 workflow-type: tm+mt
 source-wordcount: '48'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
 
-# Diseño y creación de envíos de correo electrónico
+# Creación y diseño de envíos de correos electrónicos
 
 Comprenda el proceso de creación de un envío de correo electrónico, y aprenda a diseñar y personalizar el contenido del correo electrónico.
 
