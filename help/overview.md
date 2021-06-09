@@ -6,7 +6,7 @@ feature: Información general
 role: Business Practitioner, Administrator, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
+source-git-commit: bdf29c4f660743d0f5d76a3df5425eeff86acd8e
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 20%
@@ -47,7 +47,7 @@ Adobe Campaign proporciona una plataforma para diseñar experiencias de clientes
       <img alt="Creación y diseño de envíos de correo electrónico (vídeo)" src="./assets/333476.jpg" />
     </a>
     <div>
-      <a href="../content-creation/create-and-design-email-deliveries.md">
+      <a href="./content-creation/create-and-design-email-deliveries.md">
     <strong>Creación y diseño de envíos de correos electrónicos</strong>
     </a>
     </div> 
@@ -61,7 +61,7 @@ Adobe Campaign proporciona una plataforma para diseñar experiencias de clientes
       <img alt="Gestión de la fatiga mediante reglas de tipología (vídeo)" src="./assets/333787.jpg" />
     </a>
     <div>
-      <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.m">
+      <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
     <strong>Administrar la fatiga mediante reglas de tipología</strong>
     </a>
     </div>
