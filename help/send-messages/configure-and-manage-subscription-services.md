@@ -10,15 +10,15 @@ team: WWFRE
 role: Business Practitioner, Administrator, Developer
 level: Experienced
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '31'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
 
 # Configuración y administración de servicios de suscripción
 
-Aprenda a configurar y administrar suscripciones y a segmentar suscriptores.
+Aprenda a configurar y administrar suscripciones, y a segmentar suscriptores.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329941?quality=12)
