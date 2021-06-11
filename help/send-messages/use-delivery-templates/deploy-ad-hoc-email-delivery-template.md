@@ -10,15 +10,15 @@ team: TM
 role: Administrator
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Implementar una plantilla de envío de correo electrónico ad hoc {#deploying-delivery-templates}
+# Implementación de una plantilla de envíos de correo electrónico ad hoc {#deploying-delivery-templates}
 
-En este vídeo se explica cómo implementar una plantilla de envío de correo electrónico ad hoc y se explica la diferencia entre un envío de correo electrónico y un flujo de trabajo de envío.
+En este vídeo se explica cómo implementar una plantilla de envíos de correo electrónico ad hoc, y se explica la diferencia entre un envío de correo electrónico y un flujo de trabajo de envío.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
