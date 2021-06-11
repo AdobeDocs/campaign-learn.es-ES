@@ -1,7 +1,7 @@
 ---
-title: Creación de envíos de correo postal
-description: Obtenga información sobre cómo crear, formatear y ejecutar un envío de correo postal.
-feature: Correo postal
+title: Creación de envíos de correo directo
+description: Obtenga información sobre cómo crear, formatear y ejecutar un envío de correo directo.
+feature: Correo directo
 kt: 7795
 thumbnail: 333401.jpg
 doc-type: feature video
@@ -11,14 +11,14 @@ role: Business Practitioner
 level: Beginner
 exl-id: 82119bde-daf1-4233-96dc-d6ce235e0934
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# Creación de envíos de correo postal
+# Creación de envíos de correo directo
 
-Entender cómo funciona [!UICONTROL direct mail] en [!UICONTROL Adobe Campaign] y aprender a crear, dar formato y ejecutar un envío de [!UICONTROL correo postal ].
+Entender cómo funciona el [!UICONTROL correo directo] en [!UICONTROL Adobe Campaign] y aprender a crear, dar formato y ejecutar un envío de [!UICONTROL correo directo].
 
 >[!VIDEO](https://video.tv.adobe.com/v/333401?quality=12)
