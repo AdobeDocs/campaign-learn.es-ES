@@ -10,9 +10,9 @@ team: TM
 role: Business Practitioner
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ Aprenda a añadir contenido condicional a un envío con el ejemplo de una newsle
 ## Recursos adicionales
 
 * [Personalización de correos electrónicos con bloques de contenido dinámico](/help/content-creation/personalize-using-dynamic-content-blocks.md)
-* [Personalización de correos electrónicos mediante campos de personalización](/help/content-creation/personalize-emails-using-personalization-fields.md)
+* [Personalización de correos electrónicos con campos de personalización](/help/content-creation/personalize-emails-using-personalization-fields.md)
