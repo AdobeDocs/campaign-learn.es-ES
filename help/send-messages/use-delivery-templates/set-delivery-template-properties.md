@@ -1,6 +1,6 @@
 ---
-title: 'Establecer propiedades de plantilla de envío '
-description: Obtenga información sobre cómo configurar las propiedades de la plantilla de envío.
+title: 'Establecimiento de propiedades de plantilla de envíos '
+description: Obtenga información sobre cómo configurar las propiedades de la plantilla de envíos.
 feature: Plantillas de envíos
 kt: 7964
 thumbnail: 24067.jpg
@@ -10,14 +10,14 @@ team: TM
 role: Administrator
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '31'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Establecer propiedades de plantilla de envío {#set-the-delivery-template-properties}
+# Establecimiento de propiedades de plantilla de envíos {#set-the-delivery-template-properties}
 
 Obtenga información sobre cómo establecer las propiedades de la plantilla de envíos y explica cada propiedad en detalle.
 
