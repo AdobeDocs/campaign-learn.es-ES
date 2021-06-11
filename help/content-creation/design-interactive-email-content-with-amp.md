@@ -1,5 +1,5 @@
 ---
-title: Diseño del contenido de correo electrónico interactivo con AMP
+title: Definición del contenido de correo electrónico interactivo con AMP
 description: Aprenda a configurar el contenido del correo electrónico en formato AMP.
 feature: Correo electrónico, Diseño de correo electrónico
 kt: 7946
@@ -14,7 +14,7 @@ hidefromtoc: true
 source-git-commit: 23c441d426ed7fe40403efa2f29b2b70b379bbe0
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
@@ -32,4 +32,4 @@ El siguiente vídeo explica cómo activar AMP en Adobe Campaign Classic y cómo 
 ## Recursos adicionales
 
 * [Editor AMP](https://playground.amp.dev/)
-* [Documentación](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=en#about-amp-for-email)
+* [Documentación](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=es#about-amp-for-email)
