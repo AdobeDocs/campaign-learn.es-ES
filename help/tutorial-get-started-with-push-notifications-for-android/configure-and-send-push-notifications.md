@@ -10,9 +10,9 @@ team: TM
 role: Administrator, Developer, Business Practitioner
 level: Beginner, Intermediate, Experienced
 source-git-commit: bbb2935aa5900eb05ba1909aa32d775d7ec13eee
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Obtenga información sobre cómo configurar y enviar una notificación [!DNL pus
 
 **Paso anterior**
 
-Paso 2: [Configure un servicio Android™ y cree una aplicación móvil Android™ en Campaign](/help/tutorial-get-started-with-push-notifications-for-android/configure-an-android-service-in-campaign.md)
+Paso 2: [Configuración del servicio de Android™ y creación de una aplicación móvil de Android™ en Campaign](/help/tutorial-get-started-with-push-notifications-for-android/configure-an-android-service-in-campaign.md)
