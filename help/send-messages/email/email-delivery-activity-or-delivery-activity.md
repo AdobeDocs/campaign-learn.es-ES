@@ -7,16 +7,16 @@ doc-type: feature video
 activity: use
 team: TM
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '137'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 
 # Actividad de envío de correos electrónicos y actividad de envío
 
-Una [!UICONTROL actividad de tipo envío] permite crear una acción de envío. Se puede construir utilizando elementos de entrada.
+Una actividad de tipo [!UICONTROL Envío] permite crear una acción de envío. Se puede construir utilizando elementos de entrada.
 
 En este vídeo, se explica cómo implementar una plantilla de envíos de correos electrónicos. Explica la diferencia entre un envío de correos electrónicos y un flujo de trabajo de envíos.
 
@@ -24,7 +24,7 @@ En este vídeo, se explica cómo implementar una plantilla de envíos de correos
 
 ## Recursos adicionales {#additional-resources}
 
-* [Acerca de las plantillas](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html)
-* [Creación de una plantilla de envíos](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html)
-* [Selección de una asignación de destino](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html)
-* [Creación de una entrega a partir de una plantilla](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html)
+* [Acerca de las plantillas](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=es)
+* [Creación de una plantilla de envíos](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html?lang=es)
+* [Selección de una asignación de destino](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html?lang=es)
+* [Creación de una entrega a partir de una plantilla](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html?lang=es)
