@@ -1,5 +1,5 @@
 ---
-title: Personalización de correos electrónicos mediante campos de personalización
+title: Personalización de correos electrónicos con campos de personalización
 description: Obtenga información sobre cómo agregar un campo de personalización a la línea de asunto y el contenido de un envío de correo electrónico.
 feature: Contenido dinámico
 kt: 7942
@@ -10,14 +10,14 @@ team: TM
 role: Business Practitioner
 level: Beginner
 source-git-commit: 32e930c42dc5c06204ebe250e2ea6aa281c68738
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
 
-# Personalización de correos electrónicos mediante campos de personalización
+# Personalización de correos electrónicos con campos de personalización
 
 Los campos de personalización se utilizan para la personalización de primer nivel del contenido de los mensajes enviados. Los campos que se inserten en un contenido principal muestran la posición en la que se deben insertar los datos desde la fuente de datos seleccionada.
 
