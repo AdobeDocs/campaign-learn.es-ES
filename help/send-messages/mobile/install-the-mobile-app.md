@@ -1,5 +1,5 @@
 ---
-title: Instalación del canal de aplicaciones móviles
+title: Instalación del canal de la aplicación móvil
 description: Obtenga información sobre cómo comprobar si el canal de la aplicación móvil está instalado en la instancia y cómo instalarlo.
 feature: Push
 kt: 7961
@@ -12,13 +12,13 @@ level: Beginner
 hide: true
 hidefromtoc: true
 source-git-commit: ae1ab8936ff47600640c6f4a448c80adc1f1a210
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# Instalación del canal de aplicaciones móviles
+# Instalación del canal de la aplicación móvil
 
 Obtenga información sobre cómo comprobar si el canal de la aplicación móvil está instalado en la instancia y cómo instalarlo.
 
@@ -26,4 +26,4 @@ Obtenga información sobre cómo comprobar si el canal de la aplicación móvil 
 
 ## Recursos adicionales
 
-* [Introducción a la configuración de la aplicación (documentación)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html)
+* [Introducción a la configuración de la aplicación (documentación)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=es)
