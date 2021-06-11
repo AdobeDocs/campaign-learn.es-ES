@@ -1,7 +1,7 @@
 ---
-title: Utilice la actividad de lista de actualización para crear una lista con un flujo de trabajo
+title: Uso de la actividad de lista de actualización para crear una lista con un flujo de trabajo
 description: Comprenda el concepto de listas en Adobe Campaign y aprenda a crear una lista utilizando la actividad de lista de actualización en un flujo de trabajo.
-feature: Flujos de trabajo, actividad de segmentación, editor de consultas
+feature: Flujos de trabajo, actividad de direccionamiento, editor de consultas
 kt: 7988
 thumbnail: 35620.jpg
 doc-type: feature video
@@ -10,14 +10,14 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
 
-# Utilice la actividad de lista de actualización para crear una lista con un flujo de trabajo
+# Uso de la actividad de lista de actualización para crear una lista con un flujo de trabajo
 
 Comprenda el concepto de listas en Adobe Campaign y aprenda a crear una lista utilizando la actividad de lista de actualización en un flujo de trabajo.
 
@@ -26,5 +26,5 @@ Comprenda el concepto de listas en Adobe Campaign y aprenda a crear una lista ut
 ## Recursos adicionales
 
 * [Segmentación de perfiles en un flujo de trabajo](/help/profile-management/target-profiles-in-a-workflow.md)
-* [Refinar destinatarios combinando resultados de consultas](/help/process-management/refine-targets-by-combining-query-results.md)
-* [Refinar destinatarios excluyendo resultados de consultas](/help/process-management/refine-targets-by-excluding-query-results.md)
+* [Refinamiento de destinatarios combinando resultados de consultas](/help/process-management/refine-targets-by-combining-query-results.md)
+* [Refinamiento de destinatarios excluyendo resultados de consultas](/help/process-management/refine-targets-by-excluding-query-results.md)
