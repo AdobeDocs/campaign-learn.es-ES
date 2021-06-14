@@ -1,6 +1,6 @@
 ---
 title: Envío y validación de pruebas
-description: Obtenga información sobre cómo enviar y validar una prueba para una entrega de correo electrónico.
+description: Obtenga información sobre cómo enviar y validar una prueba para un envío de correo electrónico.
 feature: Correo electrónico, Pruebas
 kt: 7848
 thumbnail: 333404.jpg
@@ -12,12 +12,12 @@ level: Beginner
 source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
 workflow-type: tm+mt
 source-wordcount: '34'
-ht-degree: 29%
+ht-degree: 100%
 
 ---
 
 # Envío y validación de pruebas
 
-Obtenga información sobre cómo enviar y validar una prueba para una entrega de correo electrónico.
+Obtenga información sobre cómo enviar y validar una prueba para un envío de correo electrónico.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333404)
