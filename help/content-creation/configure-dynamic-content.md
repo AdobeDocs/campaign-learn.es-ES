@@ -15,7 +15,7 @@ hidefromtoc: true
 source-git-commit: 23c441d426ed7fe40403efa2f29b2b70b379bbe0
 workflow-type: tm+mt
 source-wordcount: '65'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ Descubra los distintos tipos de contenido dinámico, y aprenda a crear y aplicar
 ## Recursos adicionales
 
 * [Personalización de correos electrónicos con bloques de contenido dinámico](/help/content-creation/personalize-using-dynamic-content-blocks.md)
-* [Personalización de correos electrónicos mediante campos de personalización](/help/content-creation/personalize-emails-using-personalization-fields.md)
+* [Personalización de correos electrónicos con campos de personalización](/help/content-creation/personalize-emails-using-personalization-fields.md)
