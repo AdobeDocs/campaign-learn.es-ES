@@ -1,5 +1,5 @@
 ---
-title: Generar un informe de análisis descriptivo
+title: Generación de un informe de análisis descriptivo
 description: Obtenga información sobre cómo generar un informe de análisis descriptivo a partir de un flujo de trabajo en Adobe Campaign V8.
 feature: Creación de informes
 kt: 7841
@@ -12,12 +12,12 @@ level: Beginner
 source-git-commit: 495e99456b53adb650d6a3aac230510e64567fdc
 workflow-type: tm+mt
 source-wordcount: '37'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Generar un informe de análisis descriptivo
+# Generación de un informe de análisis descriptivo
 
 Obtenga información sobre cómo generar un [!UICONTROL informe de análisis descriptivo] a partir de un flujo de trabajo.
 
