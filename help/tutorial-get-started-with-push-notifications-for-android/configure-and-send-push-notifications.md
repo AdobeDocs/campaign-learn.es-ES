@@ -1,5 +1,5 @@
 ---
-title: 'Configuración y envío de notificaciones push '
+title: Configuración y envío de notificaciones push
 description: Aprenda a configurar y enviar una notificación push a los usuarios de la aplicación Android™.
 feature: Push
 kt: 7966
@@ -7,15 +7,15 @@ thumbnail: 328154.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrator, Developer, Business Practitioner
+role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
-source-git-commit: bbb2935aa5900eb05ba1909aa32d775d7ec13eee
+exl-id: bef60865-9d83-46a5-ad2f-77095cb7c6a2
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 100%
 
 ---
-
 
 # Configuración y envío de notificaciones push
 
