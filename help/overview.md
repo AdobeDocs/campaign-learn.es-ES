@@ -3,10 +3,10 @@ title: 'Tutoriales de Adobe Campaign V8: Información general'
 description: Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múltiples para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 sub-product: Campaign V8
 feature: Información general
-role: Business Practitioner, Administrator, Developer
+role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 495e99456b53adb650d6a3aac230510e64567fdc
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 71%
