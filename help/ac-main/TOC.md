@@ -5,10 +5,10 @@ user-guide-title: 'Tutoriales de Adobe Campaign '
 user-guide-description: Adobe Campaign permite a los especialistas en marketing diseñar experiencias para clientes de varios canales y proporciona un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 39d79c9d853214b91e4f192fb01381473ec06ca0
+source-git-commit: 0ca9bf3d2eb01fb00e769bd2edf217b904183203
 workflow-type: tm+mt
 source-wordcount: '296'
-ht-degree: 93%
+ht-degree: 91%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 93%
       + [Diseño de correos electrónicos para su envío](/help/send-messages/email/design-emails-for-deliverability.md)
       + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
    + SMS {#sms}
-      + [Creación de un envío de SMS](/help/send-messages/mobile/create-a-sms-delivery.md)
+      + [Creación de un envío de SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Instalación del canal de la aplicación móvil](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Configuración del canal push mediante el SDK para móviles de Experience Platform](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
