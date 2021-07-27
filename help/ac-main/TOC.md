@@ -5,10 +5,10 @@ user-guide-title: 'Tutoriales de Adobe Campaign '
 user-guide-description: Adobe Campaign permite a los especialistas en marketing diseñar experiencias para clientes de varios canales y proporciona un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 2ab58641e8805dd14b045ca497896f94e3b81647
+source-git-commit: ae66723c1d9cd54b5d378354bd780febadbb73ae
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 95%
+source-wordcount: '296'
+ht-degree: 91%
 
 ---
 
@@ -17,12 +17,12 @@ ht-degree: 95%
 
 + [Información general](/help/overview.md)
 + Introducción {#getting-started}
-   + [Introducción a Adobe Campaign](/help/getting-started/introduction-to-adobe-campaign.md)
-   + [Instalación y configuración del cliente de Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
-   + [Exploración de la interfaz de usuario de Adobe Campaign ](/help/getting-started/explore-the-adobe-campaign-user-interface.md)
-   + [Administración de campañas de marketing](/help/getting-started/manage-marketing-campaigns.md)
-   + [Creación de un plan de marketing, programas y campañas](/help/getting-started/create-a-marketing-plan-programs-and-campaigns.md)
-   + [Creación de campañas activadas por eventos](/help/getting-started/create-event-triggered-campaigns.md)
+   + [Introducción a Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
+   + [Instalación y configuración del cliente de Adobe Campaign](/help/get-started/install-and-setup-the-adobe-campaign-client.md)
+   + [Exploración de la interfaz de usuario de Adobe Campaign ](/help/get-started/explore-the-adobe-campaign-user-interface.md)
+   + [Administración de campañas de marketing](/help/get-started/manage-marketing-campaigns.md)
+   + [Creación de un plan de marketing, programas y campañas](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
+   + [Creación de campañas activadas por eventos](/help/get-started/create-event-triggered-campaigns.md)
 + Administración de perfiles {#profile-management}
    + [Creación y administración de perfiles](/help/profile-management/create-and-manage-profiles.md)
    + [Segmentación de perfiles en un flujo de trabajo](/help/profile-management/target-profiles-in-a-workflow.md)
@@ -65,12 +65,12 @@ ht-degree: 95%
 + Administración y automatización de procesos{#process-management}
    + [Creación de un flujo de trabajo](/help/process-management/create-a-workflow.md)
    + [Creación de envíos recurrentes y continuos](/help/process-management/recurring-deliveries.md)
-   + [Creación de un flujo de trabajo de segmentación](/help/process-management/create-a-targeting-workflow.md)
-   + [Uso de la actividad de lista de actualización para crear una lista con un flujo de trabajo](/help/process-management/use-the-update-list-activity.md)
+   + [Creación de flujos de trabajo de objetivos](/help/process-management/create-a-targeting-workflow.md)
    + [Refinamiento de destinatarios combinando resultados de consultas](/help/process-management/refine-targets-by-combining-query-results.md)
    + [Refinamiento de destinatarios excluyendo resultados de consultas](/help/process-management/refine-targets-by-excluding-query-results.md)
    + [Creación de flujos de trabajo de validación](/help/process-management/create-validation-workflows.md)
    + [Administrar aprobaciones](/help/process-management/manage-approvals.md)
+   + [Usar la actividad de lista de actualización](/help/process-management/use-the-update-list-activity.md)
    + [Configuración de actividades de enriquecimiento](/help/process-management/enrichment-activity.md)
 + Administración de datos {#data-management}
    + [Importar perfiles](/help/data-management/import-profiles.md)
