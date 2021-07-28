@@ -1,28 +1,26 @@
 ---
 title: Creación de campañas en canales múltiples
-description: Aprenda a crear una campaña de canal a canal.
+description: Aprenda a crear una campaña en canales múltiples utilizando envíos de correo electrónico y correo directo en función de la interacción del cliente con la primera entrega.
 feature: Flujos de trabajo
-kt: 7018
-thumbnail: 330990.jpg
+kt: 7798
+thumbnail: 335607.jpg
 doc-type: feature video
 activity: use
 team: TM
-hide: true
-hidefromtoc: true
-source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
+source-git-commit: e28e2f83ef1cbf82fe4969420bd80faae27e3a17
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 100%
+source-wordcount: '93'
+ht-degree: 16%
 
 ---
 
 # Creación de campañas en canales múltiples
 
-En una campaña en canales múltiples, una sola comunicación de marketing utiliza varios canales para llegar a una audiencia objetivo más amplia en función del canal de destinatario preferido.
+En una campaña multicanal, una sola comunicación de marketing utiliza diferentes canales. Los datos se pasan entre los canales. El cliente recibe comunicaciones a través de varios canales en función, por ejemplo, de su interacción con la comunicación anterior.
 
-Obtenga información sobre cómo crear una campaña en canales múltiples mediante correo electrónico, SMS y envíos de correo directo.
+Aprenda a crear una campaña en canales múltiples utilizando envíos de correo electrónico y correo directo en función de la interacción del cliente con la primera entrega.
 
->[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335607?quality=12)
 
 ## Recursos adicionales
 
