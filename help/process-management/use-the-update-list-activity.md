@@ -2,15 +2,14 @@
 title: Uso de la actividad de lista de actualización para crear una lista con un flujo de trabajo
 description: Comprenda el concepto de listas en Adobe Campaign y aprenda a crear una lista utilizando la actividad de lista de actualización en un flujo de trabajo.
 feature: Flujos de trabajo, actividad de direccionamiento, editor de consultas
-kt: 7988
-thumbnail: 35620.jpg
+kt: 7840
+thumbnail: 334909.jpg
 doc-type: feature video
 activity: use
-team: WWFRE
+team: TM
 role: User
 level: Beginner
-exl-id: a8cc7fed-0818-4dcb-8360-fda9dc79dae7
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: ae66723c1d9cd54b5d378354bd780febadbb73ae
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
@@ -21,7 +20,7 @@ ht-degree: 100%
 
 Comprenda el concepto de listas en Adobe Campaign y aprenda a crear una lista utilizando la actividad de lista de actualización en un flujo de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334909?quality=12)
 
 ## Recursos adicionales
 
