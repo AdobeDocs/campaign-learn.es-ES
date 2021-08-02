@@ -1,6 +1,6 @@
 ---
 title: Refinamiento de destinatarios excluyendo resultados de consultas
-description: Aprenda a refinar el destinatario aplicando una exclusión estándar a un flujo de trabajo y a crear filtros predefinidos y a solucionar problemas en el flujo de trabajo.
+description: Aprenda a refinar el objetivo aplicando una  exclusión estándar en un flujo de trabajo. Aprenda a crear filtros predefinidos y a crear problemas en el flujo de trabajo.
 feature: Flujos de trabajo, actividad de direccionamiento, editor de consultas
 kt: 7845
 thumbnail: 335609.jpg
@@ -10,16 +10,16 @@ team: TM
 role: User
 level: Beginner
 exl-id: b10ac23b-8625-42e2-92ce-3c1dfbac4127
-source-git-commit: 3ea823cd6d68b646e8d1e2b7d6ea672dc0bf2bf0
+source-git-commit: 5a965ea73bfe3b04d388c1db1c16c25c2aaae44e
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 46%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Refinamiento de destinatarios excluyendo resultados de consultas
 
-Aprenda a refinar el destinatario aplicando una **[!UICONTROL exclusión estándar]** a un flujo de trabajo y a crear filtros predefinidos y a solucionar problemas en el flujo de trabajo.
+Aprenda a refinar el objetivo aplicando una  exclusión estándar en un flujo de trabajo. Aprenda a crear filtros predefinidos y a crear problemas en el flujo de trabajo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12)
 
