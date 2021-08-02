@@ -1,6 +1,6 @@
 ---
 title: Refinamiento de destinatarios combinando resultados de consultas
-description: Aprenda a refinar el segmento combinando los resultados de la consulta en un flujo de trabajo mediante actividades de intersección o unión.
+description: Aprenda a refinar el destinatario utilizando actividades de intersección o unión para combinar resultados de consulta en un flujo de trabajo.
 feature: Flujos de trabajo, actividad de direccionamiento, editor de consultas
 kt: 7844
 thumbnail: 334304.jpg
@@ -10,16 +10,16 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 54bfc29ea7ad14325b13f8ca488c4ff207c2f3a8
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 100%
+source-wordcount: '80'
+ht-degree: 52%
 
 ---
 
 # Refinamiento de destinatarios combinando resultados de consultas
 
-Aprenda a refinar el segmento combinando los resultados de la consulta en un flujo de trabajo mediante actividades de **[!UICONTROL intersección]** o **[!UICONTROL unión]**.
+Aprenda a refinar el destinatario utilizando actividades de intersección o unión para combinar resultados de consulta en un flujo de trabajo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12)
 
