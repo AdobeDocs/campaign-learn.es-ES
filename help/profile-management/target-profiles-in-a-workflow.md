@@ -1,7 +1,6 @@
 ---
 title: Segmentación de perfiles en un flujo de trabajo
-description: Comprenda el uso de flujos de trabajo de campañas, y aprenda a crear un flujo de trabajo y segmentar destinatarios en un flujo de trabajo mediante condiciones de filtrado.
-feature: Flujos de trabajo
+description: Comprenda el uso de los flujos de trabajo de la campaña y aprenda a crear un flujo de trabajo y utilizar las condiciones de filtrado para dirigirse a los perfiles de un flujo de trabajo.
 kt: 7842
 thumbnail: 334300.jpg
 doc-type: feature video
@@ -9,16 +8,16 @@ activity: use
 team: WWFRE
 role: User
 level: Beginner
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 08e46479272cd319377fdf27f8585acc47deea06
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 100%
+source-wordcount: '84'
+ht-degree: 45%
 
 ---
 
 # Segmentación de perfiles en un flujo de trabajo
 
-Comprenda el uso de flujos de trabajo de campañas y aprenda a crear un flujo de trabajo y segmentar destinatarios en un flujo de trabajo mediante condiciones de filtrado.
+Comprenda el uso de los flujos de trabajo de la campaña y aprenda a crear un flujo de trabajo y utilizar las condiciones de filtrado para dirigirse a los perfiles de un flujo de trabajo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12)
 
