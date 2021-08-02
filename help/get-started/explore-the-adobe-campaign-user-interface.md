@@ -1,6 +1,6 @@
 ---
 title: 'Exploración de la interfaz de usuario de Adobe Campaign '
-description: Conozca la interfaz de usuario de Adobe Campaign y aprenda a desplazarse por la funcionalidad principal.
+description: Obtenga información sobre la interfaz de usuario de Adobe Campaign V8 y cómo navegar por las funciones principales.
 feature: Información general
 kt: 7828
 thumbnail: 334496.jpg
@@ -9,15 +9,15 @@ activity: understand
 team: TM
 role: User
 level: Beginner
-source-git-commit: 39d79c9d853214b91e4f192fb01381473ec06ca0
+source-git-commit: 78ccc8b03e404a67cce1843780fa78dc4c28d074
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Exploración de la interfaz de usuario de Adobe Campaign 
 
-Conozca la interfaz de usuario de Adobe Campaign y aprenda a desplazarse por la funcionalidad principal.
+Obtenga información sobre la interfaz de usuario de Adobe Campaign V8 y cómo navegar por las funciones principales.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334496?quality=12)
