@@ -11,17 +11,17 @@ role: User
 level: Beginner
 exl-id: 8a6e8580-24c2-44d9-88bc-1120bfdd9e8a
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
-# Administrar la fatiga mediante reglas de tipología
+# Administración de la fatiga mediante reglas de tipología
 
-La administración de la fatiga controla la frecuencia y la cantidad de mensajes para evitar la saturación de destinatarios y a menudo se aplica usando reglas de tipología.
+La administración de la fatiga controla la frecuencia y la cantidad de mensajes para evitar saturar a los destinatarios y, a menudo, se aplica usando reglas de tipología.
 
-Obtenga información sobre cómo implementar la administración de la fatiga en Adobe Campaign mediante reglas de tipología.
+Aprenda a implementar la administración de la fatiga en Adobe Campaign mediante reglas de tipología.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12)
 
