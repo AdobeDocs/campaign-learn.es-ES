@@ -1,6 +1,6 @@
 ---
 title: Refinamiento de destinatarios combinando resultados de consultas
-description: Aprenda a refinar el destinatario utilizando actividades de intersección o unión para combinar resultados de consulta en un flujo de trabajo.
+description: Obtenga información sobre cómo refinar los destinatarios utilizando actividades de intersección o unión para combinar resultados de consulta en un flujo de trabajo.
 feature: Flujos de trabajo, actividad de direccionamiento, editor de consultas
 kt: 7844
 thumbnail: 334304.jpg
@@ -11,15 +11,15 @@ role: User
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
 source-git-commit: 54bfc29ea7ad14325b13f8ca488c4ff207c2f3a8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 52%
+ht-degree: 100%
 
 ---
 
 # Refinamiento de destinatarios combinando resultados de consultas
 
-Aprenda a refinar el destinatario utilizando actividades de intersección o unión para combinar resultados de consulta en un flujo de trabajo.
+Obtenga información sobre cómo refinar los destinatarios utilizando actividades de intersección o unión para combinar resultados de consulta en un flujo de trabajo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12)
 
