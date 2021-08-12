@@ -9,7 +9,7 @@ exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: b2f45f3ac832b0fca913a74d2df2baa6303e5a43
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -19,11 +19,11 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
 >[!NOTE]
 > Actualmente, Campaign v8 solo está disponible como Cloud Service administrado y no se puede implementar en entornos locales o híbridos. La migración desde un entorno de Campaign Classic v7 existente aún no está disponible.
->Consulte la [documentación del producto Classic v7 a V8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html) para obtener más información acerca de las diferencias entre las dos versiones. Consulte también la sección [Tutoriales de Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=es) para ver vídeos con instrucciones.
+>Consulte la [documentación del producto Classic v7 a V8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=es) para obtener más información acerca de las diferencias entre las dos versiones. Consulte también la sección [Tutoriales de Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=es) para ver vídeos con instrucciones.
 
 ## Novedades
 
-[Funcionalidades clave](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)
+[Funcionalidades clave](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=es)
 
 ## Nuestra selección
 
@@ -35,7 +35,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
     </a>
     <div>
       <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
-    <strong>Crear un plan de marketing</strong>
+    <strong>Creación de un plan de marketing</strong>
     </a>
     </div>
     <p>
@@ -44,29 +44,29 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
   </td>
    <td>
     <a href="./content-creation/create-and-design-email-deliveries.md">
-      <img alt="Creación y diseño de envíos de correo electrónico (vídeo)" src="./assets/333476.jpg" />
+      <img alt="Creación y diseño de entregas de correo electrónico (vídeo)" src="./assets/333476.jpg" />
     </a>
     <div>
       <a href="./content-creation/create-and-design-email-deliveries.md">
-    <strong>Creación y diseño de envíos de correos electrónicos</strong>
+    <strong>Creación y diseño de entregas de correo electrónico</strong>
     </a>
     </div> 
     <p>
-    <em>Comprenda el proceso de creación de un envío de correo electrónico, y aprenda a diseñar y personalizar el contenido del correo electrónico.
+    <em>Comprenda el proceso de creación de una entrega de correo electrónico, y obtenga información sobre cómo diseñar y personalizar el contenido del correo electrónico.
 </em>
     <p>
   </td>
   <td>
     <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
-      <img alt="Gestión de la fatiga mediante reglas de tipología (vídeo)" src="./assets/333787.jpg" />
+      <img alt="Administración de la fatiga mediante reglas de tipología (vídeo)" src="./assets/333787.jpg" />
     </a>
     <div>
       <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
-    <strong>Administrar la fatiga mediante reglas de tipología</strong>
+    <strong>Administración de la fatiga mediante reglas de tipología</strong>
     </a>
     </div>
     <p>
-    <em>Obtenga información sobre cómo implementar la administración de la fatiga en Adobe Campaign mediante reglas de tipología.  </em>
+    <em>Obtenga información sobre cómo implementar la administración de la fatiga en Adobe Campaign mediante reglas de tipología. </em>
     <p>
   </td>
 </tr>
@@ -82,7 +82,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
     </a>
     </div>
     <p>
-    <em>Obtenga información sobre cómo generar un [!UICONTROL informe de análisis descriptivo] a partir de un flujo de trabajo.</em>
+    <em>Obtenga información sobre cómo generar un informe de análisis descriptivo a partir de un flujo de trabajo.</em>
     <p>
   </td>
 
@@ -90,4 +90,4 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
 ## Recursos adicionales
 
-* [Documentación](https://experienceleague.adobe.com/docs/campaign-v8.html)
+* [Documentación](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=es)
