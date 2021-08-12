@@ -10,13 +10,13 @@ role: Admin, Developer
 level: Experienced
 exl-id: 91ff4bae-8598-4227-b4c9-4e436ce7400d
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
 ht-degree: 100%
 
 ---
 
-# Introducción a las notificaciones push para Android, presentación
+# Introducción a las notificaciones push para Android
 
 Adobe Campaign permite enviar notificaciones [!DNL push] personalizadas y segmentadas a dispositivos móviles [!DNL iOS] y [!DNL Android™]. En este tutorial, se explican los pasos necesarios para enviar notificaciones [!DNL push] de Adobe Campaign a una aplicación de [!DNL Android™].
 
