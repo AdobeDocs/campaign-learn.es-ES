@@ -6,9 +6,9 @@ user-guide-description: Adobe Campaign permite a los especialistas en marketing 
 breadcrumb-title: Tutoriales
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 source-git-commit: b992915fa4eae36296ea23f8b073458418014cf4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 90%
 + [Información general](/help/overview.md)
 + Introducción {#getting-started}
    + [Introducción a Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
-   + [Instalación y configuración de la consola de cliente de Adobe Campaign](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
-   + [Exploración de la interfaz de usuario de Adobe Campaign ](/help/get-started/explore-the-adobe-campaign-user-interface.md)
+   + [Instalación y configuración de la consola del cliente de Adobe Campaign](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
+   + [Exploración de la interfaz de usuario de Adobe Campaign](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [Administración de campañas de marketing](/help/get-started/manage-marketing-campaigns.md)
    + [Creación de un plan de marketing, programas y campañas](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
    + [Creación de campañas activadas por eventos](/help/get-started/create-event-triggered-campaigns.md)
@@ -48,7 +48,7 @@ ht-degree: 90%
       + [Diseño de correos electrónicos para su envío](/help/send-messages/email/design-emails-for-deliverability.md)
       + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
    + SMS {#sms}
-      + [Creación de un envío de SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
+      + [Creación de una entrega SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Instalación del canal de la aplicación móvil](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Configuración del canal push mediante el SDK para móviles de Experience Platform](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
@@ -65,15 +65,15 @@ ht-degree: 90%
 + Administración y automatización de procesos{#process-management}
    + [Creación de un flujo de trabajo](/help/process-management/create-a-workflow.md)
    + [Creación de envíos recurrentes y continuos](/help/process-management/recurring-deliveries.md)
-   + [Creación de flujos de trabajo de objetivos](/help/process-management/create-a-targeting-workflow.md)
+   + [Creación de flujos de trabajo de segmentación](/help/process-management/create-a-targeting-workflow.md)
    + [Refinamiento de destinatarios combinando resultados de consultas](/help/process-management/refine-targets-by-combining-query-results.md)
    + [Refinamiento de destinatarios excluyendo resultados de consultas](/help/process-management/refine-targets-by-excluding-query-results.md)
    + [Creación de flujos de trabajo de validación](/help/process-management/create-validation-workflows.md)
    + [Administrar aprobaciones](/help/process-management/manage-approvals.md)
-   + [Usar la actividad de lista de actualización](/help/process-management/use-the-update-list-activity.md)
+   + [Uso de la actividad Actualizar lista](/help/process-management/use-the-update-list-activity.md)
    + [Configuración de actividades de enriquecimiento](/help/process-management/enrichment-activity.md)
 + Administración de datos {#data-management}
-   + [Importar perfiles](/help/data-management/import-profiles.md)
+   + [Importación de perfiles](/help/data-management/import-profiles.md)
    + [Replicación de datos](/help/data-management/data-replication.md)
 + Conectar con otras soluciones {#connect}
    + [Administración de big data en Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
