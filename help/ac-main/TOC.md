@@ -5,10 +5,10 @@ user-guide-title: 'Tutoriales de Adobe Campaign '
 user-guide-description: Adobe Campaign permite a los especialistas en marketing diseñar experiencias para clientes de varios canales y proporciona un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: b992915fa4eae36296ea23f8b073458418014cf4
-workflow-type: ht
-source-wordcount: '297'
-ht-degree: 100%
+source-git-commit: 4fc34f56e13c3df5f1c42c24c87a6c7c5caff04b
+workflow-type: tm+mt
+source-wordcount: '306'
+ht-degree: 98%
 
 ---
 
@@ -84,4 +84,5 @@ ht-degree: 100%
 + Monitorización {#monitoring}
    + [Mapa de calor del flujo de trabajo](/help/monitoring/workflow-heatmap.md)
    + [Pista de auditoría](/help/monitoring/audit-trail.md)
-
++ Administración {#administration}
+   + [Panel de control de Campaign](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)
