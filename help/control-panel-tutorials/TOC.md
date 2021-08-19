@@ -7,10 +7,10 @@ index: true
 feature: Panel de control de Campaign
 role: Admin
 level: Experienced
-source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
+source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 46%
+source-wordcount: '89'
+ht-degree: 49%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 46%
 + [Introducción al Panel de control de Campaign](/help/control-panel-tutorials/get-started.md)
 + Administración SFTP {#sftp-management}
    + [Monitorización de la capacidad del servidor](/help/control-panel-tutorials/sftp-management/monitor-server-capacity.md)
-   + [Añadir un rango de IP a la lista de permitidos](/help/control-panel-tutorials/sftp-management/add-ip-range-to-allowlist.md)
+   + [rangos de IP de lista de permitidos](/help/control-panel-tutorials/sftp-management/allowlist-ip-range.md)
    + [Generar una clave SSH](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Conexión a un servidor SFTP](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Configuración de instancias {#instance-settings}
-   + [Añadir direcciones IP a listas de permitidos](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
+   + [Direcciones IP de lista de permitidos](/help/control-panel-tutorials/instance-settings/allowlist-ip-address.md)
    + [Agregar permisos de URL](/help/control-panel-tutorials/instance-settings/add-url-permissions.md)
    + Administración de claves GPG {#gpg-key-management}
       + [Información general](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
