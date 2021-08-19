@@ -7,17 +7,17 @@ index: true
 feature: Panel de control de Campaign
 role: Admin
 level: Experienced
-source-git-commit: 4fc34f56e13c3df5f1c42c24c87a6c7c5caff04b
+source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 48%
+source-wordcount: '94'
+ht-degree: 46%
 
 ---
 
 
 # Panel de control de Campaign: tutoriales {#control-panel}
 
-+ [Información general del Panel de control de Campaign](/help/control-panel-tutorials/control-panel-overview.md)
++ [Información general](/help/control-panel-tutorials/control-panel-overview.md)
 + [Introducción al Panel de control de Campaign](/help/control-panel-tutorials/get-started.md)
 + Administración SFTP {#sftp-management}
    + [Monitorización de la capacidad del servidor](/help/control-panel-tutorials/sftp-management/monitor-server-capacity.md)
@@ -28,8 +28,8 @@ ht-degree: 48%
    + [Añadir direcciones IP a listas de permitidos](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
    + [Agregar permisos de URL](/help/control-panel-tutorials/instance-settings/add-url-permissions.md)
    + Administración de claves GPG {#gpg-key-management}
-      + [Administración de claves GPG: información general](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [Generar e instalar claves GPG para el cifrado de datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md)
+      + [Información general](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+      + [Generar e instalar claves GPG](/help/control-panel-tutorials/instance-settings/gpg-key-management/generate-and-install-gpg-keys.md)
       + [Utilizar una clave GPG para cifrar datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/use-a-gpg-key-to-encrypt-data.md)
       + [Descifrar datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypt-data.md)
 + Supervisión del rendimiento {#performance-monitoring}
