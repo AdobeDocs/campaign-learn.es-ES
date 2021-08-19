@@ -1,23 +1,23 @@
 ---
 title: Panel de control de Campaign    - Información general
-description: Adobe Campaign Panel de control de Campaign permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como administrar el almacenamiento SFTP por instancia, administrar claves GPG o subdominios y certificados.
-landing-page-description: El Panel de control de Campaign permite a los administradores monitorizar los activos clave y realizar tareas administrativas como, por ejemplo, la administración del almacenamiento SFTP, claves GPG, o subdominios y certificados.
+description: Panel de control de Campaign permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como administrar el almacenamiento SFTP por instancia, permitir la inclusión de direcciones IP o administrar claves GPG.
+landing-page-description: El Panel de control de Campaign de Adobe Campaign permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como administrar el almacenamiento SFTP por instancia, permitir la inclusión de direcciones IP o administrar claves GPG.
 feature: 'Panel de control de Campaign   '
 doc-type: feature video
 activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
+source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 54%
+source-wordcount: '216'
+ht-degree: 41%
 
 ---
 
 # Información general del Panel de control de Campaign
 
-Adobe Campaign Panel de control de Campaign permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como administrar el almacenamiento SFTP por instancia, administrar claves GPG o subdominios y certificados.
+Panel de control de Campaign permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como administrar el almacenamiento SFTP por instancia, permitir la inclusión de direcciones IP o administrar claves GPG.
 
 ## Nuestra selección
 
