@@ -12,9 +12,9 @@ level: Experienced
 hide: true
 hidefromtoc: true
 exl-id: aacbec3e-6281-497d-9cf5-bace5a6a11a1
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '104'
+source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
+workflow-type: tm+mt
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ AMP para correo electrónico es un nuevo formato de código abierto que permite 
 
 Actualmente, solo Gmail, Outlook y Mail.ru admiten el formato AMP.
 
-El siguiente vídeo explica cómo activar AMP en Adobe Campaign Classic y cómo usarlo.
+El siguiente vídeo explica cómo activar AMP en Adobe Campaign y cómo usarlo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
