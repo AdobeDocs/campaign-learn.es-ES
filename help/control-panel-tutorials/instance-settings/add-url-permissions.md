@@ -1,6 +1,6 @@
 ---
 title: Añadir permisos de URL
-description: Obtenga información sobre cómo establecer una conexión desde la instancia de Adobe Campaign Classic a una URL externa.
+description: Obtenga información sobre cómo establecer una conexión desde la instancia de Adobe Campaign a una URL externa.
 feature: Panel de control de Campaign
 kt: 8514
 thumbnail: 28149.jpg
@@ -9,16 +9,16 @@ activity: use
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 16%
+source-wordcount: '52'
+ht-degree: 17%
 
 ---
 
 # Añadir permisos de URL
 
-Obtenga información sobre cómo establecer una conexión desde la instancia [!UICONTROL Adobe Campaign Classic] a una URL externa.
+Obtenga información sobre cómo establecer una conexión desde la instancia [!UICONTROL Adobe Campaign] a una URL externa.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
 
