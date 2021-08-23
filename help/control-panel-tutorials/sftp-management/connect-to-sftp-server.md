@@ -9,10 +9,10 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: 1febbcfc007f231ef797ef203830df9c0ef1a14e
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 57%
+ht-degree: 52%
 
 ---
 
@@ -25,7 +25,7 @@ Para acceder a la administración del SFTP en el panel de control de Campaign, v
 * [Página de inicio de Experience Cloud](https://experience.adobe.com/#/home) > Selector de soluciones: **[!DNL Campaign]** > tarjeta del **panel de control de Campaign** > tarjeta **SFTP**
 
    o
-* Directamente desde la dirección URL: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
+* Directamente desde la dirección URL: [https://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
 
 ## Conexión a un servidor SFTP
 
