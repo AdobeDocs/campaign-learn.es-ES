@@ -1,5 +1,5 @@
 ---
-title: Monitorizar bases de datos
+title: Monitorización de bases de datos
 description: Aprenda a monitorizar el uso de la base de datos de sus instancias.
 feature: Panel de control de Campaign
 kt: 8519
@@ -11,15 +11,15 @@ team: TM
 role: Admin
 level: Experienced
 source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
-# Monitorizar bases de datos
+# Monitorización de bases de datos
 
-Todos los recursos, flujos de trabajo y datos de la instancia de Campaign se almacenan en la base de datos. La base de datos que alcanza su capacidad máxima puede provocar problemas con su instancia (incapacidad para iniciar sesión, enviar correos electrónicos, etc.). Por lo tanto, es esencial monitorizar las bases de datos de las instancias regularmente para garantizar un rendimiento óptimo.
+Todos los recursos, flujos de trabajo y datos de la instancia de Campaign se almacenan en la base de datos. Si la base de datos alcanza su capacidad máxima, puede haber problemas con su instancia (incapacidad para iniciar sesión, enviar correos electrónicos, etc.). Por lo tanto, es esencial monitorizar las bases de datos de las instancias regularmente para garantizar un rendimiento óptimo.
 
 Aprenda a monitorizar el uso de la base de datos de sus instancias.
 
