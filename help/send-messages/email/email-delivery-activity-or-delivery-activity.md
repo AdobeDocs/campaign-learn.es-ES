@@ -1,5 +1,5 @@
 ---
-title: Actividad de envío de correos electrónicos y actividad de envío
+title: Actividad de envío de correos electrónicos frente a actividad de entrega
 description: En este vídeo se explica cómo configurar y utilizar una plantilla de envíos.
 feature: Plantillas de envíos
 kt: 3232
@@ -7,7 +7,7 @@ doc-type: feature video
 activity: use
 team: TM
 source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
 ht-degree: 100%
 
