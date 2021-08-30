@@ -1,6 +1,6 @@
 ---
 title: Monitorización de la capacidad del servidor
-description: Obtenga información sobre cómo monitorizar y administrar su almacenamiento SFTP por instancia y añada direcciones IP a listas de permitidos.
+description: Obtenga información sobre cómo monitorizar y administrar su almacenamiento SFTP por instancia y añadir direcciones IP a listas de permitidos.
 feature: Panel de control de Campaign
 audience: administrator
 kt: 8510
@@ -11,26 +11,26 @@ team: TM
 role: Admin
 level: Experienced
 source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 17%
+ht-degree: 100%
 
 ---
 
 # Monitorización de la capacidad del servidor
 
-El Panel de control de Campaign le permite supervisar y administrar su almacenamiento SFTP por instancia.
+El panel de control de Campaign le permite monitorizar y administrar su almacenamiento SFTP por instancia.
 
-## Acceso a la administración de subdominios [!UICONTROL Panel de control de Campaign]
+## Acceso a la administración del subdominio con el [!UICONTROL panel de control de Campaign]
 
-Para acceder a la Administración de subdominios en [!UICONTROL Panel de control de Campaign], vaya a:
+Para acceder a la administración de subdominios en el [!UICONTROL panel de control de Campaign], vaya a:
 
-* [Página de inicio del Experience Cloud](https://experience.adobe.com/#/home)  > Selector  [!UICONTROL de soluciones]:  [!UICONTROL Campaña]  >  **[!UICONTROL Panel de]** control >  **[!UICONTROL Subdominios y tarjeta de]** certificado
+* [Inicio de Experience Cloud](https://experience.adobe.com/#/home) > [!UICONTROL Selector de soluciones]: tarjeta de [!UICONTROL Campaign] > **[!UICONTROL Panel de control de Campaign]** > tarjeta de **[!UICONTROL Subdominios y certificados]**
 
    o
 * Directamente desde la dirección URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
-## Monitorice la capacidad del servidor, [!UICONTROL direcciones IP de lista de permitidos] y agregue claves SSH
+## Monitorización de la capacidad del servidor, inclusión de direcciones IP a [!UICONTROL listas de permitidos] y adición de claves SSH
 
 Obtenga información sobre cómo monitorizar la capacidad de almacenamiento de sus servidores SFTP.
 
