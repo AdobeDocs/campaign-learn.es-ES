@@ -5,10 +5,10 @@ user-guide-title: 'Tutoriales de Adobe Campaign '
 user-guide-description: Adobe Campaign permite a los especialistas en marketing diseñar experiencias para clientes de varios canales y proporciona un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
-workflow-type: ht
-source-wordcount: '318'
-ht-degree: 100%
+source-git-commit: bd4a1a00c23e70d7e59946255a93511ee7a65e79
+workflow-type: tm+mt
+source-wordcount: '328'
+ht-degree: 96%
 
 ---
 
@@ -76,6 +76,7 @@ ht-degree: 100%
 + Administración de datos {#data-management}
    + [Importación de perfiles](/help/data-management/import-profiles.md)
    + [Replicación de datos](/help/data-management/data-replication.md)
+   + [Tutorial: Uso de API SOAP](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html?lang=en)
 + Conectar con otras soluciones {#connect}
    + [Administración de big data en Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
    + [Integración con Dynamics 365](/help/connect/dynamics365-integration.md)
