@@ -4,10 +4,9 @@ description: Obtenga información sobre cómo generar un token de sesión utiliz
 feature: API
 kt: 8163
 thumbnail: 336639.jpg
-type: feature video
 role: Admin, Developer
 level: Experienced
-source-git-commit: d68fc50e574567059e38b644ba7a3275ce3a21fc
+source-git-commit: 8de1ac833bd1c5d3298f45cacca1f0ead4c77fb3
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 0%
