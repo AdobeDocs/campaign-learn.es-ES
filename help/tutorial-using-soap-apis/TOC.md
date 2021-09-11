@@ -3,7 +3,7 @@ user-guide-title: Uso de las API SOAP de Campaign
 user-guide-description: Aprenda a utilizar la API de Adobe Campaign Soap y cree un flujo de trabajo de envío avanzado.
 breadcrumb-title: Uso de las API SOAP de Campaign
 breadcrumb-url: /docs/campaign-learn/using-soap-apis/introduction.html
-source-git-commit: d68fc50e574567059e38b644ba7a3275ce3a21fc
+source-git-commit: ee6980355860a0fee79bbdfd3f11533e287b7f21
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 2%
