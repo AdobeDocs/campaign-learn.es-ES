@@ -7,9 +7,9 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
+source-git-commit: 9f95ebbbd5fb9fbb1b586eb8edee6e68599a2dec
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,5 +22,5 @@ Aprenda a crear un flujo de trabajo que alerte a los destinatarios de cualquier 
 
 *Consulte los datos utilizando diferentes dimensiones de segmentación y filtrado, y cómo unir las salidas mediante una intersección.*
 
-**Paso 2:** [Envío de una entrega a ](/help/tutorial-use-soap-apis/send-delivery-to%20subscribed-recipients.md)
+**Paso 2:** [Envío de una entrega a ](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
 *destinatarios suscritosObtenga información sobre cómo unir datos a dos segmentos, crear un mensaje de correo electrónico de alerta de artículo y personalizarlo en función de los datos recibidos de una API externa.*
