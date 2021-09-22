@@ -1,5 +1,5 @@
 ---
-title: 'Creación de una entrega de correo electrónico de "alerta de artículo nuevo" para suscriptores: información general'
+title: 'Creación de una entrega de alertas de artículo: Información general'
 description: Aprenda a crear un flujo de trabajo que alerte a los destinatarios de cualquier artículo nuevo al que se hayan suscrito mediante una entrega por correo electrónico.
 feature: Workflows, Targeting Activity, Query Editor
 doc-type: feature video
@@ -7,14 +7,14 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 87bf30887ee6dfd08094ce4a94a7cd1cdcaa2641
+source-git-commit: cd82b3ba087ed7d724798b1604588834475a3f5c
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# Creación de una entrega de correo electrónico de &quot;alerta de artículo nuevo&quot; para suscriptores: información general
+# Creación de una entrega de alertas de artículo: Información general
 
 Aprenda a crear un flujo de trabajo que alerte a los destinatarios de cualquier artículo nuevo al que se hayan suscrito mediante una entrega por correo electrónico.
 
