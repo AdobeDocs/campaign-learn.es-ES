@@ -2,14 +2,14 @@
 title: 'Tutoriales de Adobe Campaign V8: Información general'
 description: Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múltiples para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 sub-product: Campaign V8
-feature: Información general
+feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
-workflow-type: ht
-source-wordcount: '364'
-ht-degree: 100%
+source-git-commit: 3469a37e5142174d9dd69272397a7854bc1674fa
+workflow-type: tm+mt
+source-wordcount: '395'
+ht-degree: 91%
 
 ---
 
@@ -26,6 +26,9 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
 ## Novedades
 
+* **[Tutorial: Uso de API SOAP en flujos de trabajo](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html)**
+
+   *Aprenda a utilizar la API de Adobe Campaign Soap y cree un flujo de trabajo de envío avanzado basado en los datos recibidos mediante la API.*
 * **[Panel de control de Campaign](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=es)**
 
    *Obtenga información sobre cómo monitorizar los activos clave y realizar tareas de gestión, como administrar el almacenamiento SFTP por instancia, o las claves GPG, e incluir direcciones IP en la lista de permitidos.*
