@@ -9,9 +9,9 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 4f6c43abc595a9dd19a9fcfbca0ad35ceb084e9e
+source-git-commit: a30d1c80a8ee3d41c7bdbdf355a4ad0227251414
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Envío automatizado de correo electrónico
 
-Obtenga información sobre cómo unir dos segmentos y añadir un envío de correo electrónico personalizado, que contenga un compendio de contenido, al flujo de trabajo de suscripción al boletín informativo creado en el paso anterior: [Vídeo de artículos de consulta y valores de suscripción de destinatario](/help/tutorial-using-soap-apis/query-articles-and-recipient-subscription-values.md).
+Obtenga información sobre cómo unir dos segmentos y añadir un envío de correo electrónico personalizado,  con la información del artículo recibida mediante una API, al flujo de trabajo de suscripción al boletín informativo creado en el paso anterior: [Vídeo de artículos de consulta y valores de suscripción de destinatario](/help/tutorial-using-soap-apis/query-articles-and-recipient-subscription-values.md).
 
 >[!VIDEO](https://video.tv.adobe.com/v/336904?quality=12)
