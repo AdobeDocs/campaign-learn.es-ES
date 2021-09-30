@@ -1,5 +1,5 @@
 ---
-title: Conectar datos de Campaign con una fuente en Adobe Experience Platform
+title: Conectar datos de Campaign con S3 como fuente en Adobe Experience Platform
 description: Obtenga información sobre cómo introducir datos mediante un conector de origen en Experience Platform para actualizar los datos de perfil con los registros de campaña exportados.
 feature: Data Import/Export, Data Management
 kt: 8159
@@ -9,15 +9,15 @@ activity: use
 team: TM
 role: Developer
 level: Experienced
-source-git-commit: 9a75069ee3bb9352ba7fa5350eb54e421e9427c8
+source-git-commit: c685927a01d08ae6533399ad2466967c6cd3f9fd
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Conectar datos de Campaign con una fuente en Adobe Experience Platform
+# Conectar datos de Campaign con S3 como fuente en Adobe Experience Platform
 
 Obtenga información sobre cómo introducir datos mediante un conector de origen en Experience Platform para actualizar los datos de perfil con los registros de campaña exportados.
 
