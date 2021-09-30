@@ -1,6 +1,6 @@
 ---
 title: 'Crear un flujo de trabajo de exportación (parte 2): Extraer, formatear y guardar datos en una cuenta externa'
-Description: In this second part of the Create an Export Workflow tutorial, you learn how to format the data for export and how to save the data to an external account. 
+description: En esta segunda parte del tutorial Crear un flujo de trabajo de exportación, aprenderá a dar formato a los datos para su exportación y a guardarlos en una cuenta externa. 
 feature: Data Import/Export, Workflows
 kt: 8160
 thumbnail: 336391.jpg
@@ -9,9 +9,9 @@ activity: setup
 team: TM
 role: Admin
 level: Beginner, Experienced
-source-git-commit: c685927a01d08ae6533399ad2466967c6cd3f9fd
+source-git-commit: 75131bcf23154c05621bb6b63224ad906ec96ecd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
