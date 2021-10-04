@@ -6,15 +6,25 @@ kt: 9094
 thumbnail: 336643.jpg
 role: Admin, Developer
 level: Experienced
-source-git-commit: 9a75069ee3bb9352ba7fa5350eb54e421e9427c8
+exl-id: 349532f1-92d6-4774-8e1c-c3a0f280ad3e
+source-git-commit: 649116ee1e45c8012d5850bf3e9e3c0006ae1aa2
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 42%
 
 ---
 
 # Integración con el Experience Platform: información general
 
-Obtenga información sobre cómo importar y exportar datos de Campaign y de Experience Cloud, lo que permite la comunicación entre las dos soluciones.
+Descubra cómo compartir datos entre Campaign y el Experience Cloud.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336643?quality=12)
+
+## Recursos adicionales
+
+### Documentación
+
+* [Introducción a fuentes y destinos](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html?lang=en#)
+* [Plataforma de datos del cliente en tiempo real de Adobe](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=es)
+* [Documentación de destinos](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=es)
+* [Documentación de orígenes](https://experienceleague.adobe.com/docs/experience-platform/sources/home.html?lang=es)

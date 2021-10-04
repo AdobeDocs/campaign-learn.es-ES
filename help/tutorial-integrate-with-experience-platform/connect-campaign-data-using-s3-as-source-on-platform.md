@@ -9,13 +9,13 @@ activity: use
 team: TM
 role: Developer
 level: Experienced
-source-git-commit: c685927a01d08ae6533399ad2466967c6cd3f9fd
+exl-id: 880c91ab-0e36-45b4-af42-fade61915e38
+source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '85'
+ht-degree: 2%
 
 ---
-
 
 # Conectar datos de Campaign con S3 como fuente en Adobe Experience Platform
 
@@ -27,4 +27,3 @@ Obtenga información sobre cómo introducir datos mediante un conector de origen
 
 * [Conectar Campaign a Experience Platform como destino](/help/tutorial-integrate-with-experience-platform/connect-campaign-to-experience-platform-as-destination.md)
 * [Crear un esquema de registros de campaña y un conjunto de datos en Adobe Experience Platform](/help/tutorial-integrate-with-experience-platform/create-a-campaign-logs-schema-and-dataset-in-experience-platform.md)
-
