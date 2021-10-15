@@ -9,13 +9,13 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
-workflow-type: tm+mt
+exl-id: 053a657f-e399-44a8-8c4b-17d08e82e4a9
+source-git-commit: f9944b896adbb7e4b023e667a6b7895a8399724a
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
-
 
 # Artículos de consulta y valores de suscripción de destinatario
 
@@ -23,4 +23,4 @@ Obtenga información sobre cómo consultar datos utilizando diferentes dimension
 
 >[!VIDEO](https://video.tv.adobe.com/v/336537?quality=12)
 
-Paso siguiente: [Enviar un envío a los destinatarios suscritos](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
+Paso siguiente: [Envío de una entrega a los destinatarios suscritos](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
