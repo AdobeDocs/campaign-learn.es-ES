@@ -1,6 +1,6 @@
 ---
-title: 'Crear un flujo de trabajo de exportación (parte 2): Extraer, formatear y guardar datos en una cuenta externa'
-description: En esta segunda parte del tutorial Crear un flujo de trabajo de exportación, aprenderá a dar formato a los datos para su exportación y a guardarlos en una cuenta externa.
+title: 'Creación de un flujo de trabajo de exportación (parte 2): Extracción, formateo y guardado de datos en una cuenta externa'
+description: En esta segunda parte del tutorial Creación de un flujo de trabajo de exportación, aprenderá a dar formato a los datos para su exportación y a guardarlos en una cuenta externa.
 feature: Data Import/Export, Workflows
 kt: 8160
 thumbnail: 336391.jpg
@@ -11,21 +11,21 @@ role: Admin
 level: Beginner, Experienced
 exl-id: ac29b75c-a838-4183-8ec5-034281290725
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Creación de un flujo de trabajo de exportación (parte 2): Extraer, formatear y guardar datos en una cuenta externa
+# Creación de un flujo de trabajo de exportación (parte 2): Extracción, formateo y guardado de datos en una cuenta externa
 
-En esta segunda parte del tutorial Crear un flujo de trabajo de exportación, aprenderá a dar formato a los datos para su exportación y a guardarlos en una cuenta externa.
+En esta segunda parte del tutorial Creación de un flujo de trabajo de exportación, aprenderá a dar formato a los datos para su exportación y a guardarlos en una cuenta externa.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12)
 
 ## Recursos
 
-JavaScript: Guardar fecha
+JavaScript: Guardado de fecha
 
 ```java
  logInfo("=====================")
