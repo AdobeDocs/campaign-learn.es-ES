@@ -1,5 +1,5 @@
 ---
-title: Conectar datos de Campaign con S3 como fuente en Adobe Experience Platform
+title: Conexión de datos de Campaign con S3 como fuente en Adobe Experience Platform
 description: Obtenga información sobre cómo introducir datos mediante un conector de origen en Experience Platform para actualizar los datos de perfil con los registros de campaña exportados.
 feature: Data Import/Export, Data Management
 kt: 8159
@@ -11,13 +11,13 @@ role: Developer
 level: Experienced
 exl-id: 880c91ab-0e36-45b4-af42-fade61915e38
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# Conectar datos de Campaign con S3 como fuente en Adobe Experience Platform
+# Conexión de datos de Campaign con S3 como fuente en Adobe Experience Platform
 
 Obtenga información sobre cómo introducir datos mediante un conector de origen en Experience Platform para actualizar los datos de perfil con los registros de campaña exportados.
 
@@ -25,5 +25,5 @@ Obtenga información sobre cómo introducir datos mediante un conector de origen
 
 ## Recursos adicionales
 
-* [Conectar Campaign a Experience Platform como destino](/help/tutorial-integrate-with-experience-platform/connect-campaign-to-experience-platform-as-destination.md)
-* [Crear un esquema de registros de campaña y un conjunto de datos en Adobe Experience Platform](/help/tutorial-integrate-with-experience-platform/create-a-campaign-logs-schema-and-dataset-in-experience-platform.md)
+* [Conexión de Campaign a Experience Platform como destino](/help/tutorial-integrate-with-experience-platform/connect-campaign-to-experience-platform-as-destination.md)
+* [Creación de un esquema de registros de campaña y un conjunto de datos en Adobe Experience Platform](/help/tutorial-integrate-with-experience-platform/create-a-campaign-logs-schema-and-dataset-in-experience-platform.md)
