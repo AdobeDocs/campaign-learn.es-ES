@@ -1,5 +1,5 @@
 ---
-title: 'Creación de una entrega de alertas de artículo: Información general'
+title: 'Creación de una entrega de alertas de artículo: información general'
 description: Aprenda a crear un flujo de trabajo que alerte a los destinatarios de cualquier artículo nuevo al que se hayan suscrito mediante una entrega por correo electrónico.
 feature: Workflows, Targeting Activity, Query Editor
 doc-type: feature video
@@ -7,14 +7,15 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 9f95ebbbd5fb9fbb1b586eb8edee6e68599a2dec
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: e911cb89-bd27-4424-b4cd-2333321ffc08
+source-git-commit: f9944b896adbb7e4b023e667a6b7895a8399724a
+workflow-type: ht
+source-wordcount: '106'
+ht-degree: 100%
 
 ---
 
-# Creación de una entrega de alertas de artículo: Información general
+# Creación de una entrega de alertas de artículo: información general
 
 Aprenda a crear un flujo de trabajo que alerte a los destinatarios de cualquier artículo nuevo al que se hayan suscrito mediante una entrega por correo electrónico.
 
@@ -22,5 +23,5 @@ Aprenda a crear un flujo de trabajo que alerte a los destinatarios de cualquier 
 
 *Consulte los datos utilizando diferentes dimensiones de segmentación y filtrado, y cómo unir las salidas mediante una intersección.*
 
-**Paso 2:** [Envío de una entrega a ](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
-*destinatarios suscritosObtenga información sobre cómo unir datos a dos segmentos, crear un mensaje de correo electrónico de alerta de artículo y personalizarlo en función de los datos recibidos de una API externa.*
+**Paso 2:** [Envío de una entrega a destinatarios suscritos](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
+*Obtenga información sobre cómo unir datos a dos segmentos, crear un mensaje de correo electrónico de alertas de artículo y personalizarlo en función de los datos recibidos de una API externa.*
