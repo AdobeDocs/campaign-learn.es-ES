@@ -1,6 +1,6 @@
 ---
-title: 'Creación de un flujo de trabajo de exportación (parte 1) : busque la última fecha de modificación para una lista de destinatarios.'
-description: En esta primera parte del tutorial Crear un flujo de trabajo de exportación , aprenda a crear un flujo de trabajo que encuentre la última fecha de modificación para una lista de destinatarios creados a partir de un segmento de Experience Platform.
+title: 'Creación de un flujo de trabajo de exportación (parte 1): Búsqueda de la última fecha de modificación para una lista de destinatarios'
+description: En esta primera parte del tutorial Creación de un flujo de trabajo de exportación, aprenda a crear un flujo de trabajo que encuentre la última fecha de modificación para una lista de destinatarios creados a partir de un segmento de Experience Platform.
 feature: Data Import/Export, Workflows
 kt: 8162
 thumbnail: 336387.jpg
@@ -11,15 +11,15 @@ role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Creación de un flujo de trabajo de exportación (parte 1) : busque la última fecha de modificación para una lista de destinatarios.
+# Creación de un flujo de trabajo de exportación (parte 1): Búsqueda de la última fecha de modificación para una lista de destinatarios
 
-En esta primera parte del tutorial Crear un flujo de trabajo de exportación , aprenda a crear un flujo de trabajo que encuentre la última fecha de modificación para una lista de destinatarios creados a partir de un segmento de Experience Platform.
+En esta primera parte del tutorial Creación de un flujo de trabajo de exportación, aprenda a crear un flujo de trabajo que encuentre la última fecha de modificación para una lista de destinatarios creados a partir de un segmento de Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12)
 
@@ -64,4 +64,4 @@ JavaScript para establecer intervalos de fechas:
 
 ## Vídeo siguiente
 
-[Crear un flujo de trabajo de exportación (parte 2): Extraer, formatear y guardar datos en una cuenta externa](extract-format-save-data-to-external-account.md)
+[Creación de un flujo de trabajo de exportación (parte 2): Extracción, formateo y guardado de datos en una cuenta externa](extract-format-save-data-to-external-account.md)
