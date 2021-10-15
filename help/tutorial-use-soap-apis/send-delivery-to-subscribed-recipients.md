@@ -1,6 +1,6 @@
 ---
 title: Envío de una entrega a los destinatarios suscritos
-description: Obtenga información sobre cómo unir dos segmentos de datos, crear un correo electrónico de alerta de artículo y personalizarlo en función de los datos recibidos de una API externa.
+description: Obtenga información sobre cómo unir dos segmentos de datos, crear un correo electrónico de alertas de artículo y personalizarlo en función de los datos recibidos de una API externa.
 feature: Workflows, Targeting Activity, Query Editor
 kt: 8167
 thumbnail: 336940.jpg
@@ -9,16 +9,16 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
-workflow-type: tm+mt
+exl-id: 3280371c-b088-4da9-bc2c-f7a401719db8
+source-git-commit: f9944b896adbb7e4b023e667a6b7895a8399724a
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # Envío de una entrega a los destinatarios suscritos
 
-Obtenga información sobre cómo unir dos segmentos de datos, crear un correo electrónico de alerta de artículo y personalizarlo en función de los datos recibidos de una API externa. Seguiremos creando el flujo de trabajo creado en el paso anterior: [Vídeo de artículos de consulta y valores de suscripción de destinatario](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md).
+Obtenga información sobre cómo unir dos segmentos de datos, crear un correo electrónico de alertas de artículo y personalizarlo en función de los datos recibidos de una API externa. Seguiremos construyendo el flujo de trabajo creado en el paso anterior: Vídeo de [Consulta de artículos y valores de suscripción de destinatario](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md).
 
 >[!VIDEO](https://video.tv.adobe.com/v/336904?quality=12)
