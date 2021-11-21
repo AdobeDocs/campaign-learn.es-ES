@@ -1,7 +1,7 @@
 ---
 title: Creación de un plan de marketing, programas y campañas
 description: Conozca los conceptos clave de Adobe Campaign para planificar, ejecutar y medir de manera eficaz las campañas de marketing multicanal.
-feature: Campañas
+feature: Campaigns
 kt: 7830
 thumbnail: 333810.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: User
 level: Beginner
 exl-id: 4338d42f-14e0-48b1-93ff-2155e6ed9f10
 source-git-commit: 2f8a0b548e3b6a8c77d6a7287eaebd4739e3313b
-workflow-type: ht
-source-wordcount: '70'
+workflow-type: tm+mt
+source-wordcount: '69'
 ht-degree: 100%
 
 ---

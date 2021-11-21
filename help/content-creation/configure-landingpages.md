@@ -1,7 +1,7 @@
 ---
 title: Configuración de las páginas de destino
 description: Aprenda a desplazarse por el editor de aplicaciones web creando un centro de preferencias.
-feature: Páginas de destino
+feature: Landing Pages
 kt: 7945
 thumbnail: 333629.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: Developer, Admin
 level: Beginner
 exl-id: 81dfe17d-e87a-4579-8106-663ba9fe13fc
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '59'
+workflow-type: tm+mt
+source-wordcount: '57'
 ht-degree: 100%
 
 ---

@@ -1,16 +1,17 @@
 ---
 title: Solución de problemas del Panel de control de Campaign
 description: Obtenga información sobre cómo solucionar problemas del Panel de control de Campaign
-feature: Panel de control de Campaign
+feature: Control Panel
 kt: 8520
 doc-type: article
 activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: 4fc34f56e13c3df5f1c42c24c87a6c7c5caff04b
-workflow-type: ht
-source-wordcount: '340'
+exl-id: 0dca4676-2d5e-411b-9fdf-fbfd1081cb0e
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '338'
 ht-degree: 100%
 
 ---
@@ -55,7 +56,7 @@ el administrador debe añadir el usuario al Perfil de productos _Campaign-xxx-Ad
 ### Documentación útil
 
 * [Descubra el panel de control de Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es)
-* [Administración de permisos en el [!UICONTROL Panel de control de Campaign]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es)
+* [Administración de permisos en el [!UICONTROL Panel de control de Campaign]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
 
 ## Establecimiento de la conexión con el servidor SFTP (cliente o API)
 
@@ -67,4 +68,4 @@ La conexión a los servidores SFTP requiere lo siguiente:
 
 ### Documentación útil {#helpful-docs}
 
-* [Inicio de sesión en el servidor SFTP](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es)
+* [Inicio de sesión en el servidor SFTP](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)

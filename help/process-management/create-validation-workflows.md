@@ -1,7 +1,7 @@
 ---
 title: Creación de flujos de trabajo de validación
 description: Obtenga información sobre cómo configurar diferentes flujos de trabajo de validación de aprobación.
-feature: Flujos de trabajo, aprobaciones
+feature: Workflows, Approvals
 kt: 7991
 doc-type: feature video
 activity: setup
@@ -10,8 +10,8 @@ role: User
 level: Experienced
 exl-id: fa4c2180-15bb-424b-a54e-c7d744385fb6
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '265'
+workflow-type: tm+mt
+source-wordcount: '263'
 ht-degree: 100%
 
 ---

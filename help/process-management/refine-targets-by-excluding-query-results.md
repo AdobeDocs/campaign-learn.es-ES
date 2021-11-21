@@ -1,7 +1,7 @@
 ---
 title: Refinamiento de destinatarios excluyendo resultados de consultas
 description: Obtenga información sobre cómo refinar los destinatarios aplicando una exclusión estándar a un flujo de trabajo. Obtenga información sobre cómo crear filtros predefinidos y solucionar problemas en el flujo de trabajo.
-feature: Flujos de trabajo, actividad de direccionamiento, editor de consultas
+feature: Workflows, Targeting Activity, Query Editor
 kt: 7845
 thumbnail: 335609.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: User
 level: Beginner
 exl-id: b10ac23b-8625-42e2-92ce-3c1dfbac4127
 source-git-commit: 5a965ea73bfe3b04d388c1db1c16c25c2aaae44e
-workflow-type: ht
-source-wordcount: '96'
+workflow-type: tm+mt
+source-wordcount: '91'
 ht-degree: 100%
 
 ---

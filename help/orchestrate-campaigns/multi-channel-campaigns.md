@@ -1,7 +1,7 @@
 ---
 title: Creación de campañas multicanal
 description: Obtenga información sobre cómo crear una campaña multicanal mediante correo electrónico, SMS y una entrega de correo directo, en función del canal preferido del destinatario.
-feature: Flujos de trabajo
+feature: Workflows
 kt: 7794
 thumbnail: 335440.jpg
 doc-type: feature video
@@ -9,13 +9,13 @@ activity: use
 team: TM
 role: User
 level: Beginner
-source-git-commit: bc6955acd0ef78fd7b8edabe15fb122ed51f77f6
-workflow-type: ht
-source-wordcount: '92'
+exl-id: f8f8fd28-9adc-4993-a7ea-bfd01ac0fdf1
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
-
 
 # Creación de campañas multicanal
 
