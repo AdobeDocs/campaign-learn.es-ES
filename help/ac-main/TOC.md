@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: 'Tutoriales de Adobe Campaign '
 user-guide-description: Adobe Campaign permite a los especialistas en marketing diseñar experiencias para clientes de varios canales y proporciona un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
-source-git-commit: 147ca0788f1df5b8f3e90e8dcfb6cbabf9efb793
+source-git-commit: b0fcde90e008222c069d952099c7154856e91fef
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 91%
+source-wordcount: '364'
+ht-degree: 93%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 91%
    + [Configuración de las páginas de destino](/help/content-creation/configure-landingpages.md)
 + Envío de mensajes{#sending-messages}
    + Correo electrónico {#email}
-      + [Envío y validación de pruebas para un envío de correo electrónico ](/help/send-messages/email/send-and-validate-proofs.md)
+      + [Envío y validación de pruebas para un envío de correo electrónico](/help/send-messages/email/send-and-validate-proofs.md)
       + [Uso de grupos de control](/help/send-messages/email/use-control-groups.md)
       + [Solución de problemas de envíos de correos electrónicos](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Diseño de correos electrónicos para su envío](/help/send-messages/email/design-emails-for-deliverability.md)
@@ -70,8 +70,6 @@ ht-degree: 91%
       + [Refinamiento de destinatarios combinando resultados de consultas](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Refinamiento de destinatarios excluyendo resultados de consultas](/help/process-management/refine-targets-by-excluding-query-results.md)
    + Flujos de trabajo de aprobación y validación {#create-approvals-and-validation-workflows}
-   + [Cómo utilizar la actividad de lista de actualización](/help/process-management/use-the-update-list-activity.md)
-   + [Configuración de actividades de enriquecimiento](/help/process-management/enrichment-activity.md)
       + [Introducción](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Administración de aprobaciones](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [Configuración de aprobaciones para campañas](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
