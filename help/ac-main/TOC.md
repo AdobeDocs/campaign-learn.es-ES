@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: 'Tutoriales de Adobe Campaign '
 user-guide-description: Adobe Campaign permite a los especialistas en marketing diseñar experiencias para clientes de varios canales y proporciona un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
-source-git-commit: 9a485e259e4105a6ccdd06e3374ab3d1a3810280
+source-git-commit: f25e3e7553d23aacf96c0f05e1ad78ee783192ff
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '359'
 ht-degree: 93%
 
 ---
@@ -68,7 +68,6 @@ ht-degree: 93%
    + [Creación de flujos de trabajo de segmentación](/help/process-management/create-a-targeting-workflow.md)
    + [Refinamiento de destinatarios combinando resultados de consultas](/help/process-management/refine-targets-by-combining-query-results.md)
    + [Refinamiento de destinatarios excluyendo resultados de consultas](/help/process-management/refine-targets-by-excluding-query-results.md)
-   + [Creación de flujos de trabajo de validación](/help/process-management/create-validation-workflows.md)
    + [Administración de aprobaciones](/help/process-management/manage-approvals.md)
    + [Uso de la actividad Actualizar lista](/help/process-management/use-the-update-list-activity.md)
    + [Configuración de actividades de enriquecimiento](/help/process-management/enrichment-activity.md)
