@@ -1,6 +1,6 @@
 ---
-title: 'Configuración de aprobaciones para campañas '
-description: Obtenga información sobre cómo definir varios objetivos de envío mediante flujos de trabajo de segmentación.
+title: Configuración de aprobaciones para campañas
+description: Obtenga información sobre cómo definir varios objetivos de entrega mediante flujos de trabajo de segmentación.
 feature: Workflows, Approvals
 kt: 7991
 thumbnail: 338826.jpg
@@ -8,13 +8,13 @@ doc-type: feature video
 activity: use
 role: User
 level: Beginner
-source-git-commit: 806ecfd0c9377b82eef68e1f9499becfe67704eb
-workflow-type: tm+mt
+exl-id: d72a01e2-fcf2-4ca4-83eb-5aeed79dd2bc
+source-git-commit: 5a51d60b9483962690234931fe500864dd82a66f
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 20%
+ht-degree: 100%
 
 ---
-
 
 # Configuración de aprobaciones para campañas
 
