@@ -8,8 +8,8 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
-source-wordcount: '388'
-ht-degree: 91%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -32,7 +32,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
 * **[Creación y ampliación de un esquema](/help/data-management/create-and-extend-a-schema.md)**
 
-   *Obtenga información sobre cómo crear un nuevo esquema y ampliar un esquema existente.*
+   *Obtenga información sobre cómo crear un nuevo esquema y ampliar uno existente.*
 
 * **[Integración con Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=es)**
 

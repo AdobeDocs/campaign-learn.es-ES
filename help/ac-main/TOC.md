@@ -7,7 +7,7 @@ breadcrumb-title: Tutoriales
 source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
 source-wordcount: '365'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -65,7 +65,7 @@ ht-degree: 93%
 + Administración y automatización de procesos{#process-management}
    + [Creación de un flujo de trabajo](/help/process-management/create-a-workflow.md)
    + [Creación de envíos recurrentes y continuos](/help/process-management/recurring-deliveries.md)
-   + Flujos de trabajo de objetivos {#targeting-workflows}
+   + Flujos de trabajo de segmentación {#targeting-workflows}
       + [Creación de flujos de trabajo de segmentación](/help/process-management/create-a-targeting-workflow.md)
       + [Refinamiento de destinatarios combinando resultados de consultas](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Refinamiento de destinatarios excluyendo resultados de consultas](/help/process-management/refine-targets-by-excluding-query-results.md)
