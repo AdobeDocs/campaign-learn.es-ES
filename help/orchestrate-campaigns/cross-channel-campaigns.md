@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 297db41d-38d6-4fd4-b72b-0615ce23b981
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ En una campaña en canales múltiples, una sola comunicación de marketing utili
 Aprenda a crear una campaña en canales múltiples utilizando entregas de correo electrónico y correo directo en función de la interacción del cliente con la primera entrega.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335607?quality=12)
-
-## Recursos adicionales
-
-* [Introducción a campañas multicanal y en canales múltiples](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)

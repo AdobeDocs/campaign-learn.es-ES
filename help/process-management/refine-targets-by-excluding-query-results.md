@@ -10,9 +10,9 @@ team: TM
 role: User
 level: Beginner
 exl-id: b10ac23b-8625-42e2-92ce-3c1dfbac4127
-source-git-commit: 5a965ea73bfe3b04d388c1db1c16c25c2aaae44e
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '62'
 ht-degree: 100%
 
 ---
@@ -22,10 +22,3 @@ ht-degree: 100%
 Obtenga información sobre cómo refinar los destinatarios aplicando una exclusión estándar a un flujo de trabajo. Obtenga información sobre cómo crear filtros predefinidos y solucionar problemas en el flujo de trabajo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12)
-
-## Recursos adicionales
-
-* [Segmentación de perfiles en un flujo de trabajo](/help/profile-management/target-profiles-in-a-workflow.md)
-* [Creación de un flujo de trabajo de segmentación](/help/process-management/create-a-targeting-workflow.md)
-* [Refinamiento de destinatarios combinando resultados de consultas](/help/process-management/refine-targets-by-combining-query-results.md)
-* [Uso de la actividad de lista de actualización para crear una lista con un flujo de trabajo](/help/process-management/use-the-update-list-activity.md)

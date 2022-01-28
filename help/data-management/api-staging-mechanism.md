@@ -8,10 +8,11 @@ doc-type: feature video
 team: TM
 role: Admin, Developer
 level: Beginner
-source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
+exl-id: f61a1d00-694a-4727-8a24-959cb0258046
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 2%
+source-wordcount: '78'
+ht-degree: 0%
 
 ---
 
@@ -20,8 +21,3 @@ ht-degree: 2%
 Descubra cómo funciona el mecanismo de ensayo de la API con FDA completo. Comprenda por qué se utiliza el ensayo, los principios principales de ensayo en la campaña de Adobe y cómo activar el mecanismo de ensayo para una tabla personalizada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339276?quality=12)
-
-## Recursos adicionales
-
-* [Duplicación de datos (vídeo)](/help/data-management/data-replication.md)
-* [Mecanismo de ensayo de la API de Campaign (documentación)](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/api/staging.html?lang=en)

@@ -6,9 +6,9 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 42f72a8b-a33e-467d-bc7d-6211e857800c
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ Obtenga información sobre cómo generar e instalar un par de claves públicas/ 
 1. [Generación e instalación de claves GPG para el cifrado de datos](./generate-and-install-gpg-keys.md)
 2. [Uso de una clave GPG para cifrar datos](./use-a-gpg-key-to-encrypt-data.md)
 3. [Descifrado de datos](./decrypt-data.md)
-
-## Recursos adicionales
-
-* [Administración de claves GPG:(documentación)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=es)
