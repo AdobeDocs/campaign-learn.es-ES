@@ -13,9 +13,9 @@ hide: true
 hidefromtoc: true
 exl-id: aacbec3e-6281-497d-9cf5-bace5a6a11a1
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -29,4 +29,4 @@ El siguiente vídeo explica cómo activar AMP en Adobe Campaign y cómo usarlo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
-Consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=es#about-amp-for-email) para obtener más información.
+Consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=es#about-amp-for-email) para obtener más detalles.
