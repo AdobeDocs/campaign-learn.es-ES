@@ -1,6 +1,6 @@
 ---
 title: Monitorización de bases de datos
-description: Obtenga información sobre cómo monitorizar el uso de la base de datos de sus instancias.
+description: Aprenda a monitorizar el uso de bases de datos de sus instancias.
 feature: Control Panel
 kt: 8519
 thumbnail: 327175.jpg
@@ -12,9 +12,9 @@ role: Admin
 level: Experienced
 exl-id: 9451117b-f1ae-4d92-b75c-233fe8e76482
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 77%
 
 Todos los recursos, flujos de trabajo y datos de la instancia de Campaign se almacenan en la base de datos. Si la base de datos alcanza su capacidad máxima, puede haber problemas con su instancia (incapacidad para iniciar sesión, enviar correos electrónicos, etc.). Por lo tanto, es esencial monitorizar las bases de datos de las instancias regularmente para garantizar un rendimiento óptimo.
 
-Obtenga información sobre cómo monitorizar el uso de la base de datos de sus instancias.
+Aprenda a monitorizar el uso de bases de datos de sus instancias.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
