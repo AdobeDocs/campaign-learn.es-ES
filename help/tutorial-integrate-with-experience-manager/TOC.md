@@ -4,8 +4,8 @@ user-guide-description: Obtenga información sobre cómo conectar Adobe Campaign
 breadcrumb-title: Integración con el Experience Manager
 source-git-commit: 5b0a6644e9f5407726c5f389db62ab7a0921abac
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
