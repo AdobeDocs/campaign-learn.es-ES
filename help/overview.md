@@ -7,7 +7,7 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 69e912929698909c6a781f9ca771ba90cdbab582
+source-git-commit: 50b72be4f33e791986cb5bf6d9cc3e1554d427bf
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 91%
@@ -27,7 +27,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
 ## Novedades
 
-* **[Integración con el Experience Manager ](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en))**
+* **[Integración con el Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)**
 
 *Obtenga información sobre cómo conectar Adobe Campaign con Adobe Experience Manager para permitirle administrar plantillas de envíos de correo electrónico, recursos y formularios en Experience Manager.*
 
