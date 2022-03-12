@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: f5e7f795924fc5dad20b9fb56eede82cf42920c3
-workflow-type: ht
-source-wordcount: '432'
-ht-degree: 100%
+source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+workflow-type: tm+mt
+source-wordcount: '475'
+ht-degree: 95%
 
 ---
 
@@ -27,17 +27,17 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
 ## Novedades
 
-* **[Integración con Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=es)**
+* **[Integración con Adobe Target](/help/connect/target-integration.md)
+
+   *Aprenda a personalizar un envío con contenido dinámico servido desde Adobe Target.*
+
+* **[Integración con Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=es)**
 
    *Aprenda a conectar Adobe Campaign con Adobe Experience Manager para poder administrar plantillas de entrega de correo electrónico, recursos y formularios en Experience Manager.*
 
 * **[Cambio de la fuente de datos](/help/data-management/change-data-source.md)**
 
    *Aprenda a cambiar la fuente de datos de una tabla de trabajo de flujo de trabajo mediante la actividad Cambiar fuente de datos para administrar datos de forma flexible en diferentes fuentes de datos, como FDA, FDAC y la base de datos local.*
-
-* **[Aspectos básicos de la administración de datos con flujos de trabajo](/help/data-management/data-management-fundamentals.md)**
-
-   *Descubra cuáles son las dimensiones de segmentación y las tablas de trabajo, y cómo administra Adobe Campaign los datos en diferentes fuentes de datos.*
 
 
 ## Nuestra selección
@@ -100,7 +100,33 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
     <em>Obtenga información sobre cómo generar un informe de análisis descriptivo a partir de un flujo de trabajo.</em>
     <p>
   </td>
-
+  <td>
+   <a href="./data-management/data-management-fundamentals.md">
+      <img alt="Aspectos básicos de la administración de datos con flujos de trabajo" src="./assets/339992.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/data-management-fundamentals.md">
+    <strong>Aspectos básicos de la administración de datos con flujos de trabajo</strong>
+    </a>
+    </div>
+    <p>
+    <em>Descubra cuáles son las dimensiones de segmentación y las tablas de trabajo, y cómo administra Adobe Campaign los datos en diferentes fuentes de datos.</em>
+    <p>
+  </td>
+  <td>
+   <a href="./data-management/api-staging-mechanism.md">
+      <img alt="Mecanismo de ensayo de API con FDAC" src="./assets/339276.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/api-staging-mechanism.md">
+    <strong>Mecanismo de ensayo de API con FDAC</strong>
+    </a>
+    </div>
+    <p>
+    <em>Descubra cómo funciona el mecanismo de ensayo de la API con FDA completo.</em>
+    <p>
+  </td>
+</tr>
 </table>
 
 Consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=es) para obtener más detalles sobre esta función.
