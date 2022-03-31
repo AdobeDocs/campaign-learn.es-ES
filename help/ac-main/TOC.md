@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: 'Tutoriales de Adobe Campaign '
 user-guide-description: Adobe Campaign permite a los especialistas en marketing diseñar experiencias para clientes de varios canales y proporciona un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
-source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '392'
 ht-degree: 95%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 95%
    + [Creación de campañas activadas por eventos](/help/get-started/create-event-triggered-campaigns.md)
 + Administración de perfiles {#profile-management}
    + [Creación y administración de perfiles](/help/profile-management/create-and-manage-profiles.md)
+   + [Importación de perfiles](/help/profile-management/import-profiles.md)
    + [Segmentación de perfiles en un flujo de trabajo](/help/profile-management/target-profiles-in-a-workflow.md)
 + Organización de campañas {#campaign-orchestration}
    + [Ejecución de una campaña](/help/orchestrate-campaigns/execute-a-campaign.md)
@@ -66,7 +67,7 @@ ht-degree: 95%
    + [Creación de un flujo de trabajo](/help/process-management/create-a-workflow.md)
    + [Creación de envíos recurrentes y continuos](/help/process-management/recurring-deliveries.md)
    + Flujos de trabajo de segmentación {#targeting-workflows}
-      + [Creación de flujos de trabajo de segmentación](/help/process-management/create-a-targeting-workflow.md)
+      + [Creación de un flujo de trabajo de segmentación](/help/process-management/create-a-targeting-workflow.md)
       + [Refinamiento de destinatarios combinando resultados de consultas](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Refinamiento de destinatarios excluyendo resultados de consultas](/help/process-management/refine-targets-by-excluding-query-results.md)
    + Flujos de trabajo de aprobación y validación {#create-approvals-and-validation-workflows}

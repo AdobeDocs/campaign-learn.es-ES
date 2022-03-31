@@ -3,15 +3,15 @@ title: Personalización de correos electrónicos con bloques de contenido dinám
 description: Descubra cómo se crearon los bloques de contenido dinámico y cómo se utilizan para personalizar el contenido de su envío de correo electrónico.
 feature: Dynamic Content
 kt: 7941
-thumbnail: 24924
+thumbnail: 342088.jpg
 doc-type: feature video
 activity: use
 team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: dfbd4e9d-694e-4d43-bfc5-11b59e653ddc
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: ht
+source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
+workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ Un bloque de personalización es dinámico, personalizado y contiene un código 
 
 Descubra cómo se crearon los bloques de contenido dinámico y cómo se utilizan para personalizar el contenido de su envío de correo electrónico.
 
->[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342088?quality=12)
