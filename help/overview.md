@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '475'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
 * **[Integración con Adobe Target](/help/connect/target-integration.md)**
 
-   *Aprenda a personalizar un envío con contenido dinámico servido desde Adobe Target.*
+   *Aprenda a personalizar una entrega con contenido dinámico atendidas desde Adobe Target.*
 
 * **[Integración con Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=es)**
 
@@ -115,11 +115,11 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
   </td>
   <td>
    <a href="./data-management/api-staging-mechanism.md">
-      <img alt="Mecanismo de ensayo de API con FDAC" src="./assets/339276.jpg" />
+      <img alt="Mecanismo de ensayo de la API con FDAC" src="./assets/339276.jpg" />
     </a>
      <div>
       <a href="./data-management/api-staging-mechanism.md">
-    <strong>Mecanismo de ensayo de API con FDAC</strong>
+    <strong>Mecanismo de ensayo de la API con FDAC</strong>
     </a>
     </div>
     <p>
