@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 0dca4676-2d5e-411b-9fdf-fbfd1081cb0e
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 100%
+source-wordcount: '337'
+ht-degree: 95%
 
 ---
 
@@ -25,7 +25,7 @@ Obtenga información sobre cómo solucionar problemas del Panel de control de Ca
 ### Síntoma: no se puede iniciar sesión en Experience Cloud
 
 **Qué hacer:**
-el usuario debe localizar su identificador de organización de IMS (xxx). El administrador debe añadir el usuario al Perfil de productos “Campaign-xxx-Admins” para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como usuario.
+El usuario debe localizar el ID de su organización (xxx). El administrador debe añadir el usuario al Perfil de productos “Campaign-xxx-Admins” para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como usuario.
 
 ### Síntoma: los vínculos de la página principal de Experience Cloud para acceder al [!UICONTROL Panel de control de Campaign] no aparecen para un usuario.
 
@@ -47,7 +47,7 @@ el administrador debe añadir el usuario al Perfil de productos _Campaign-xxx-Ad
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*Comprobación del identificador de organización de IMS (00:26 min)*
+*Compruebe el ID de su organización (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
