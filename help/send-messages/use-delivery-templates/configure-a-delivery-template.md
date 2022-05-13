@@ -10,12 +10,10 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
-hide: true
-hidefromtoc: true
-source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
-workflow-type: ht
-source-wordcount: '89'
-ht-degree: 100%
+source-git-commit: 36fc9fa4f2e8e20b633d2f5df18b3a4d634535c8
+workflow-type: tm+mt
+source-wordcount: '90'
+ht-degree: 98%
 
 ---
 
@@ -28,7 +26,7 @@ Una plantilla puede incluir sistemáticamente:
 * Tipologías
 * Direcciones de remitente y respuesta
 * Bloques de personalización básicos
-* Vínculos a páginas espejo y baja
+* Vínculos a páginas espejo y baja vínculos
 * Contenido, logotipo de una compañía o firma
 * Otras propiedades de entrega, como la validez de los recursos, las cantidades por lotes...
 
