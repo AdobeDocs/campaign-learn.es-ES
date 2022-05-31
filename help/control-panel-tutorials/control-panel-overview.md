@@ -10,16 +10,18 @@ role: Admin
 level: Experienced
 recommendations: noDisplay
 exl-id: 67b35ad4-bd46-441a-a3e3-402937678770
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: ht
-source-wordcount: '214'
-ht-degree: 100%
+source-git-commit: ea5b7f4f7cd54f7f01acc98e57eac0164dc3981d
+workflow-type: tm+mt
+source-wordcount: '230'
+ht-degree: 95%
 
 ---
 
 # Panel de control de Campaign: información general
 
 El Panel de control de Campaign permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas de gestión, como administrar el almacenamiento SFTP por instancia, o las claves GPG, e incluir direcciones IP en la lista de permitidos.
+
+Consulte la [Notas de la versión](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=es) información sobre las últimas versiones del producto.
 
 ## Nuestra selección
 
