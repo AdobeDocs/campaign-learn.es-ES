@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: 'Tutoriales de Adobe Campaign '
 user-guide-description: Adobe Campaign permite a los especialistas en marketing diseñar experiencias para clientes de varios canales y proporciona un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
-source-git-commit: 405305ad210f64a358caa240dd0c5a3f2e5b68b6
+source-git-commit: ce2f58028cb82327588fda9c76ff9fdbbd32fc4f
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -49,6 +49,7 @@ ht-degree: 97%
       + [Diseño de correos electrónicos para su envío](/help/send-messages/email/design-emails-for-deliverability.md)
       + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
    + SMS {#sms}
+      + [Configuración de SMS para Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
       + [Creación de una entrega SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Instalación del canal de la aplicación móvil](/help/send-messages/mobile/install-the-mobile-app.md)
@@ -88,7 +89,7 @@ ht-degree: 97%
    + [Tutorial: Uso de API de SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=es)
 + Conectar con otras soluciones {#connect}
    + [Integración con Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=es)
-   + [Integración con Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=es)
+   + [Integración con Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
    + [Integración con Adobe Target](/help/connect/target-integration.md)
    + [Integración con Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
 + Creación de informes {#reporting}
