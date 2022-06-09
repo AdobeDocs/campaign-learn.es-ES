@@ -7,7 +7,7 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
+source-git-commit: 99904d75300064381bdac3245b290de82990d300
 workflow-type: tm+mt
 source-wordcount: '510'
 ht-degree: 75%
@@ -27,7 +27,8 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
 ## Novedades
 
-* **[Introducción a SMS](/help/tutorial-sms/introduction-to-sms.md)**:
+* **[Introducción a SMS](/help/tutorial-sms/introduction-to-sms.md)**
+
    *Descubra cómo funciona SMS y cómo envía SMS Adobe Campaign*
 
 * **[Configuración de una cuenta SMS para un proveedor SMPP estándar](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
