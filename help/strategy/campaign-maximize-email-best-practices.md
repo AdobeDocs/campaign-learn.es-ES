@@ -1,11 +1,12 @@
 ---
-title: Maximice el ROI del correo electrónico y aprenda las prácticas recomendadas para la renovación de la participación de los suscriptores
-description: 'Obtenga información sobre cómo maximizar el ROI del correo electrónico y conozca las prácticas recomendadas para la renovación de la participación de los suscriptores. Descubra las estrategias para mejorar la participación de sus suscriptores y comprender el éxito general de sus campañas de correo electrónico. '
+title: Maximice el retorno de la inversión del correo electrónico y aprenda las prácticas recomendadas para renovar la participación de los suscriptores
+description: Obtenga información sobre cómo maximizar el retorno de la inversión del correo electrónico y conozca las prácticas recomendadas para renovar la participación de los suscriptores. Descubra las estrategias para mejorar la participación de sus suscriptores y comprender el éxito general de sus campañas de correo electrónico.
 solution: Campaign
-source-git-commit: 405305ad210f64a358caa240dd0c5a3f2e5b68b6
+exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
+source-git-commit: 2fa177e03dfbff9d1af1f210556bb7193285dd07
 workflow-type: tm+mt
-source-wordcount: '1453'
-ht-degree: 0%
+source-wordcount: '1471'
+ht-degree: 3%
 
 ---
 
@@ -135,3 +136,5 @@ Desglose este proceso en dos áreas de enfoque: a) los patrones de envío de cor
 * **Prueba y aprendizaje** - un buen plan de pruebas es importante para asegurarse de que sus esfuerzos tengan el efecto deseado. Aprenda qué funciona y qué no e itere en consecuencia.
 
 Para ver un resumen de este artículo y una demostración en directo de la implementación de estrategias de renovación de la participación, consulte nuestra [seminario web](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
+
+Obtenga más información sobre la estrategia y el liderazgo mental en [Éxito del cliente](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub.
