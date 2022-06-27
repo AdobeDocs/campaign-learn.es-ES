@@ -2,12 +2,12 @@
 product: adobe campaign
 sub-product: Campaign V8
 user-guide-title: 'Tutoriales de Adobe Campaign '
-user-guide-description: Adobe Campaign permite a los especialistas en marketing diseñar experiencias para clientes de varios canales y proporciona un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
+user-guide-description: Adobe Campaign permite a los especialistas en marketing diseñar experiencias para clientes de varios canales y proporciona un entorno para la orquestación de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
 source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '417'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -26,8 +26,8 @@ ht-degree: 94%
 + Administración de perfiles {#profile-management}
    + [Creación y administración de perfiles](/help/profile-management/create-and-manage-profiles.md)
    + [Importación de perfiles](/help/profile-management/import-profiles.md)
-   + [Segmentación de perfiles en un flujo de trabajo](/help/profile-management/target-profiles-in-a-workflow.md)
-+ Organización de campañas {#campaign-orchestration}
+   + [Perfiles de destinatario en un flujo de trabajo](/help/profile-management/target-profiles-in-a-workflow.md)
++ Orquestación de campañas {#campaign-orchestration}
    + [Ejecución de una campaña](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [Introducción a campañas multicanal y canales múltiples](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Creación de campañas multicanal](/help/orchestrate-campaigns/multi-channel-campaigns.md)
@@ -40,15 +40,15 @@ ht-degree: 94%
       + [Personalización de correos electrónicos con campos de personalización](/help/content-creation/personalize-emails-using-personalization-fields.md)
       + [Creación de una newsletter multilingüe con contenido condicional](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
       + [Definición del contenido de correo electrónico interactivo con AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
-   + [Configuración de las páginas de destino](/help/content-creation/configure-landingpages.md)
+   + [Configuración de las páginas de aterrizaje](/help/content-creation/configure-landingpages.md)
 + Envío de mensajes{#sending-messages}
    + Correo electrónico {#email}
-      + [Envío y validación de pruebas para un envío de correo electrónico](/help/send-messages/email/send-and-validate-proofs.md)
+      + [Entrega y validación de pruebas para un envío de correo electrónico](/help/send-messages/email/send-and-validate-proofs.md)
       + [Uso de grupos de control](/help/send-messages/email/use-control-groups.md)
-      + [Solución de problemas de envíos de correos electrónicos](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
+      + [Solución de problemas de entregas de correos electrónicos](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Diseño de correos electrónicos para su envío](/help/send-messages/email/design-emails-for-deliverability.md)
    + SMS {#sms}
-      + [Configuración de SMS para Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
+      + [Configuración de SMS para Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=es)
       + [Creación de una entrega SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Instalación del canal de la aplicación móvil](/help/send-messages/mobile/install-the-mobile-app.md)
@@ -58,7 +58,7 @@ ht-degree: 94%
    + Uso de plantillas de envío{#using-delivery-templates}
       + [Creación de una plantilla de envíos](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
       + [Establecimiento de propiedades de plantilla de envíos](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
-      + [Implementación de una plantilla de envíos de correo electrónico ad hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
+      + [Implementación de una plantilla de entrega de correo electrónico ad hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
    + Administración de fatiga{#fatigue-management}
       + [Reglas de tipología](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Filtros predefinidos](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
@@ -88,7 +88,7 @@ ht-degree: 94%
    + [Tutorial: Uso de API de SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=es)
 + Conectar con otras soluciones {#connect}
    + [Integración con Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=es)
-   + [Integración con Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
+   + [Integración con Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=es)
    + [Integración con Adobe Target](/help/connect/target-integration.md)
    + [Integración con Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
 + Creación de informes {#reporting}
