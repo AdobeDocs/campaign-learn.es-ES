@@ -2,17 +2,17 @@
 title: 'Tutorial técnico: Configuración de SMS para Adobe Campaign'
 description: Obtenga información sobre cómo configurar una cuenta SMS para proveedores SMTP y cómo analizar y solucionar problemas de la configuración.
 feature: SMS
-source-git-commit: c47abbf25549960547b579e5a51e8704e5df0ea4
-workflow-type: tm+mt
+exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
+source-git-commit: f16e485d536a6dd68e405a4f1826a0c9c6bf9673
+workflow-type: ht
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # Tutorial técnico: Configuración de SMS para Adobe Campaign
 
-![Se aplica a V7 y V8](../assets/V7-V8-stamp.png)
+![Aplicable a las versiones 7 y 8](../assets/V7-V8-stamp.png)
 
 Los tutoriales de esta sección se han diseñado para administradores, que tienen la tarea de configurar el canal SMS para Adobe Campaign.
 
@@ -34,4 +34,4 @@ Próximamente
 
 >[!NOTE]
 >
->Este tutorial se aplica a Adobe Campaign V7 y Campaign V8. Encontrará recursos adicionales en la documentación del producto: [Protocolo y configuración del conector SMS](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=en#sending-messages).
+>Este tutorial se aplica a la versión 7 de Adobe Campaign y a la versión 8 de Campaign. Encontrará recursos adicionales en la documentación del producto: [Protocolo y configuración del conector SMS](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=es#sending-messages).
