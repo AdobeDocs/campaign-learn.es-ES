@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 99904d75300064381bdac3245b290de82990d300
-workflow-type: ht
-source-wordcount: '510'
-ht-degree: 100%
+source-git-commit: 9e57d61a520a3f07f41c8367817d9467de3e7570
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,6 +27,14 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
 ## Novedades
 
+* **[Monitorización de las entradas y la latencia](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)**
+
+   *Obtenga información sobre cómo monitorizar las entradas de envíos y las latencias de mensajes transaccionales de la instancia de campaign.*
+
+* **[Introducción a los SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=es)**
+
+   *Descubra cómo funcionan los SMS y cómo envía SMS Adobe Campaign*
+
 * **[Introducción a los SMS](/help/tutorial-sms/introduction-to-sms.md)**
 
    *Descubra cómo funcionan los SMS y cómo envía Adobe Campaign los SMS*
@@ -34,14 +42,6 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 * **[Configuración de una cuenta SMS para un proveedor SMPP estándar](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
    *Aprenda a adaptar el conector de SMS a su proveedor SMPP. Ajuste la configuración de SMS para gestionar los límites de conexión, configure el rendimiento máximo, la ventana de envío y el cifrado con TLS.*
-
-* **[Adaptación del conector SMS a su proveedor SMPP](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
-
-   *Aprenda a ajustar la configuración de su SMS para gestionar los límites de conexión, configurar el rendimiento máximo, la ventana de envío y el cifrado con TLS.*
-
-* **[Maximice el ROI del correo electrónico y aprenda las prácticas recomendadas para la renovación de la participación de los suscriptores](/help/strategy/campaign-maximize-email-best-practices.md)**
-
-   *Obtenga información sobre cómo maximizar el ROI del correo electrónico y conozca las prácticas recomendadas para la renovación de la participación de los suscriptores. Descubra las estrategias para mejorar la participación de sus suscriptores y comprender el éxito general de sus campañas de correo electrónico.*
 
 ## Nuestra selección
 
