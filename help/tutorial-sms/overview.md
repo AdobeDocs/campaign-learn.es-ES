@@ -3,10 +3,10 @@ title: 'Tutorial técnico: Configuración de SMS para Adobe Campaign'
 description: Obtenga información sobre cómo configurar una cuenta SMS para proveedores SMTP y cómo analizar y solucionar problemas de la configuración.
 feature: SMS
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
-source-git-commit: f16e485d536a6dd68e405a4f1826a0c9c6bf9673
-workflow-type: ht
-source-wordcount: '192'
-ht-degree: 100%
+source-git-commit: 1fc6cbddbfa5e591704d59c494ce7d2f107a444f
+workflow-type: tm+mt
+source-wordcount: '214'
+ht-degree: 87%
 
 ---
 
@@ -23,14 +23,14 @@ Se tratan los siguientes temas:
 
 * **[Configuración de una cuenta SMS para un proveedor SMPP estándar](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-   *Aprenda a adaptar el conector SMS a su proveedor SMPP. Ajuste la configuración de SMS para gestionar los límites de conexión, configure el rendimiento máximo, la ventana de envío y el cifrado con TLS.*
+   *Aprenda a adaptar el conector de SMS a su proveedor SMPP. Ajuste la configuración de SMS para gestionar los límites de conexión, configure el rendimiento máximo, la ventana de envío y el cifrado con TLS.*
 
-* **[Adaptar el conector SMS a su proveedor SMPP](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
+* **[Adaptación del conector SMS a su proveedor SMPP](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
    *Aprenda a ajustar la configuración de su SMS para gestionar los límites de conexión, configurar el rendimiento máximo, la ventana de envío y el cifrado con TLS.*
 
-* **Análisis y solución de problemas**
-Próximamente
+* **[Solución de problemas y análisis profundo del protocolo SMPP]**(help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)
+   *Aprenda cómo se establecen las conexiones SMPP y cómo SMPP intercambia datos a través de PDU. Obtenga información sobre cómo solucionar problemas de conexiones.*
 
 >[!NOTE]
 >
