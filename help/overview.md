@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 066c6e95eb5dee4330b80495bececcba076dd5c1
-workflow-type: ht
-source-wordcount: '505'
-ht-degree: 100%
+source-git-commit: 73a9f32d11a9843afcfd126c9565b137b815ceef
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,6 +27,9 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
 ## Novedades
 
+* **[Solución de problemas y análisis profundo del protocolo SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)**
+
+   *Aprenda cómo se establecen las conexiones SMPP y cómo SMPP intercambia datos a través de PDU. Obtenga información sobre cómo solucionar problemas de conexiones.*
 
 * **[Panel de control de Campaign: monitorización de flujos de trabajo](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=es){target=&quot;_blank&quot;}**
 
@@ -35,14 +38,6 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 * **[Panel de control de Campaign: monitorización de rendimiento y latencia](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=es){target=&quot;_blank&quot;}**
 
    *Obtenga información sobre cómo monitorizar el rendimiento de entrega y las latencias de mensajes transaccionales de la instancia de Campaign.*
-
-* **[Introducción a los SMS](/help/tutorial-sms/introduction-to-sms.md)**
-
-   *Descubra cómo funcionan los SMS y cómo envía Adobe Campaign los SMS*
-
-* **[Configuración de una cuenta SMS para un proveedor SMPP estándar](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
-
-   *Aprenda a adaptar el conector de SMS a su proveedor SMPP. Ajuste la configuración de SMS para gestionar los límites de conexión, configure el rendimiento máximo, la ventana de envío y el cifrado con TLS.*
 
 ## Nuestra selección
 

@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: 'Tutoriales de Adobe Campaign '
 user-guide-description: Adobe Campaign permite a los especialistas en marketing diseñar experiencias para clientes de varios canales y proporciona un entorno para la orquestación de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
-source-git-commit: d1ba1a3c22b4a95dca19418f3d490872257b93cd
+source-git-commit: 36e9a53ab0276840eea09c2dffe55562591e54b0
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -48,7 +48,6 @@ ht-degree: 100%
       + [Solución de problemas de entregas de correos electrónicos](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Diseño de correos electrónicos para su envío](/help/send-messages/email/design-emails-for-deliverability.md)
    + SMS {#sms}
-      + [Configuración de SMS para Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=es)
       + [Creación de una entrega SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Instalación del canal de la aplicación móvil](/help/send-messages/mobile/install-the-mobile-app.md)
@@ -98,6 +97,7 @@ ht-degree: 100%
    + [Pista de auditoría](/help/monitoring/audit-trail.md)
 + Administración {#administration}
    + [Panel de control de Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=es){target=&quot;_blank&quot;}
+   + [Configuración de SMS para Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=es)
 + Estrategia y liderazgo mental{#strategy}
    + [Maximice el ROI del correo electrónico y las prácticas recomendadas para la renovación de la participación de los suscriptores](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
