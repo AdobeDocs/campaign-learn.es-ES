@@ -3,10 +3,10 @@ title: 'Tutorial técnico: Configuración de SMS para Adobe Campaign'
 description: Obtenga información sobre cómo configurar una cuenta SMS para proveedores SMTP y cómo analizar y solucionar problemas de la configuración.
 feature: SMS
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
-source-git-commit: 1fc6cbddbfa5e591704d59c494ce7d2f107a444f
+source-git-commit: a54253d309e4be47c7a8abd5528c00d23278fd1c
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 87%
+source-wordcount: '211'
+ht-degree: 88%
 
 ---
 
@@ -29,7 +29,8 @@ Se tratan los siguientes temas:
 
    *Aprenda a ajustar la configuración de su SMS para gestionar los límites de conexión, configurar el rendimiento máximo, la ventana de envío y el cifrado con TLS.*
 
-* **[Solución de problemas y análisis profundo del protocolo SMPP]**(help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)
+* **[Solución de problemas y análisis profundo del protocolo SMPP](help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
+
    *Aprenda cómo se establecen las conexiones SMPP y cómo SMPP intercambia datos a través de PDU. Obtenga información sobre cómo solucionar problemas de conexiones.*
 
 >[!NOTE]
