@@ -4,13 +4,13 @@ description: Aprenda cómo se establecen las conexiones SMPP y cómo SMPP interc
 feature: SMS
 thumbnail: 346489.jpg
 kt: 9739
-source-git-commit: 2e93092e1a433ae57515f08f8a70afa4b85bccf4
-workflow-type: tm+mt
+exl-id: 62c500fd-adb6-481c-a522-2183dd1779a8
+source-git-commit: ea2db5e52d4e1d14485eb64388d9afde9209b6ee
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
-
 
 # Solución de problemas y análisis profundo del protocolo SMPP
 
