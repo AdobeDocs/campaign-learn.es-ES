@@ -1,29 +1,30 @@
 ---
 title: 'Tutoriales de Adobe Campaign V8: Información general'
-description: Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múltiples para los clientes y proporciona un entorno para la orquestación visual de la campaña, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
+description: Adobe Campaign proporciona una plataforma para diseñar experiencias de clientes en canales múltiples y proporciona un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 73a9f32d11a9843afcfd126c9565b137b815ceef
-workflow-type: ht
-source-wordcount: '480'
-ht-degree: 100%
+source-git-commit: 84d754f4ab022ed982b151942e72b891c7eeeb22
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Tutoriales de Adobe Campaign V8: Información general
 
-Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múltiples para los clientes y proporciona un entorno para la orquestación visual de la campaña, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign V8.
+Adobe Campaign proporciona una plataforma para diseñar experiencias de clientes en canales múltiples y proporciona un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign V8.
 
 >[!INFO]
-> ¿Tiene preguntas? ¿Le gustaría compartir su experiencia o intercambiar ideas con sus colegas? O bien, ¿tiene comentarios sobre el contenido de aprendizaje para el equipo de Adobe? Únase a la conversación en el [hilo de la comunidad de aprendizaje de Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096?profile.language=es).
+> ¿Tiene preguntas? ¿Le gustaría compartir su experiencia o intercambiar ideas con sus colegas? O bien, ¿tiene comentarios sobre el contenido de aprendizaje para el equipo de Adobe? Únase a la conversación en el [hilo de la comunidad de aprendizaje de Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096).
 
 >[!NOTE]
-> Actualmente, Campaign v8 solo está disponible como Cloud Service administrado y no se puede implementar en entornos locales o híbridos. La migración desde un entorno de Campaign Classic v7 existente aún no está disponible.
->Consulte la [documentación del producto Classic v7 a V8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=es) para obtener más información acerca de las diferencias entre las dos versiones. Consulte también la sección [Tutoriales de Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=es) para ver vídeos con instrucciones.
+> Actualmente, Campaign v8 solo está disponible como Cloud Service administrado y no se puede implementar en entornos locales o híbridos. La migración automatizada desde un entorno de Campaign Classic v7 existente aún no está disponible.
+>
+>Consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html) para obtener más información sobre la transición de Classic v7 a V8.
 
 ## Novedades
 
@@ -31,11 +32,11 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
    *Aprenda cómo se establecen las conexiones SMPP y cómo SMPP intercambia datos a través de PDU. Obtenga información sobre cómo solucionar problemas de conexiones.*
 
-* **[Panel de control de Campaign: monitorización de flujos de trabajo](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=es){target=&quot;_blank&quot;}**
+* **[Panel de control de Campaign: monitorización de flujos de trabajo](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=en){target=&quot;_blank&quot;}**
 
    *Obtenga información sobre cómo monitorizar el uso temporal del almacenamiento de sus flujos de trabajo y dónde ajustar la configuración de flujos de trabajo para evitar problemas de la base de datos o del flujo de trabajo en su instancia.*
 
-* **[Panel de control de Campaign: monitorización de rendimiento y latencia](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=es){target=&quot;_blank&quot;}**
+* **[Panel de control de Campaign: monitorización de rendimiento y latencia](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=en){target=&quot;_blank&quot;}**
 
    *Obtenga información sobre cómo monitorizar el rendimiento de entrega y las latencias de mensajes transaccionales de la instancia de Campaign.*
 
