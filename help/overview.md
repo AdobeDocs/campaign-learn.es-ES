@@ -7,9 +7,9 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 84d754f4ab022ed982b151942e72b891c7eeeb22
+source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
 workflow-type: ht
-source-wordcount: '464'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -26,6 +26,8 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 >
 >Consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=es) para obtener más información sobre la transición de Classic V7 a V8.
 
+<div id="whats-new-section">
+
 ## Novedades
 
 * **[Solución de problemas y análisis profundo del protocolo SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=es)**
@@ -39,6 +41,17 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 * **[Panel de control de Campaign: monitorización de rendimiento y latencia](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=es){target=&quot;_blank&quot;}**
 
    *Obtenga información sobre cómo monitorizar el rendimiento de entrega y las latencias de mensajes transaccionales de la instancia de Campaign.*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Nuestra selección
 
@@ -128,5 +141,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
   </td>
 </tr>
 </table>
+
+</div>
 
 Consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=es) para obtener más detalles sobre esta función.
