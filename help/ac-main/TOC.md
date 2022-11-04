@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Tutoriales de Adobe Campaign
 user-guide-description: Adobe Campaign permite a los especialistas en marketing diseñar experiencias para clientes de varios canales y proporciona un entorno para la orquestación de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
-source-git-commit: ecdb463b01351c9d777cb8161a46f1a33f7892ea
+source-git-commit: 411342d146310bf982d280d3757d7797f645bf17
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '424'
+ht-degree: 98%
 
 ---
 
@@ -75,7 +75,7 @@ ht-degree: 0%
       + [Configuración de aprobaciones para campañas](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
       + [Configuración de aprobaciones para entregas](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [Creación de una actividad de aprobación en un flujo de trabajo](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
-      + [Aprenda de sus compañeros: prácticas recomendadas de flujo de trabajo](/help/process-management/workflow-best-practices-for-marketers.md)
+   + [Aprenda de sus compañeros: prácticas recomendadas de flujo de trabajo](/help/process-management/workflow-best-practices-for-marketers.md)
 + Administración de datos {#data-management}
    + [Aspectos básicos de la administración de datos con flujos de trabajo](/help/data-management/data-management-fundamentals.md)
    + [Cambio de la fuente de datos](/help/data-management/change-data-source.md)
