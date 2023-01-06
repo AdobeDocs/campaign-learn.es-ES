@@ -1,8 +1,8 @@
 ---
-source-git-commit: c2b4ec492f591c5b0f06f74d42b94ff527d5cdeb
+source-git-commit: 94b2ca4943cd9b1785b84493007102d51d1d9898
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 24%
+source-wordcount: '294'
+ht-degree: 22%
 
 ---
 # Contribución
@@ -18,20 +18,15 @@ Este proyecto se adhiere al [código de conducta](code-of-conduct.md) de Adobe. 
 
 ## Documentación de la Guía del colaborador
 
-Consulte la [Guía del colaborador](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Consulte la [Guía del colaborador](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 ## ¿Tiene una pregunta?
 
-Comience por enviar un problema. Los supervisores de este proyecto trabajan para alcanzar
-consenso en torno a la dirección del proyecto y soluciones de problemas dentro de los subprocesos de problemas
-(cuando proceda).
+Comience por enviar un problema. Los supervisores de este proyecto trabajan para llegar a un consenso sobre la dirección del proyecto y las soluciones de problemas dentro de los subprocesos del problema (cuando corresponde).
 
 ## Acuerdo de licencia del colaborador
 
-Todas las contribuciones de terceros a este proyecto deben ir acompañadas de un colaborador firmado
-acuerdo de licencia. Esto otorga permiso a Adobe para redistribuir sus contribuciones como parte del proyecto. [Firme nuestro contrato de licencia de colaborador](http://opensource.adobe.com/cla.html). You
-solo necesita enviar un CLA de Adobe una vez, por lo que si ha enviado uno anteriormente,
-¡estás listo!
+Todas las contribuciones de terceros a este proyecto deben ir acompañadas de un contrato de licencia de colaborador firmado. Esto otorga permiso a Adobe para redistribuir sus contribuciones como parte del proyecto. [Firmar nuestro contrato de licencia de colaborador](http://opensource.adobe.com/cla.html). Solo es necesario que envíe un CLA de Adobe una vez, así que si ha enviado uno anteriormente, ¡ya está listo!
 
 ## Revisiones de código
 
@@ -44,12 +39,7 @@ submitting a pull request!
 
 ## De colaborador a creador
 
-¡Nos encantan las contribuciones de nuestra comunidad! Si desea ir un paso más allá del colaborador
-y convertirse en un supervisor con acceso completo de escritura y una voz en el proyecto, debe
-se invitará al proyecto. Los supervisores emplean una nominación interna
-proceso que debe alcanzar un consenso diferido (el silencio es aprobación) antes de las invitaciones
-se emiten. Si cree que está cualificado y desea implicarse más profundamente,
-no dude en ponerse en contacto con los supervisores para hablar sobre ello.
+¡Nos encantan las contribuciones de nuestra comunidad! Si desea ir más allá del colaborador y convertirse en un supervisor con acceso de escritura completo y tener voz en el proyecto, debe ser invitado al proyecto. Los supervisores emplean un proceso de nominación interna que debe alcanzar un consenso diferido (el silencio es aprobación) antes de que se emitan invitaciones. Si cree que está cualificado y desea implicarse más profundamente, no dude en ponerse en contacto con los supervisores existentes para hablar de ello.
 
 ## Problemas de seguridad
 
