@@ -5,7 +5,7 @@ user-guide-title: Tutoriales de Adobe Campaign
 user-guide-description: Adobe Campaign permite a los especialistas en marketing diseñar experiencias para clientes de varios canales y proporciona un entorno para la orquestación de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
 source-git-commit: 411342d146310bf982d280d3757d7797f645bf17
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 100%
 
