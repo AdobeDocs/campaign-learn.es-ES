@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Tutoriales de Adobe Campaign
 user-guide-description: Adobe Campaign permite a los especialistas en marketing diseñar experiencias para clientes de varios canales y proporciona un entorno para la orquestación de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
-source-git-commit: e866b1e1130a30d43d4ef59e17f8c58c1b5d6a81
+source-git-commit: 89b99c200f6169194e9607f4a0f335abc7d81ee0
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 98%
+source-wordcount: '431'
+ht-degree: 97%
 
 ---
 
@@ -100,6 +100,6 @@ ht-degree: 98%
    + [Panel de control de Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=es){target="_blank"}
    + [Configuración de SMS para Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=es)
 + Estrategia y liderazgo mental{#strategy}
-   + [10 Prácticas recomendadas para el éxito de Adobe Campaign para especialistas en marketing](/help/strategy-and-thought-leadrship/10-best-practices-to-adobe-campaign-success-for-marketers.md)
+   + [Diez prácticas recomendadas para el éxito de Adobe Campaign para los especialistas en marketing](/help/strategy-and-thought-leadrship/10-best-practices-to-adobe-campaign-success-for-marketers.md)
    + [Maximice el ROI del correo electrónico y las prácticas recomendadas para la renovación de la participación de los suscriptores](/help/strategy-and-thought-leadrship/campaign-maximize-email-best-practices.md)
    + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
