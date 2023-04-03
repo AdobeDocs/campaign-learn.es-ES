@@ -6,10 +6,10 @@ thumbnail: 346489.jpg
 kt: 9739
 last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: 62c500fd-adb6-481c-a522-2183dd1779a8
-source-git-commit: 285afc4062984320423816e8364f863973834f71
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
+source-wordcount: '53'
+ht-degree: 100%
 
 ---
 
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Aprenda cómo se establecen las conexiones SMPP y cómo SMPP intercambia datos a través de PDU. Obtenga información sobre cómo solucionar problemas de conexiones.
 
->[!VIDEO](https://video.tv.adobe.com/v/346489?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/346489?quality=12&learn=on)
