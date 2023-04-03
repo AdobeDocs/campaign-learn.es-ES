@@ -9,7 +9,7 @@ team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: 6e308d06-e384-46e2-9e14-9e3f6c80c386
-source-git-commit: 0124923f8aad93ffce48e9c40e6e25beb785e1f3
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Aprenda a cambiar la fuente de datos de una tabla de trabajo de flujo de trabajo mediante la actividad Cambiar fuente de datos para administrar datos de forma flexible en diferentes fuentes de datos, como FDA, FDAC y la base de datos local.
 
->[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12&learn=on)
 
 Consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/workflows.html?lang=es#change-data-source-activity) para obtener más información sobre esta función.
