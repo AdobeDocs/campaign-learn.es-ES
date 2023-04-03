@@ -6,7 +6,7 @@ kt: 3232
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '61'
 ht-degree: 100%
@@ -20,4 +20,4 @@ Una actividad de tipo [!UICONTROL Envío] permite crear una acción de envío. S
 
 En este vídeo, se explica cómo implementar una plantilla de envíos de correos electrónicos. Explica la diferencia entre un envío de correos electrónicos y un flujo de trabajo de envíos.
 
->[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on)
