@@ -10,8 +10,8 @@ team: DOC
 role: Developer, Admin
 level: Beginner
 exl-id: 81dfe17d-e87a-4579-8106-663ba9fe13fc
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
 source-wordcount: '57'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ Adobe Campaign le permite diseñar y alojar varias páginas de destino en su ser
 
 En este vídeo se explica cómo desplazarse por el editor de aplicaciones web de Adobe Campaign creando un centro de preferencias.
 
->[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12&learn=on)
