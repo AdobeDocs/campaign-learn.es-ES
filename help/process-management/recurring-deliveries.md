@@ -10,7 +10,7 @@ team: TM
 role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
-source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 94%
@@ -39,10 +39,10 @@ Los envíos recurrentes y continuos difieren en la forma en que se administran l
 
 En este vídeo se explica cómo configurar una entrega recurrente y una actividad de planificador.
 
->[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12&learn=on)
 
 ## Configuración de envíos continuos {#how-to-set-up-a-continuous-delivery}
 
 Este vídeo muestra cómo configurar una entrega continua con una consulta incremental.
 
->[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12&learn=on)
