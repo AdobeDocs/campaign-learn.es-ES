@@ -10,8 +10,8 @@ team: TM
 role: User
 level: Experienced
 exl-id: 400cb55f-8f40-497d-b8da-3ba7fc750208
-source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
 source-wordcount: '92'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo configurar una cuenta externa en Adobe Campaign para importar datos de destinatario de Adobe Experience Platform a Campaign. Obtenga información sobre cómo crear un flujo de trabajo para cargar y segmentar los destinatarios recibidos de Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on)
