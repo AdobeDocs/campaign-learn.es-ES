@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Tutoriales de Adobe Campaign
 user-guide-description: Adobe Campaign permite a los especialistas en marketing diseñar experiencias para clientes de varios canales y proporciona un entorno para la orquestación de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
-source-git-commit: d00b35a185844d8f2c1d046609c4d4839a24dda2
+source-git-commit: e0df9e93cf0421e687e77b99f5ef2bc93712c99f
 workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -41,6 +41,7 @@ ht-degree: 97%
       + [Creación de una newsletter multilingüe con contenido condicional](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
       + [Definición del contenido de correo electrónico interactivo con AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
    + [Configuración de las páginas de aterrizaje](/help/content-creation/configure-landingpages.md)
+   + [Creación de una encuesta](/help/content-creation/create-a-survey.md)
 + Envío de mensajes{#sending-messages}
    + Correo electrónico {#email}
       + [Entrega y validación de pruebas para un envío de correo electrónico](/help/send-messages/email/send-and-validate-proofs.md)
@@ -97,7 +98,7 @@ ht-degree: 97%
    + [Mapa de calor del flujo de trabajo](/help/monitoring/workflow-heatmap.md)
    + [Pista de auditoría](/help/monitoring/audit-trail.md)
 + Administración {#administration}
-   + [Panel de control de Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=es){target="_blank"}
+   + [Panel de control](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=es){target="_blank"}
    + [Configuración de SMS para Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=es)
 + Estrategia y liderazgo mental{#strategy}
    + [Diez prácticas recomendadas para el éxito de Adobe Campaign para los especialistas en marketing](/help/strategy/10-best-practices-for-marketers.md)
