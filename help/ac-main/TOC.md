@@ -6,8 +6,8 @@ user-guide-description: Adobe Campaign permite a los especialistas en marketing 
 breadcrumb-title: Tutoriales
 source-git-commit: e0df9e93cf0421e687e77b99f5ef2bc93712c99f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '434'
+ht-degree: 97%
 
 ---
 
