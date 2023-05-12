@@ -5,9 +5,9 @@ user-guide-title: Tutoriales de Adobe Campaign
 user-guide-description: Adobe Campaign permite a los especialistas en marketing diseñar experiencias para clientes de varios canales y proporciona un entorno para la orquestación de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
 source-git-commit: e0df9e93cf0421e687e77b99f5ef2bc93712c99f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '434'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -46,10 +46,10 @@ ht-degree: 97%
    + Correo electrónico {#email}
       + [Entrega y validación de pruebas para un envío de correo electrónico](/help/send-messages/email/send-and-validate-proofs.md)
       + [Uso de grupos de control](/help/send-messages/email/use-control-groups.md)
-      + [Solución de problemas de entregas de correos electrónicos](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
+      + [Solución de problemas de envíos de correos electrónicos](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Diseño de correos electrónicos para su envío](/help/send-messages/email/design-emails-for-deliverability.md)
    + SMS {#sms}
-      + [Creación de una entrega SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
+      + [Creación de un envío SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Instalación del canal de la aplicación móvil](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Configuración del canal push mediante el SDK para móviles de Experience Platform](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
@@ -58,7 +58,7 @@ ht-degree: 97%
    + Uso de plantillas de envío{#using-delivery-templates}
       + [Creación de una plantilla de envíos](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
       + [Establecimiento de propiedades de plantilla de envíos](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
-      + [Implementación de una plantilla de entrega de correo electrónico ad hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
+      + [Implementación de una plantilla de envío de correo electrónico ad hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
    + Administración de fatiga{#fatigue-management}
       + [Reglas de tipología](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Filtros predefinidos](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
@@ -74,7 +74,7 @@ ht-degree: 97%
       + [Introducción](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Administración de aprobaciones](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [Configuración de aprobaciones para campañas](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
-      + [Configuración de aprobaciones para entregas](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [Configuración de aprobaciones para envíos](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [Creación de una actividad de aprobación en un flujo de trabajo](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
    + [Aprenda de sus compañeros: prácticas recomendadas de flujo de trabajo](/help/process-management/workflow-best-practices-for-marketers.md)
 + Administración de datos {#data-management}
@@ -101,6 +101,6 @@ ht-degree: 97%
    + [Panel de control](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=es){target="_blank"}
    + [Configuración de SMS para Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=es)
 + Estrategia y liderazgo mental{#strategy}
-   + [Diez prácticas recomendadas para el éxito de Adobe Campaign para los especialistas en marketing](/help/strategy/10-best-practices-for-marketers.md)
+   + [Diez prácticas recomendadas para el éxito de Adobe Campaign para expertos en marketing](/help/strategy/10-best-practices-for-marketers.md)
    + [Maximice el ROI del correo electrónico y las prácticas recomendadas para la renovación de la participación de los suscriptores](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
