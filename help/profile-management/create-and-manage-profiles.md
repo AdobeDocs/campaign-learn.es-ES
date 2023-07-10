@@ -2,7 +2,7 @@
 title: Creación y administración de perfiles
 description: Obtenga información sobre cómo acceder a los datos de perfil, crear perfiles y ordenar y filtrar por sus creaciones para facilitar la funcionalidad. También aprenderá a cumplir con el Reglamento General de Protección de Datos (RGPD) y la Ley de Privacidad del Consumidor de California (CCPA).
 feature: Profiles
-kt: 7843
+jira: KT-7843
 thumbnail: 334111.jpg
 doc-type: feature video
 activity: use
@@ -10,8 +10,8 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 4d50e834-5fca-4974-a0e2-081bd0aada8a
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '87'
 ht-degree: 100%
 
