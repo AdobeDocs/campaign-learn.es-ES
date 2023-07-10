@@ -3,11 +3,11 @@ title: Adaptación del conector SMS a su proveedor SMPP
 description: Aprenda a ajustar la configuración de su SMS para gestionar los límites de conexión, configurar el rendimiento máximo, la ventana de envío y el cifrado con TLS.
 feature: SMS
 thumbnail: 343622.jpg
-kt: 9741
+jira: KT-9741
 last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: e84d43a8-6553-4657-9383-5ea91867e811
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 
