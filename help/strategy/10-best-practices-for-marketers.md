@@ -2,12 +2,13 @@
 title: Diez prácticas recomendadas para el éxito de Adobe Campaign para expertos en marketing
 description: Conozca las diez prácticas recomendadas que ayudarán a los profesionales de Adobe Campaign a desbloquear y acelerar la transformación del consumidor digital y a mejorar la experiencia de sus clientes.
 doc-type: article
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11778
 last-substantial-update: 2023-01-30T00:00:00Z
 exl-id: a4191cfb-991a-4cd5-97b5-c24c6c93566b
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+source-git-commit: 2cf7b12ea62026186255b08c4035d0f4bdac103d
 workflow-type: tm+mt
 source-wordcount: '1279'
 ht-degree: 100%
