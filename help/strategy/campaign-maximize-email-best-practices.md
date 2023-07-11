@@ -2,8 +2,11 @@
 title: Maximice el ROI del correo electrónico y aprenda las prácticas recomendadas para la renovación de la participación de los suscriptores
 description: Obtenga información sobre cómo maximizar el ROI del correo electrónico y conozca las prácticas recomendadas para la renovación de la participación de los suscriptores. Descubra las estrategias para mejorar la participación de sus suscriptores y comprender el éxito general de sus campañas de correo electrónico.
 solution: Campaign
+role: User
+level: Beginner
+feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: d00b35a185844d8f2c1d046609c4d4839a24dda2
+source-git-commit: 6ff175aacef090fa81cb97243bf3ceb0bf2914b4
 workflow-type: tm+mt
 source-wordcount: '1471'
 ht-degree: 3%
