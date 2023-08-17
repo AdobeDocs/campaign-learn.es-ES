@@ -19,7 +19,7 @@ ht-degree: 100%
 
 # Configuración de actividades de enriquecimiento
 
-La actividad de enriquecimiento es un objeto de flujo de trabajo que agrega datos a la tabla de trabajo. El uso de la actividad de enriquecimiento permite agregar columnas a una tabla que almacena datos adicionales o definir nuevos vínculos a otros datos existentes.
+La actividad de enriquecimiento es un objeto de flujo de trabajo que añade datos a la tabla de trabajo. El uso de la actividad de enriquecimiento permite añadir columnas a una tabla que almacena datos adicionales o definir nuevos vínculos a otros datos existentes.
 
 Aprenda a configurar una actividad de enriquecimiento basada en la información del registro de envío.
 

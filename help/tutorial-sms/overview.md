@@ -20,19 +20,16 @@ Los tutoriales de esta sección se han diseñado para administradores, que tiene
 Se tratan los siguientes temas:
 
 * **[Introducción a SMS](/help/tutorial-sms/introduction-to-sms.md)**:
-   *Descubra cómo funciona SMS y cómo envía SMS Adobe Campaign*
+  *Descubra cómo funciona SMS y cómo envía SMS Adobe Campaign*
 
 * **[Configuración de una cuenta SMS para un proveedor SMPP estándar](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
-
-   *Aprenda a adaptar el conector de SMS a su proveedor SMPP. Ajuste la configuración de SMS para gestionar los límites de conexión, configure el rendimiento máximo, la ventana de envío y el cifrado con TLS.*
+  *Aprenda a adaptar el conector de SMS a su proveedor SMPP. Ajuste la configuración de SMS para gestionar los límites de conexión, configure el rendimiento máximo, la ventana de envío y el cifrado con TLS.*
 
 * **[Adaptación del conector SMS a su proveedor SMPP](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
-
-   *Aprenda a ajustar la configuración de su SMS para gestionar los límites de conexión, configurar el rendimiento máximo, la ventana de envío y el cifrado con TLS.*
+  *Aprenda a ajustar la configuración de su SMS para gestionar los límites de conexión, configurar el rendimiento máximo, la ventana de envío y el cifrado con TLS.*
 
 * **[Solución de problemas y análisis profundo del protocolo SMPP](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
-
-   *Aprenda cómo se establecen las conexiones SMPP y cómo SMPP intercambia datos a través de PDU. Obtenga información sobre cómo solucionar problemas de conexiones.*
+  *Aprenda cómo se establecen las conexiones SMPP y cómo SMPP intercambia datos a través de PDU. Obtenga información sobre cómo solucionar problemas de conexiones.*
 
 >[!NOTE]
 >

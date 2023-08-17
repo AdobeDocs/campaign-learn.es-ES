@@ -30,16 +30,13 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 ## Novedades
 
 * **[Solución de problemas y análisis profundo del protocolo SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=es)**
-
-   *Aprenda cómo se establecen las conexiones SMPP y cómo SMPP intercambia datos a través de PDU. Obtenga información sobre cómo solucionar problemas de conexiones.*
+  *Aprenda cómo se establecen las conexiones SMPP y cómo SMPP intercambia datos a través de PDU. Obtenga información sobre cómo solucionar problemas de conexiones.*
 
 * **[Panel de control: monitorización de flujos de trabajo](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=es){target="_blank"}**
-
-   *Obtenga información sobre cómo monitorizar el uso temporal del almacenamiento de sus flujos de trabajo y dónde ajustar la configuración de flujos de trabajo para evitar problemas de la base de datos o del flujo de trabajo en su instancia.*
+  *Obtenga información sobre cómo monitorizar el uso temporal del almacenamiento de sus flujos de trabajo y dónde ajustar la configuración de flujos de trabajo para evitar problemas de la base de datos o del flujo de trabajo en su instancia.*
 
 * **[Panel de control: monitorización de rendimiento y latencia](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=es){target="_blank"}**
-
-   *Obtenga información sobre cómo monitorizar el rendimiento de envío y las latencias de mensajes transaccionales de la instancia de Campaign.*
+  *Obtenga información sobre cómo monitorizar el rendimiento de envío y las latencias de mensajes transaccionales de la instancia de Campaign.*
 
 </div>
 
