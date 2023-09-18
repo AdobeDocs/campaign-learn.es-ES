@@ -7,7 +7,7 @@ Feature: SMS
 breadcrumb-title: Configurar SMS
 source-git-commit: 78ad0bc4c42706a63e1f508e0570414991fd2e85
 workflow-type: ht
-source-wordcount: '0'
+source-wordcount: '89'
 ht-degree: 100%
 
 ---
