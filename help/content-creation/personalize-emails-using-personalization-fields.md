@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 0ff643b8-013e-4192-831f-aa88dcc1eec1
-source-git-commit: 81f3ae29afbd3d07eaf959798370702ef91f2cd5
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '82'
+ht-degree: 97%
 
 ---
 
@@ -23,4 +23,4 @@ Los campos de personalización se utilizan para la personalización de primer ni
 
 Obtenga información sobre cómo agregar un campo de personalización a la línea de asunto y el contenido de un envío de correo electrónico.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){transcript=true}
