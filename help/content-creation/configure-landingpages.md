@@ -1,5 +1,5 @@
 ---
-title: Configuración de las páginas de destino
+title: Configuración de las páginas de aterrizaje
 description: Aprenda a desplazarse por el editor de aplicaciones web creando un centro de preferencias.
 feature: Landing Pages
 jira: KT-7945
@@ -11,13 +11,13 @@ role: Developer, Admin
 level: Beginner
 exl-id: 81dfe17d-e87a-4579-8106-663ba9fe13fc
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# Configuración de las páginas de destino
+# Configuración de las páginas de aterrizaje
 
 Adobe Campaign le permite diseñar y alojar varias páginas de destino en su servidor, incluidas encuestas en línea, centros de preferencias y páginas de cancelación de suscripción.
 
