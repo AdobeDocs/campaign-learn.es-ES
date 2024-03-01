@@ -1,19 +1,19 @@
 ---
-title: Tutorials de la consola del cliente de Adobe Campaign V8
+title: Tutoriales de la consola del cliente de Adobe Campaign V8
 description: Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múltiples para los clientes y proporciona un entorno para la orquestación visual de la campaña, la administración de interacciones en tiempo real y la Cross-channel Execution. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de la consola del cliente de Adobe Campaign V8.
 sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 162004a7d92a649600a4e6bb42e306e92b1985cf
+source-git-commit: 9e502bab7f860db031e69efa486864bc5825b159
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 76%
 
 ---
 
-# Tutorials de la consola del cliente de Adobe Campaign v8
+# Tutoriales de la consola del cliente de Adobe Campaign v8
 
 Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múltiples para los clientes y proporciona un entorno para la orquestación visual de la campaña, la administración de interacciones en tiempo real y la Cross-channel Execution. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de la consola del cliente de Adobe Campaign V8.
 
