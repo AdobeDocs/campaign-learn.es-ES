@@ -11,9 +11,9 @@ role: Admin
 level: Beginner
 exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
@@ -26,7 +26,7 @@ Una plantilla puede incluir sistemáticamente:
 * Tipologías
 * Direcciones de remitente y respuesta
 * Bloques de personalización básicos
-* Vínculos a páginas espejo y baja vínculos
+* Vínculos a páginas espejo y vínculos de baja
 * Contenido, logotipo de una compañía o firma
 * Otras propiedades de entrega, como la validez de los recursos, las cantidades por lotes...
 

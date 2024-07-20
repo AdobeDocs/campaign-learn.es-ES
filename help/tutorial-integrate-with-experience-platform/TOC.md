@@ -4,7 +4,7 @@ user-guide-description: Obtenga información sobre cómo importar y exportar dat
 breadcrumb-title: Integración con Experience Platform
 source-git-commit: 20c0036a74e3693af9f9fd1ac92365fb9bd6b8d3
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---

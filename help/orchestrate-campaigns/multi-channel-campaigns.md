@@ -11,7 +11,7 @@ role: User
 level: Beginner
 exl-id: f8f8fd28-9adc-4993-a7ea-bfd01ac0fdf1
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 # Creación de campañas multicanal
 
-En una campaña multicanal, una sola comunicación de marketing utiliza varios canales para llegar a una audiencia objetivo más amplia. Los canales son independientes, no hay conexión entre ellos, lo que significa que los clientes permanecen en un canal dentro de un flujo de trabajo.
+En una campaña multicanal, una sola comunicación de marketing utiliza varios canales para llegar a un público objetivo más amplio. Los canales son independientes, no hay conexión entre ellos, lo que significa que los clientes permanecen en un canal dentro de un flujo de trabajo.
 
 Obtenga información sobre cómo crear una campaña multicanal mediante correo electrónico, SMS y una entrega de correo directo, en función del canal preferido del destinatario.
 

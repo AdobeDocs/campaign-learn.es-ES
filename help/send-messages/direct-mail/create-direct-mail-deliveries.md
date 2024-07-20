@@ -11,14 +11,14 @@ role: User
 level: Beginner
 exl-id: 9caa11fc-7a37-4036-8e14-c19f736c7efb
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
-source-wordcount: '41'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '35'
+ht-degree: 60%
 
 ---
 
 # Creación de envíos de correo directo
 
-Entender cómo funciona el [!UICONTROL correo directo] en [!UICONTROL Adobe Campaign] y aprender a crear, dar formato y ejecutar un envío de [!UICONTROL correo directo].
+Obtenga información sobre cómo funciona [!UICONTROL direct mail] en [!UICONTROL Adobe Campaign] y aprenda a crear, dar formato y ejecutar un envío [!UICONTROL direct mail].
 
 >[!VIDEO](https://video.tv.adobe.com/v/333401?quality=12&learn=on){transcript=true}

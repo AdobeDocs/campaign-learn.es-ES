@@ -11,15 +11,15 @@ role: Admin, Developer
 level: Experienced
 exl-id: c7dbb3c0-41eb-47dd-93bd-3c4caccc07ad
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
-source-wordcount: '76'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '73'
+ht-degree: 65%
 
 ---
 
-# Ampliación del [!UICONTROL esquema de suscripción de la aplicación] para personalizar las notificaciones push
+# Ampliación del esquema [!UICONTROL app subscription] para personalizar las notificaciones push
 
-Obtenga información sobre cómo ampliar el esquema de [!UICONTROL suscripción a la aplicación] para poder almacenar los valores de personalización que [!DNL Campaign] recibe de una aplicación móvil.
+Obtenga información sobre cómo ampliar el esquema [!UICONTROL app subscription] para poder almacenar los valores de personalización que [!DNL Campaign] recibe de una aplicación móvil.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){transcript=true}
 
