@@ -5,7 +5,7 @@ user-guide-title: Tutoriales de Adobe Campaign
 user-guide-description: Aprenda a utilizar las funciones y capacidades de la consola del cliente de Adobe Campaign V8.
 breadcrumb-title: 'Consola de cliente: tutoriales'
 auto-video-transcripts: true
-source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
+source-git-commit: 1a4c03a96bb1002cf4e936e8d413af3ac1957252
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 100%
@@ -49,6 +49,8 @@ ht-degree: 100%
       + [Uso de grupos de control](/help/send-messages/email/use-control-groups.md)
       + [Solución de problemas de envíos de correos electrónicos](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Diseño de correos electrónicos para su envío](/help/send-messages/email/design-emails-for-deliverability.md)
+      + [Maximice el ROI del correo electrónico y las prácticas recomendadas para la renovación de la participación de los suscriptores](/help/strategy/campaign-maximize-email-best-practices.md)
+      + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
    + SMS {#sms}
       + [Creación de un envío SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
@@ -103,6 +105,4 @@ ht-degree: 100%
    + [Configuración de SMS para Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=es)
 + Estrategia y liderazgo mental{#strategy}
    + [Diez prácticas recomendadas para el éxito de Adobe Campaign para expertos en marketing](/help/strategy/10-best-practices-for-marketers.md)
-   + [Maximice el ROI del correo electrónico y las prácticas recomendadas para la renovación de la participación de los suscriptores](/help/strategy/campaign-maximize-email-best-practices.md)
-   + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
 + [Tutoriales de la interfaz de usuario web de Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=es)
