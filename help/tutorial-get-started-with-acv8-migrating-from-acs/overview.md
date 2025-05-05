@@ -19,7 +19,7 @@ ht-degree: 4%
 
 Esta guía de referencia se ha diseñado para usuarios que migraron de Campaign Standard a Campaign v8. Esto le ayudará a familiarizarse con la nueva instancia de Campaign y le guiará por los pasos necesarios para comenzar a utilizar su función.
 
-1. Comience por obtener información acerca de las funciones clave y la terminología de Campaign v8. Revise la [transición de Campaign Standard a la guía de Campaign v8](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/acs-migration)
+1. Comience por obtener información acerca de las funciones clave y la terminología de Campaign v8. Revise la [transición de Campaign Standard a la guía de Campaign v8](https://experienceleague.adobe.com/es/docs/campaign-web/v8/start/acs-migration)
 
 2. A continuación, seleccione su función para acceder a la guía de referencia pertinente para su función:
 
