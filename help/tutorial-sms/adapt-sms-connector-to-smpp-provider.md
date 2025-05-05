@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Aprenda a adaptar el conector SMS a su proveedor SMPP. Ajuste la configuración de SMS para gestionar los límites de conexión, configure el rendimiento máximo, la ventana de envío y el cifrado con TLS.
 
->[!VIDEO](https://video.tv.adobe.com/v/343622?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453876?quality=12&learn=on&captions=spa){transcript=true}
 
 Consulte [Protocolo y configuración del conector SMS](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=es#sending-messages) para obtener más información sobre el protocolo SMPP, detalles sobre la configuración de cuentas externas o solución de problemas de los problemas más comunes.

@@ -23,4 +23,4 @@ La actividad de enriquecimiento es un objeto de flujo de trabajo que añade dato
 
 Aprenda a configurar una actividad de enriquecimiento basada en la información del registro de envío.
 
->[!VIDEO](https://video.tv.adobe.com/v/342639?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452171?quality=12&learn=on&captions=spa){transcript=true}

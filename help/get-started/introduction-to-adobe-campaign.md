@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Descubra cómo Adobe Campaign encaja en el portfolio de Adobe Digital Experience, y conozca las funciones y funcionalidades principales.
 
->[!VIDEO](https://video.tv.adobe.com/v/335365?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453315?quality=12&learn=on&captions=spa){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo crear un proceso de aprobación dentro de un flujo de trabajo para permitir que la lógica de selección de direccionamiento se revise y apruebe antes de iniciar la entrega.
 
->[!VIDEO](https://video.tv.adobe.com/v/338830?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3442037?quality=12&learn=on&captions=spa){transcript=true}

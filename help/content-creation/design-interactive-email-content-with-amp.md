@@ -27,6 +27,6 @@ Actualmente, solo Gmail, Outlook y Mail.ru admiten el formato AMP.
 
 El siguiente vídeo explica cómo activar AMP en Adobe Campaign y cómo usarlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33567?quality=12&learn=on&captions=spa){transcript=true}
 
 Consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=es#about-amp-for-email) para obtener más detalles.

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo establecer las propiedades de la plantilla de envíos; se explica cada propiedad en detalle.
 
->[!VIDEO](https://video.tv.adobe.com/v/338969?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443404?quality=12&learn=on&captions=spa){transcript=true}

@@ -22,4 +22,4 @@ Obtenga información sobre cómo configurar aprobaciones y revisores en el nivel
 
 Las aprobaciones deben configurarse en el nivel de campaña si tiene el mismo conjunto de revisores para todas las entregas en el flujo de trabajo de la campaña.
 
->[!VIDEO](https://video.tv.adobe.com/v/338826?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446501?quality=12&learn=on&captions=spa){transcript=true}

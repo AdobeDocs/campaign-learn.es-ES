@@ -21,4 +21,4 @@ ht-degree: 100%
 
 En este vídeo se explica cómo implementar una plantilla de envíos de correo electrónico ad hoc, y se explica la diferencia entre una entrega de correo electrónico y un flujo de trabajo de entrega.
 
->[!VIDEO](https://video.tv.adobe.com/v/338965?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444960?quality=12&learn=on&captions=spa){transcript=true}

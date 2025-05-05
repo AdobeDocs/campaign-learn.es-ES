@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo ejecutar una campaña, revisar un envío por correo electrónico y las propiedades de envío.
 
->[!VIDEO](https://video.tv.adobe.com/v/334908?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452959?quality=12&learn=on&captions=spa){transcript=true}

@@ -25,7 +25,7 @@ Consulte [Introducción a la arquitectura de Campaign](https://experienceleague.
 
 Las tareas principales de administración y configuración se realizan en el [Admin Console]. El primer paso es configurar su entorno. En el siguiente vídeo se explica cómo descargar e instalar la consola del cliente de Adobe Campaign y administrar la conexión con la instancia.
 
->[!VIDEO](https://video.tv.adobe.com/v/335375?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449884?quality=12&learn=on&captions=spa){transcript=true}
 
 Para obtener más información, consulte [Conectarse a Campaign con la consola del cliente](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/new/connect){target="_blank"}.
 
@@ -55,7 +55,7 @@ Adobe Campaign permite definir y administrar los derechos asignados a los usuari
 
 Descubra cuáles son las dimensiones de segmentación y las tablas de trabajo, y cómo administra Adobe Campaign los datos en diferentes fuentes de datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/339992?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452595?quality=12&learn=on&captions=spa){transcript=true}
 
 
 ### Creación y ampliación de un esquema

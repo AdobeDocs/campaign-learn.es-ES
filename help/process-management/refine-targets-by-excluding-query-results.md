@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo refinar los destinatarios aplicando una exclusión estándar a un flujo de trabajo. Obtenga información sobre cómo crear filtros predefinidos y solucionar problemas en el flujo de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452927?quality=12&learn=on&captions=spa){transcript=true}

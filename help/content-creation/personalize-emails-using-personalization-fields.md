@@ -23,4 +23,4 @@ Los campos de personalización se utilizan para la personalización de primer ni
 
 Obtenga información sobre cómo agregar un campo de personalización a la línea de asunto y el contenido de un envío de correo electrónico.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27466?quality=12&learn=on&captions=spa){transcript=true}

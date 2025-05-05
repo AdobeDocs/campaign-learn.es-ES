@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Comprenda el uso de los flujos de trabajo de la campaña y obtenga información sobre cómo crear un flujo de trabajo y utilizar las condiciones de filtrado para segmentar los perfiles de un flujo de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453579?quality=12&learn=on&captions=spa){transcript=true}
 
 ## Siguientes tutoriales que ver
 

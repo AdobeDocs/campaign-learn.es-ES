@@ -27,6 +27,6 @@ ht-degree: 65%
 
 Obtenga información sobre cómo acceder a los registros de pista de auditoría y qué configuración se puede ajustar.
 
->[!VIDEO](https://video.tv.adobe.com/v/342081?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444237?quality=12&learn=on&captions=spa){transcript=true}
 
 Para obtener más información, consulte la [documentación sobre la pista de auditoría](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=es).

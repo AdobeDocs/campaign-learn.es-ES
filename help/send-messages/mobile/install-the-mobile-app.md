@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo comprobar si el canal de la aplicación móvil está instalado en la instancia y cómo instalarlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340427?quality=12&learn=on&captions=spa){transcript=true}

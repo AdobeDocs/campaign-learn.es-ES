@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Obtenga información sobre la interfaz de usuario de Adobe Campaign V8 y cómo navegar por las funciones principales.
 
->[!VIDEO](https://video.tv.adobe.com/v/334496?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426436?quality=12&learn=on&captions=spa){transcript=true}

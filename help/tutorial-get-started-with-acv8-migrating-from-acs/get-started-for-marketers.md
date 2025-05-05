@@ -23,7 +23,7 @@ Puede acceder a Adobe Campaign v8 a través de la consola del cliente o la inter
 
 ## Acceso y exploración de la interfaz de usuario web de Campaign
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453425?quality=12&learn=on&captions=spa){transcript=true}
 
 1. [Descubra la interfaz](https://experienceleague.adobe.com/es/docs/campaign-web/v8/start/user-interface)
 2. [Lista de exploración y filtrado](https://experienceleague.adobe.com/es/docs/campaign-web/v8/start/list-filters)
@@ -40,13 +40,13 @@ El concepto general de creación y administración de audiencias en Campaign v8 
 
 1. Obtén información sobre cómo acceder, administrar y explorar perfiles mediante la interfaz de usuario de Campaign Web.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3427293?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3448367?quality=12&learn=on&captions=spa){transcript=true}
 
    Consulte [Introducción a los perfiles](https://experienceleague.adobe.com/es/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"} para obtener más información.
 
 2. Obtenga información sobre cómo crear y administrar audiencias, cómo seleccionar audiencias para una entrega y definir grupos de control.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425861?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453205?quality=12&learn=on&captions=spa){transcript=true}
 
    Consulte [Introducción a las audiencias](https://experienceleague.adobe.com/es/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"} para obtener más información.
 
@@ -99,7 +99,7 @@ Utilice Adobe Campaign Web para administrar y crear sus servicios, como los bole
 
 1. Descubra cómo funcionan los flujos de trabajo y cómo crear un flujo de trabajo de objetivos.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425873?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453974?quality=12&learn=on&captions=spa){transcript=true}
 
 1. [Trabajar con actividades de flujo de trabajo](https://experienceleague.adobe.com/es/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
 1. [Protecciones y limitaciones para flujos de trabajo](https://experienceleague.adobe.com/es/docs/campaign-web/v8/wf/guardrails){target="_blank"}
@@ -110,23 +110,23 @@ Utilice Adobe Campaign Web para administrar y crear sus servicios, como los bole
 
 Obtenga información sobre cómo crear un envío de correo electrónico desde cero, definir el público, diseñar el contenido, simular la previsualización y enviar una prueba.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425866?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454008?quality=12&learn=on&captions=spa){transcript=true}
 
 1. **Diseñar y definir contenido**
 
    Obtén información sobre cómo navegar por el Diseñador de correo electrónico. Aprenda a estructurar y diseñar un correo electrónico desde cero, a personalizarlo y a probarlo.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425867?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453568?quality=12&learn=on&captions=spa){transcript=true}
 
    Obtenga información sobre cómo crear un correo electrónico cargando un HTML, cómo hacerlo compatible con el Designer de correo electrónico y cómo convertirlo en una plantilla.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3447035?quality=12&learn=on&captions=spa){transcript=true}
 
 2. **Vista previa y prueba**
 
    Obtenga información sobre cómo previsualizar el contenido y la personalización de los mensajes de correo electrónico, enviar entregas de prueba (pruebas) y comprobar el procesamiento de los correos electrónicos en clientes populares de escritorio, móviles y web.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425862?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3450340?quality=12&learn=on&captions=spa){transcript=true}
 
 3. **Enviar correo electrónico y registros de comprobación**
 

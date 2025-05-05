@@ -20,4 +20,4 @@ Un [!UICONTROL Delivery-type activity] permite crear una acción de envío. Se p
 
 En este vídeo, se explica cómo implementar una plantilla de envíos de correos electrónicos. Explica la diferencia entre un envío de correos electrónicos y un flujo de trabajo de envíos.
 
->[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27451?quality=12&learn=on&captions=spa){transcript=true}

@@ -23,4 +23,4 @@ Las aprobaciones permiten a los operadores tomar las decisiones que rigen los fl
 
 Obtenga información sobre cómo configurar aprobaciones y una campaña, y cómo diferenciar entre aprobaciones de envío y de flujo de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/334479?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432530?quality=12&learn=on&captions=spa){transcript=true}

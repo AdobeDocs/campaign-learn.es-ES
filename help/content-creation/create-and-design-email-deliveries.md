@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Comprenda el proceso de creación de un envío de correo electrónico, y aprenda a diseñar y personalizar el contenido del correo electrónico.
 
->[!VIDEO](https://video.tv.adobe.com/v/333476?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444312?quality=12&learn=on&captions=spa){transcript=true}

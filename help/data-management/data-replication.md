@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Comprenda qué bases de datos utiliza Adobe Campaign V8, por qué se replican los datos, qué datos se replican y cómo funciona el proceso de replicación.
 
->[!VIDEO](https://video.tv.adobe.com/v/334460?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416864?quality=12&learn=on&captions=spa){transcript=true}

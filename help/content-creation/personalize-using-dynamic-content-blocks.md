@@ -25,4 +25,4 @@ Un bloque de personalización es dinámico, personalizado y contiene un código 
 
 Descubra cómo se crearon los bloques de contenido dinámico y cómo se utilizan para personalizar el contenido de su envío de correo electrónico.
 
->[!VIDEO](https://video.tv.adobe.com/v/342088?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449009?quality=12&learn=on&captions=spa){transcript=true}

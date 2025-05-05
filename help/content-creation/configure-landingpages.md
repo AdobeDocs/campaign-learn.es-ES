@@ -23,4 +23,4 @@ Adobe Campaign le permite diseñar y alojar varias páginas de destino en su ser
 
 En este vídeo se explica cómo desplazarse por el editor de aplicaciones web de Adobe Campaign creando un centro de preferencias.
 
->[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450217?quality=12&learn=on&captions=spa){transcript=true}

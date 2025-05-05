@@ -23,4 +23,4 @@ En una campaña en canales múltiples, una sola comunicación de marketing utili
 
 Aprenda a crear una campaña en canales múltiples utilizando entregas de correo electrónico y correo directo en función de la interacción del cliente con el primer envío.
 
->[!VIDEO](https://video.tv.adobe.com/v/335607?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426511?quality=12&learn=on&captions=spa){transcript=true}

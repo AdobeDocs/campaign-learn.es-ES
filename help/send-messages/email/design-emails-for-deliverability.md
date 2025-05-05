@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Aprenda a aplicar las prácticas recomendadas de envío a sus envíos de correo electrónico.
 
->[!VIDEO](https://video.tv.adobe.com/v/333471?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452006?quality=12&learn=on&captions=spa){transcript=true}
 
 ## Recursos adicionales
 

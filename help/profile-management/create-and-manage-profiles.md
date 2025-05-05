@@ -23,4 +23,4 @@ Comprenda el concepto de perfiles. Obtenga información sobre cómo acceder a lo
 
 Este vídeo también explica la conformidad de Adobe Campaign con el Reglamento general de protección de datos (RGPD) y la Ley de privacidad del consumidor de California (CCPA).
 
->[!VIDEO](https://video.tv.adobe.com/v/334111?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452094?quality=12&learn=on&captions=spa){transcript=true}

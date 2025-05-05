@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Obtenga información sobre cómo configurar un servicio de [!DNL Android™] y crear una aplicación móvil de [!DNL Android™] en Campaign. Este paso es necesario para poder definir la aplicación móvil de destino para la notificación push.
 
->[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340735?quality=12&learn=on&captions=spa){transcript=true}
 
 **Paso anterior**
 

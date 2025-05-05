@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Obtenga información sobre cómo consultar datos utilizando diferentes dimensiones de segmentación y filtrado, y cómo unir los resultados mediante una intersección para el caso de uso de la creación de un envío de compendio de contenido automatizado.
 
->[!VIDEO](https://video.tv.adobe.com/v/336537?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452893?quality=12&learn=on&captions=spa){transcript=true}
 
 Paso siguiente: [Envío de una entrega a los destinatarios suscritos](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)

@@ -24,4 +24,4 @@ Los flujos de trabajo se producen en varios contextos y etapas del proceso de ad
 
 En este vídeo se explica cómo crear un flujo de trabajo en Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27446?quality=12&learn=on&captions=spa){transcript=true}

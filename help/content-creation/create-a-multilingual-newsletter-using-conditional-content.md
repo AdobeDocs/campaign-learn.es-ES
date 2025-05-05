@@ -23,4 +23,4 @@ Al configurar los campos de contenido condicionados, puede crear una personaliza
 
 Aprenda a añadir contenido condicional a un envío con el ejemplo de una newsletter multilingüe.
 
->[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446714?quality=12&learn=on&captions=spa){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo monitorizar la carga en la instancia y planificar las programaciones de flujo de trabajo en consecuencia.
 
->[!VIDEO](https://video.tv.adobe.com/v/342084?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445400?quality=12&learn=on&captions=spa){transcript=true}
