@@ -1,14 +1,14 @@
 ---
 product: adobe campaign
 sub-product: Campaign V8
-user-guide-title: Tutoriales de Adobe Campaign
+user-guide-title: 'Tutoriales de Adobe Campaign '
 user-guide-description: Aprenda a utilizar las funciones y capacidades de la consola del cliente de Adobe Campaign V8.
 breadcrumb-title: 'Consola de cliente: tutoriales'
 auto-video-transcripts: true
 source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
 workflow-type: tm+mt
 source-wordcount: '408'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 100%
    + [Creación y administración de perfiles](/help/profile-management/create-and-manage-profiles.md)
    + [Importación de perfiles](/help/profile-management/import-profiles.md)
    + [Perfiles de destinatario en un flujo de trabajo](/help/profile-management/target-profiles-in-a-workflow.md)
-+ Orquestación de campañas {#campaign-orchestration}
++ Orquestación de campañas  {#campaign-orchestration}
    + [Ejecución de una campaña](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [Introducción a campañas multicanal y canales múltiples](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Creación de campañas multicanal](/help/orchestrate-campaigns/multi-channel-campaigns.md)
@@ -42,7 +42,7 @@ ht-degree: 100%
       + [Personalización de correos electrónicos con campos de personalización](/help/content-creation/personalize-emails-using-personalization-fields.md)
       + [Creación de una newsletter multilingüe con contenido condicional](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
       + [Definición del contenido de correo electrónico interactivo con AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
-   + [Configuración de las páginas de aterrizaje](/help/content-creation/configure-landingpages.md)
+   + [Configuración de las páginas de destino](/help/content-creation/configure-landingpages.md)
    + [Creación de una encuesta](/help/content-creation/create-a-survey.md)
 + Envío de mensajes{#sending-messages}
    + Correo electrónico {#email}
@@ -53,7 +53,7 @@ ht-degree: 100%
       + [Maximice el ROI del correo electrónico y las prácticas recomendadas para la renovación de la participación de los suscriptores](/help/strategy/campaign-maximize-email-best-practices.md)
       + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
    + SMS {#sms}
-      + [Creación de un envío SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
+      + [Creación de una entrega SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Instalación del canal de la aplicación móvil](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Configuración del canal push mediante el SDK para móviles de Experience Platform](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
@@ -74,7 +74,7 @@ ht-degree: 100%
       + [Creación de un flujo de trabajo de segmentación](/help/process-management/create-a-targeting-workflow.md)
       + [Refinamiento de destinatarios combinando resultados de consultas](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Refinamiento de destinatarios excluyendo resultados de consultas](/help/process-management/refine-targets-by-excluding-query-results.md)
-   + Flujos de trabajo de aprobación y validación {#create-approvals-and-validation-workflows}
+   + Flujos de trabajo de aprobaciones y validación {#create-approvals-and-validation-workflows}
       + [Introducción](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Administración de aprobaciones](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [Configuración de aprobaciones para campañas](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
