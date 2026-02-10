@@ -20,4 +20,4 @@ ht-degree: 10%
 
 Aprenda a cambiar la fuente de datos de una tabla de trabajo de flujo de trabajo mediante la actividad Cambiar datos de Source para administrar datos de forma flexible en diferentes fuentes de datos, como FDA, FDAC y la base de datos local.
 
->[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449533?captions=spa&quality=12&learn=on){transcript=true}

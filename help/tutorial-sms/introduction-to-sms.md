@@ -19,6 +19,6 @@ ht-degree: 93%
 
 Descubra qué es SMS, la función del proveedor de servicios SMS y cómo se conecta Adobe Campaign al proveedor de servicios. Comprender qué información se pasa a través del proveedor de servicios y qué notas técnicas están disponibles.
 
->[!VIDEO](https://video.tv.adobe.com/v/340957?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416807?captions=spa&quality=12&learn=on){transcript=true}
 
 Consulte [Protocolo y configuración del conector SMS](https://experienceleague.adobe.com/es/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol) para obtener más información sobre el protocolo SMPP, detalles sobre la configuración de cuentas externas o solución de problemas de los problemas más comunes.
