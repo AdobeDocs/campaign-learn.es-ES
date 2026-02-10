@@ -18,7 +18,7 @@ Este tutorial ofrece una descripción general de la funcionalidad clave administ
 
 ## Comprensión de la arquitectura de Campaign v8
 
-Consulte [Introducción a la arquitectura de Campaign](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/architecture/general-architecture){target="_blank"} para comprender la arquitectura de Campaign antes de empezar a estructurar y organizar la instancia.
+Consulte [Introducción a la arquitectura de Campaign](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/architecture/general-architecture){target="_blank"} para comprender la arquitectura de Campaign antes de empezar a estructurar y organizar la instancia.
 
 
 ## Instalación de la consola de cliente
@@ -31,7 +31,7 @@ Para obtener más información, consulte [Conectarse a Campaign con la consola d
 
 ## Configuración y administración del acceso
 
-1. **[Empiece a usar los permisos en la versión 8 de Campaign.](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/gs-permissions){target="_blank"}**
+1. **[Empiece a usar los permisos en la versión 8 de Campaign.](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/permissions/gs-permissions){target="_blank"}**
 Obtenga información sobre el modelo de permisos general: operadores, grupos de operadores (funciones), derechos asignados y permisos de carpeta.
 
 2. Obtenga información sobre cómo administrar permisos de usuario en la consola del cliente. Obtenga información sobre cómo
@@ -43,13 +43,13 @@ Obtenga información sobre el modelo de permisos general: operadores, grupos de 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
 
-Consulte la [documentación del producto](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"} para obtener una guía paso a paso detallada por escrito.
+Consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"} para obtener una guía paso a paso detallada por escrito.
 
 ## Configuración de la instancia
 
-* Revise las [Directrices de implementación de Campaign](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}para aprender a ajustar Adobe Campaign a los requisitos de su empresa y estructura, y a organizar su implementación.
-* [Configuración del canal aquí](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
-* [Configuración de Experience Cloud Déclencheur](https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
+* Revise las [Directrices de implementación de Campaign](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}para aprender a ajustar Adobe Campaign a los requisitos de su empresa y estructura, y a organizar su implementación.
+* [Configuración del canal aquí](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
+* [Configuración de Experience Cloud Déclencheur](https://experienceleague.adobe.com/es/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
 
 ## Implementación
 
