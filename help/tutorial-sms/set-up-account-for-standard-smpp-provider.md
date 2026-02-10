@@ -21,4 +21,4 @@ Aprenda a configurar una cuenta SMPP con Adobe Campaign, a analizar los resultad
 
 >[!VIDEO](https://video.tv.adobe.com/v/343607?quality=12&learn=on){transcript=true}
 
-Consulte [Protocolo y configuración del conector SMS](https://experienceleague.adobe.com/en/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol) para obtener más información sobre el protocolo SMPP, detalles sobre la configuración de cuentas externas o solución de problemas de los problemas más comunes.
+Consulte [Protocolo y configuración del conector SMS](https://experienceleague.adobe.com/es/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol) para obtener más información sobre el protocolo SMPP, detalles sobre la configuración de cuentas externas o solución de problemas de los problemas más comunes.
