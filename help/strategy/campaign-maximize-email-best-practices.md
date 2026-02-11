@@ -138,4 +138,4 @@ Desglose este proceso en dos áreas de enfoque: a) patrones de envío de correo 
 
 * **Prueba y aprende**: un buen plan de pruebas es importante para asegurarte de que tus esfuerzos tengan el efecto deseado. Aprenda qué funciona y qué no e itere en consecuencia.
 
-Obtenga más información sobre estrategia y liderazgo mental en el centro de [Perspectives](https://experienceleague.adobe.com/en/perspectives).
+Obtenga más información sobre estrategia y liderazgo mental en el centro de [Perspectives](https://experienceleague.adobe.com/es/perspectives).
