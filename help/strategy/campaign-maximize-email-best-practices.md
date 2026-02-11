@@ -6,9 +6,9 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 2ffcd562088eeb47b72fe4f79b4b4ce0210edf16
+source-git-commit: 2008e34f40bf87bff00a6cdbe5ce759e1ddea454
 workflow-type: tm+mt
-source-wordcount: '1480'
+source-wordcount: '1461'
 ht-degree: 0%
 
 ---
@@ -138,7 +138,4 @@ Desglose este proceso en dos áreas de enfoque: a) patrones de envío de correo 
 
 * **Prueba y aprende**: un buen plan de pruebas es importante para asegurarte de que tus esfuerzos tengan el efecto deseado. Aprenda qué funciona y qué no e itere en consecuencia.
 
-Para ver un resumen de este artículo y una demostración en directo de la implementación de estrategias de renovación de la participación, vea nuestro [seminario web](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
-
-Obtenga más información sobre estrategia y liderazgo mental en el centro de [Éxito del cliente](https://experienceleague.adobe.com/es/docs/customer-success/customer-success/overview).
-
+Obtenga más información sobre estrategia y liderazgo mental en el centro de [Perspectives](https://experienceleague.adobe.com/en/perspectives).
