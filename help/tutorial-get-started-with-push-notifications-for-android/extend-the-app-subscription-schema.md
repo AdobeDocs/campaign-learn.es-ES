@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Aprenda a ampliar el esquema de [!UICONTROL app subscription] para poder almacenar valores de personalización que [!DNL Campaign] recibe de una aplicación móvil.
 
->[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445555?captions=spa&quality=12&learn=on){transcript=true}
 
 **Paso siguiente**
 

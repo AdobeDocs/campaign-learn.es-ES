@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Descubra cómo funciona el [!UICONTROL direct mail] en [!UICONTROL Adobe Campaign] y aprenda a crear, formatear y ejecutar un envío de [!UICONTROL direct mail].
 
->[!VIDEO](https://video.tv.adobe.com/v/333401?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3414036?captions=spa&quality=12&learn=on){transcript=true}

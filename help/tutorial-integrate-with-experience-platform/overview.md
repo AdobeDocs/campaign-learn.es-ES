@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Descubra cómo compartir datos entre Campaign y Experience Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/336643?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441267?captions=spa&quality=12&learn=on){transcript=true}
 
 ## Recursos adicionales
 
