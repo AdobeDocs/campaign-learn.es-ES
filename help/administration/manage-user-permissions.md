@@ -1,6 +1,6 @@
 ---
-title: Administrar permisos de usuario
-description: Obtenga información sobre cómo configurar y administrar permisos de usuario para Campaign v8. Añada usuarios, trabaje con perfiles de producto, grupos de usuarios y derechos asignados. Agregue permisos en el nivel de carpeta.
+title: Administración de permisos de usuario
+description: Aprenda a configurar y administrar permisos de usuario para Campaign v8. Añada usuarios, trabaje con perfiles de producto, grupos de usuarios y derechos asignados. Añada permisos a nivel de carpeta.
 feature: Permissions
 role: Admin
 level: Beginner
@@ -9,22 +9,22 @@ duration: 236
 last-substantial-update: 2024-11-14T00:00:00Z
 jira: KT-15332
 thumbnail: KT-15332.jpeg
-source-git-commit: acf960dc605ed61913ca04c05124f740555c84ad
-workflow-type: tm+mt
+exl-id: 2cf80aa0-36d2-46f7-9225-1509a74fa5a2
+source-git-commit: f146835a8b197d42685f10792b8e327015a81383
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
+# Administración de permisos de usuario
 
-# Administrar permisos de usuario
+Aprenda a configurar y administrar permisos de usuario para Campaign v8:
 
-Obtenga información sobre cómo configurar y administrar permisos de usuario para Campaign v8:
-
-* Adición de usuarios
-* Trabajo con perfiles de producto
+* Añadir usuarios
+* Trabajar con perfiles de producto
 * Trabajar con grupos de usuarios
 * Derechos asignados
-* Añadir permisos en el nivel de carpeta
+* Añadir permisos a nivel de carpeta
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)

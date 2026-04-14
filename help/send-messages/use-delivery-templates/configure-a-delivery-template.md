@@ -11,9 +11,9 @@ role: Admin
 level: Beginner
 exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 92%
+workflow-type: ht
+source-wordcount: '91'
+ht-degree: 100%
 
 ---
 
@@ -26,10 +26,10 @@ Una plantilla puede incluir sistemáticamente:
 * Tipologías
 * Direcciones de remitente y respuesta
 * Bloques de personalización básicos
-* Vínculos a páginas espejo y vínculos de baja
+* Vínculos a páginas espejo y vínculos para cancelar la suscripción
 * Contenido, logotipo de una compañía o firma
 * Otras propiedades de entrega, como la validez de los recursos, las cantidades por lotes...
 
 En el siguiente vídeo se muestra cómo configurar una plantilla para un envío ad hoc.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409244?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342082?quality=12&learn=on){transcript=true}

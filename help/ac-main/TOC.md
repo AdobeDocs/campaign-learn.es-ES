@@ -1,14 +1,14 @@
 ---
 product: adobe campaign
 sub-product: Campaign V8
-user-guide-title: 'Tutoriales de Adobe Campaign '
+user-guide-title: Tutoriales de Adobe Campaign
 user-guide-description: Aprenda a utilizar las funciones y capacidades de la consola del cliente de Adobe Campaign V8.
 breadcrumb-title: 'Consola de cliente: tutoriales'
 auto-video-transcripts: true
 source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
-workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 96%
+workflow-type: ht
+source-wordcount: '496'
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 96%
    + [Creación y administración de perfiles](/help/profile-management/create-and-manage-profiles.md)
    + [Importación de perfiles](/help/profile-management/import-profiles.md)
    + [Perfiles de destinatario en un flujo de trabajo](/help/profile-management/target-profiles-in-a-workflow.md)
-+ Orquestación de campañas  {#campaign-orchestration}
++ Orquestación de campañas {#campaign-orchestration}
    + [Ejecución de una campaña](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [Introducción a campañas multicanal y canales múltiples](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Creación de campañas multicanal](/help/orchestrate-campaigns/multi-channel-campaigns.md)
@@ -51,19 +51,19 @@ ht-degree: 96%
       + [Solución de problemas de envíos de correos electrónicos](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Diseño de correos electrónicos para su envío](/help/send-messages/email/design-emails-for-deliverability.md)
       + [Maximice el ROI del correo electrónico y las prácticas recomendadas para la renovación de la participación de los suscriptores](/help/strategy/campaign-maximize-email-best-practices.md)
-      + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
+      + [Guía de prácticas recomendadas para la entregabilidad](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
    + SMS {#sms}
-      + [Creación de una entrega SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
+      + [Creación de una entrega de SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Instalación del canal de la aplicación móvil](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Configuración del canal push mediante el SDK para móviles de Experience Platform](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
    + Correo directo {#direct-mail}
       + [Creación de envíos de correo directo](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
-   + Uso de plantillas de envío{#using-delivery-templates}
+   + Uso de plantillas de envíos{#using-delivery-templates}
       + [Creación de una plantilla de envíos](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
       + [Establecimiento de propiedades de plantilla de envíos](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [Implementación de una plantilla de envío de correo electrónico ad hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
-   + Administración de fatiga{#fatigue-management}
+   + Gestión de la fatiga{#fatigue-management}
       + [Reglas de tipología](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Filtros predefinidos](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [Configuración y administración de servicios de suscripción](/help/send-messages/configure-and-manage-subscription-services.md)
@@ -82,14 +82,14 @@ ht-degree: 96%
       + [Creación de una actividad de aprobación en un flujo de trabajo](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
    + [Aprenda de sus compañeros: prácticas recomendadas de flujo de trabajo](/help/process-management/workflow-best-practices-for-marketers.md)
 + Administración de datos {#data-management}
-   + [Aspectos básicos de la administración de datos con flujos de trabajo](/help/data-management/data-management-fundamentals.md)
+   + [Conceptos fundamentales sobre la gestión de datos con flujos de trabajo](/help/data-management/data-management-fundamentals.md)
    + [Cambio de la fuente de datos](/help/data-management/change-data-source.md)
    + [Uso de la actividad Actualizar lista](/help/process-management/use-the-update-list-activity.md)
    + [Configuración de actividades de enriquecimiento](/help/process-management/enrichment-activity.md)
    + [Creación y ampliación de un esquema](/help/data-management/create-and-extend-a-schema.md)
    + [Replicación de datos](/help/data-management/data-replication.md)
    + [Mecanismo de ensayo de API](/help/data-management/api-staging-mechanism.md)
-   + [Tutorial: Uso de API de SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=es)
+   + [Tutorial: Uso de las API de SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=es)
 + Conectar con otras soluciones {#connect}
    + [Integración con Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=es)
    + [Integración con Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=es)

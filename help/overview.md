@@ -7,8 +7,8 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: ec352448-e40b-4d22-b566-d25783e74b63
 source-git-commit: 5c1d1d039b331d031f33e55c1202632dab1ad2a7
-workflow-type: tm+mt
-source-wordcount: '368'
+workflow-type: ht
+source-wordcount: '406'
 ht-degree: 100%
 
 ---
@@ -50,7 +50,7 @@ Consulte
     </a>
     <div>
       <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
-    <strong>Creación de un plan de marketing</strong>
+    <strong>Creación de un plan de marketing</strong>
     </a>
     </div>
     <p>
@@ -59,15 +59,15 @@ Consulte
   </td>
    <td>
     <a href="./content-creation/create-and-design-email-deliveries.md">
-      <img alt="Creación y diseño de entregas de correo electrónico (vídeo)" src="./assets/333476.jpg" />
+      <img alt="Creación y diseño de envíos de correo electrónico (vídeo)" src="./assets/333476.jpg" />
     </a>
     <div>
       <a href="./content-creation/create-and-design-email-deliveries.md">
-    <strong>Creación y diseño de entregas de correo electrónico</strong>
+    <strong>Creación y diseño de envíos de correo electrónico</strong>
     </a>
     </div>
     <p>
-    <em>Comprenda el proceso de creación de una entrega de correo electrónico, y obtenga información sobre cómo diseñar y personalizar el contenido del correo electrónico.
+    <em>Conozca el proceso de creación de un envío de correo electrónico, y aprenda a diseñar y personalizar el contenido del correo electrónico.
 </em>
     <p>
   </td>
@@ -77,7 +77,7 @@ Consulte
     </a>
     <div>
       <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
-    <strong>Administración de la fatiga mediante reglas de tipología</strong>
+    <strong>Gestión de la fatiga utilizando reglas de tipología</strong>
     </a>
     </div>
     <p>
@@ -93,7 +93,7 @@ Consulte
     </a>
     <div>
       <a href="./reporting/generate-a-descriptive-analysis-report.md">
-    <strong>Generación de un informe de análisis descriptivo</strong>
+    <strong>Generación de un informe de análisis descriptivo</strong>
     </a>
     </div>
     <p>
@@ -102,11 +102,11 @@ Consulte
   </td>
   <td>
    <a href="./data-management/data-management-fundamentals.md">
-      <img alt="Aspectos básicos de la administración de datos con flujos de trabajo" src="./assets/339992.jpg" />
+      <img alt="Conceptos fundamentales sobre la gestión de datos con flujos de trabajo" src="./assets/339992.jpg" />
     </a>
      <div>
       <a href="./data-management/data-management-fundamentals.md">
-    <strong>Aspectos básicos de la administración de datos con flujos de trabajo</strong>
+    <strong>Conceptos fundamentales sobre la gestión de datos con flujos de trabajo</strong>
     </a>
     </div>
     <p>
@@ -115,11 +115,11 @@ Consulte
   </td>
   <td>
    <a href="./data-management/api-staging-mechanism.md">
-      <img alt="Mecanismo de ensayo de la API con FDAC" src="./assets/339276.jpg" />
+      <img alt="Mecanismo de ensayo de API con FDAC" src="./assets/339276.jpg" />
     </a>
      <div>
       <a href="./data-management/api-staging-mechanism.md">
-    <strong>Mecanismo de ensayo de la API con FDAC</strong>
+    <strong>Mecanismo de ensayo de la API con FDAC</strong>
     </a>
     </div>
     <p>

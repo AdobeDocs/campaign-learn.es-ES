@@ -1,5 +1,5 @@
 ---
-title: Introducción a las notificaciones push para Android
+title: Introducción a las notificaciones push para Android, presentación
 description: Este tutorial le guía por los pasos necesarios para enviar notificaciones push desde Adobe Campaign y recibir estas notificaciones en la aplicación de Android™.
 feature: Push
 jira: KT-6438
@@ -11,8 +11,8 @@ level: Experienced
 recommendations: noCatalog
 exl-id: 91ff4bae-8598-4227-b4c9-4e436ce7400d
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: tm+mt
-source-wordcount: '316'
+workflow-type: ht
+source-wordcount: '331'
 ht-degree: 100%
 
 ---
@@ -37,7 +37,7 @@ Antes de empezar, debe tener lo siguiente:
 
    El paquete [!DNL Mobile App channel] debe estar instalado en su instancia de [!DNL Campaign]. El siguiente vídeo explica cómo comprobar si [!DNL Mobile App channel] está instalado en la instancia y, en caso contrario, cómo instalarlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/340427?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
 ## Información general del tutorial
 
