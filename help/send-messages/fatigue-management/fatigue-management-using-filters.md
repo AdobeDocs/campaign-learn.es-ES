@@ -29,4 +29,4 @@ ht-degree: 100%
 La administración de la fatiga controla la frecuencia y la cantidad de mensajes para evitar saturar a los destinatarios.
 Obtenga información sobre cómo implementar la administración de la fatiga en Adobe Campaign mediante filtros.
 
->[!VIDEO](https://video.tv.adobe.com/v/333778?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444603?captions=spa&quality=12&learn=on){transcript=true}

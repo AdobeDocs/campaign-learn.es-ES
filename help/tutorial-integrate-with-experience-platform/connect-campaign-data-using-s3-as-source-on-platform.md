@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo introducir datos mediante un conector de origen en Experience Platform para actualizar los datos de perfil con los registros de campaña exportados.
 
->[!VIDEO](https://video.tv.adobe.com/v/336642?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452028?captions=spa&quality=12&learn=on){transcript=true}

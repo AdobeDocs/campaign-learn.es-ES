@@ -26,6 +26,6 @@ ht-degree: 100%
 
 Obtenga información sobre cómo crear un servicio de newsletter y suscribir a un destinatario mediante llamadas a la API de SOAP.
 
->[!VIDEO](https://video.tv.adobe.com/v/336538?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446020?captions=spa&quality=12&learn=on){transcript=true}
 
 Continúe con: [Paso 4: Creación de un compendio de contenido con un flujo de trabajo](/help/tutorial-use-soap-apis/create-article-alert-delivery-overview.md)

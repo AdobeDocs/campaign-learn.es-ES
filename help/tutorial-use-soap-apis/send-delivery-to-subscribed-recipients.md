@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo unir dos segmentos de datos, crear un correo electrónico de alertas de artículo y personalizarlo en función de los datos recibidos de una API externa. Seguiremos construyendo el flujo de trabajo creado en el paso anterior: Vídeo de [Consulta de artículos y valores de suscripción de destinatario](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/336904?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449567?captions=spa&quality=12&learn=on){transcript=true}

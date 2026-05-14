@@ -32,4 +32,4 @@ Adobe Campaign utiliza flujos de trabajo para llevar a cabo campañas de segment
 
 Obtenga información sobre cómo definir varios objetivos de envío mediante flujos de trabajo de segmentación.
 
->[!VIDEO](https://video.tv.adobe.com/v/342083?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450191?captions=spa&quality=12&learn=on){transcript=true}

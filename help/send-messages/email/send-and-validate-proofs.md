@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo enviar y validar una prueba para un envío de correo electrónico.
 
->[!VIDEO](https://video.tv.adobe.com/v/333404?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447002?captions=spa&quality=12&learn=on){transcript=true}

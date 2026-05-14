@@ -27,4 +27,4 @@ ht-degree: 100%
 
 Aprenda a personalizar una entrega con contenido dinámico atendida desde Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453260?captions=spa&quality=12&learn=on){transcript=true}

@@ -30,4 +30,4 @@ La administración de la fatiga controla la frecuencia y la cantidad de mensajes
 
 Aprenda a implementar la administración de la fatiga en Adobe Campaign mediante reglas de tipología.
 
->[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448334?captions=spa&quality=12&learn=on){transcript=true}

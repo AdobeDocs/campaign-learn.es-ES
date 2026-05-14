@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Conozca los conceptos clave de [!UICONTROL Adobe Campaign] para planificar, ejecutar y medir de manera eficaz las campañas de marketing multicanal.
 
->[!VIDEO](https://video.tv.adobe.com/v/335608?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449647?captions=spa&quality=12&learn=on){transcript=true}

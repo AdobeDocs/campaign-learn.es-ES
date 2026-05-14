@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo refinar los destinatarios utilizando actividades de intersección o unión para combinar resultados de consulta en un flujo de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426431?captions=spa&quality=12&learn=on){transcript=true}

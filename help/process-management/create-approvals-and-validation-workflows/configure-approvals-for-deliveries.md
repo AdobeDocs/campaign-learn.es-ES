@@ -31,4 +31,4 @@ Obtenga información sobre cómo configurar aprobaciones y revisores en el nivel
 
 Configure las aprobaciones en el nivel de entrega si los pasos y los revisores de las aprobaciones difieren entre las entregas.
 
->[!VIDEO](https://video.tv.adobe.com/v/338828?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437648?captions=spa&quality=12&learn=on){transcript=true}

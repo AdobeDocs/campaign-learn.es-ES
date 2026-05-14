@@ -46,10 +46,10 @@ Los envíos recurrentes y continuos difieren en la forma en que se administran l
 
 En este vídeo se explica cómo configurar un envío recurrente y una actividad de planificador.
 
->[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446877?captions=spa&quality=12&learn=on){transcript=true}
 
 ## Configuración de envíos continuos {#how-to-set-up-a-continuous-delivery}
 
 Este vídeo muestra cómo configurar un envío continuo con una consulta incremental.
 
->[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444570?captions=spa&quality=12&learn=on){transcript=true}

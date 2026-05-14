@@ -31,5 +31,5 @@ ht-degree: 100%
 
 Aprenda a crear una newsletter en Experience Manager y a aprobarla y publicarla en Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447574?captions=spa&quality=12&learn=on){transcript=true}
 

@@ -30,7 +30,7 @@ ht-degree: 100%
 
 En esta segunda parte del tutorial Creación de un flujo de trabajo de exportación, aprenderá a dar formato a los datos para su exportación y a guardarlos en una cuenta externa.
 
->[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449905?captions=spa&quality=12&learn=on){transcript=true}
 
 ## Recursos
 

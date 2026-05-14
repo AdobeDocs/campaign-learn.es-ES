@@ -30,4 +30,4 @@ ht-degree: 100%
 
 En el siguiente vídeo se explica cómo descargar e instalar la consola del cliente de Adobe Campaign, crear y administrar las conexiones a varios entornos y comprobar el acceso a la consola del cliente de Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/335375?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449884?captions=spa&quality=12&learn=on){transcript=true}

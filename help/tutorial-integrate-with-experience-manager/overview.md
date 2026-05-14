@@ -27,5 +27,5 @@ Conecte Adobe Campaign con Adobe Experience Manager para poder administrar las p
 
 El siguiente vídeo explica lo que aprenderá.
 
->[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344272?captions=spa&quality=12&learn=on){transcript=true}
 
