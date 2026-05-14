@@ -10,9 +10,14 @@ team: TM
 role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+TQID: https://experienceleague.adobe.com/0C-fRmXsfzB-1kePFSNtzUFtqPHDQ1wW1LH2-6Zuw5g
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: 123
 ht-degree: 100%
 
 ---
@@ -21,7 +26,7 @@ ht-degree: 100%
 
 En esta primera parte del tutorial Creación de un flujo de trabajo de exportación, aprenda a crear un flujo de trabajo que encuentre la última fecha de modificación para una lista de destinatarios creados a partir de un segmento de Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450050?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12&learn=on){transcript=true}
 
 ## Recursos
 

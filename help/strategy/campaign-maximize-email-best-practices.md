@@ -6,9 +6,15 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 2008e34f40bf87bff00a6cdbe5ce759e1ddea454
+TQID: https://experienceleague.adobe.com/gN3c6c8m-9p6c1BmdHju2BJC5KXX75UyJk97hPcqaZc
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2: id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: addf009e-030a-4310-8534-776a3e62ed48id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: beb7a3c1-66ab-4786-b879-7621375b3c40id: d3cdead0-685a-4489-9250-4bb709942f66id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '1461'
+source-wordcount: 1474
 ht-degree: 0%
 
 ---
@@ -44,7 +50,7 @@ Desde noviembre hasta principios de enero, el volumen de correos electrónicos d
 
 Estas son cuatro estrategias clave para maximizar el ROI:
 
-### &#x200B;1. Prepare el calendario de contenido
+### &#x200B;1. Preparar el calendario de contenido
 
 * Los ISP rastrean el envío promedio desde una dirección IP, por lo que distribuyen el volumen lo más posible para evitar crear una marca roja y ser enviado a correo no deseado
 * Configure el calendario de contenido con antelación y prepare a los autores de contenido para un aumento en el volumen de envío
@@ -90,7 +96,7 @@ Desafortunadamente, la mayoría de los suscriptores que experimentan fatiga por 
 
 Con esto en mente, estas son algunas prácticas recomendadas para mantener a los suscriptores comprometidos y anticipar el tipo de contenido que desean recibir, a fin de evitar cancelaciones de suscripción y audiencias inactivas.
 
-### &#x200B;1. Cree una estrategia para la frecuencia del correo electrónico
+### &#x200B;1. Crear una estrategia para la frecuencia del correo electrónico
 
 Desafortunadamente, no hay una respuesta correcta sobre cuántos correos electrónicos enviar por semana. Para encontrar el número correcto, tenga en cuenta lo siguiente:
 
@@ -102,7 +108,7 @@ Desafortunadamente, no hay una respuesta correcta sobre cuántos correos electr�
 * ¿Cuál es la capacidad de su cliente para recibir contenido de su marca?
 * ¿Cuáles son las preferencias estacionales de su cliente?
 
-### &#x200B;2. Identificar el estado de los suscriptores
+### &#x200B;2. Identificación del estado de los suscriptores
 
 El estado de los suscriptores (activos, caducados o inactivos) depende de la frecuencia con la que les envíe contenido. A partir de ahí, puede determinar lo comprometidos que están.
 
@@ -114,7 +120,7 @@ Por ejemplo, si envía correos electrónicos a los clientes diariamente, deberí
 
 Para los usuarios que han caducado o están inactivos, considere la posibilidad de consultar la fecha en la que el usuario se suscribió para determinar su nivel de participación. Por ejemplo, ¿se suscribieron en la fecha de una competencia u otra campaña de marketing? ¿Se registraron en una ventana emergente del sitio web con una oferta de descuento? Una vez que haya identificado a sus usuarios inactivos y caducados, es importante cambiar su estrategia para intentar mejorar su satisfacción y convertirlos de nuevo en un suscriptor activo.
 
-### &#x200B;3. Aplicar estrategias de renovación de la participación
+### &#x200B;3. Implementación de estrategias de renovación de participación
 
 Desglose este proceso en dos áreas de enfoque: a) patrones de envío de correo electrónico y b) el contenido creativo de los propios correos electrónicos. A continuación se muestra una descripción más detallada de cada una de estas áreas:
 
@@ -138,4 +144,4 @@ Desglose este proceso en dos áreas de enfoque: a) patrones de envío de correo 
 
 * **Prueba y aprende**: un buen plan de pruebas es importante para asegurarte de que tus esfuerzos tengan el efecto deseado. Aprenda qué funciona y qué no e itere en consecuencia.
 
-Obtenga más información sobre estrategia y liderazgo mental en el centro de [Perspectives](https://experienceleague.adobe.com/es/perspectives).
+Obtenga más información sobre estrategia y liderazgo mental en el centro de [Perspectives](https://experienceleague.adobe.com/en/perspectives).

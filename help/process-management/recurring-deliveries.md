@@ -10,9 +10,13 @@ team: TM
 role: User
 level: Intermediate
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
-source-git-commit: 4d21755204c22fbeb4ac3a2916e9ee68cd2e0f9a
-workflow-type: ht
-source-wordcount: '233'
+TQID: https://experienceleague.adobe.com/pdYTRO3rBq3BdS-WUGcx3POKjD6V4lH1dco4W9L6FwM
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+workflow-type: tm+mt
+source-wordcount: 233
 ht-degree: 100%
 
 ---
@@ -33,16 +37,16 @@ Los envíos recurrentes y continuos difieren en la forma en que se administran l
 
 * Un **envío recurrente** creará una nueva instancia de envío cada vez que se ejecute. Por ejemplo, si el flujo de trabajo está programado para ejecutarse una vez a la semana, el resultado sería de 52 envíos al cabo de un año. Esto también significa que el registro y los registros de seguimiento se separarán por cada instancia de envío.
 
-![Envío recurrente](/help/assets/delivery_recurring.jpg)
+![Entrega recurrente](/help/assets/delivery_recurring.jpg)
 
 ## Configuración de un envío recurrente {#how-to-set-up-a-recurring-delivery}
 
 En este vídeo se explica cómo configurar un envío recurrente y una actividad de planificador.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446877?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12&learn=on){transcript=true}
 
 ## Configuración de envíos continuos {#how-to-set-up-a-continuous-delivery}
 
-Este vídeo muestra cómo configurar un envío continua con una consulta incremental.
+Este vídeo muestra cómo configurar un envío continuo con una consulta incremental.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444570?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12&learn=on){transcript=true}

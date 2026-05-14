@@ -11,9 +11,13 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 19296ac3-a81a-4201-9f6e-80be2395f0bc
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+TQID: https://experienceleague.adobe.com/dftTtSlddSozLJ5treoRjxSPHsz-l5x3eS4lDE6Ip5k
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: 84
 ht-degree: 100%
 
 ---
@@ -22,7 +26,7 @@ ht-degree: 100%
 
 Comprenda el uso de los flujos de trabajo de la campaña y obtenga información sobre cómo crear un flujo de trabajo y utilizar las condiciones de filtrado para segmentar los perfiles de un flujo de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453579?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12&learn=on){transcript=true}
 
 ## Siguientes tutoriales que ver
 
