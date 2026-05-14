@@ -5,10 +5,26 @@ role: User
 level: Beginner, Experienced
 jira: KT-15788
 exl-id: 0d11eeed-414b-47a1-9c30-41d91a0e5900
-source-git-commit: 06103a19174734f33761f05c19fd080ae5a9ca96
+TQID: https://experienceleague.adobe.com/IPKTwihpRvIqbVyEwKVprAtOLT711jqKdHAScQGnT-U
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+  - id: d5ef99fa-df0c-4153-bf94-105ad0724167
+subfeature_v2:
+  - id: b1fd1501-3105-4d6b-b4d4-9af53126df75
+  - id: c3bf7e1e-1db5-4c72-9293-e2f0b1ab73d0
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '2242'
-ht-degree: 16%
+source-wordcount: 2242
+ht-degree: 18%
 
 ---
 
@@ -48,7 +64,7 @@ Consulte [Introducción a los perfiles](https://experienceleague.adobe.com/es/do
 
 #### Públicos
 
-Obtenga información sobre cómo crear y administrar audiencias, cómo seleccionar audiencias para una entrega y definir grupos de control.
+Aprenda a crear y administrar públicos, a seleccionar públicos para un envío y definir grupos de control.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3453205?captions=spa&quality=12&learn=on){transcript=true}
 
@@ -104,7 +120,7 @@ Consulte la documentación del producto para unirse a [campañas](https://experi
 
 ### Creación de un flujo de trabajo
 
-1. Descubra cómo funcionan los flujos de trabajo y cómo crear un flujo de trabajo de objetivos.
+1. Descubra cómo funcionan los flujos de trabajo y cómo crear un flujo de trabajo de segmentación.
 
    >[!VIDEO](https://video.tv.adobe.com/v/3453974?captions=spa&quality=12&learn=on){transcript=true}
 
@@ -149,8 +165,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/es/docs/campaign-web/v8/msg/email/monitor/schedule-sending" title="Programar el envío de una entrega" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/campaign-web/v8/msg/email/monitor/schedule-sending./media_1d94ae6d7d3ea28ea41314ef4629959b108def4f5.png?width=400&format=png&optimize=medium" alt="Programar el envío de una entrega"
+                    <a href="https://experienceleague.adobe.com/es/docs/campaign-web/v8/msg/email/monitor/schedule-sending" title="Programar la entrega de un envío" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/campaign-web/v8/msg/email/monitor/schedule-sending./media_1d94ae6d7d3ea28ea41314ef4629959b108def4f5.png?width=400&format=png&optimize=medium" alt="Programar la entrega de un envío"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -158,7 +174,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/docs/campaign-web/v8/msg/email/monitor/schedule-sending" target="_blank" rel="referrer" title="Programar el envío de una entrega">Programar el envío de una entrega</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/campaign-web/v8/msg/email/monitor/schedule-sending" target="_blank" rel="referrer" title="Programar la entrega de un envío">Programar el envío de una entrega</a>
                     </p>
                     <p class="is-size-6">Obtenga información sobre cómo programar una entrega</p>
                 </div>
@@ -242,7 +258,7 @@ Adobe Campaign v8 es compatible con Android™ y con el canal push de iOS. Para 
 <img alt="Poco frecuente" src="_assets/push_design.jpeg">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/es/docs/campaign-web/v8/msg/push/content-push"><strong>Diseño de un envío push<strong></strong></a>
+<a href="https://experienceleague.adobe.com/es/docs/campaign-web/v8/msg/push/content-push"><strong>Diseñar un envío push<strong></strong></a>
 </div>
 <p></td>
 <td>
@@ -286,11 +302,11 @@ Adobe Campaign v8 es compatible con Android™ y con el canal push de iOS. Para 
 <p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/es/docs/campaign-web/v8/landing-pages/lp-templates">
+<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates">
 <img alt="Validación" src="_assets/lp-reporting.jpg">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/es/docs/campaign-web/v8/landing-pages/lp-templates"><strong>Trabajar con plantillas de página de aterrizaje</strong></a>
+<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates"><strong>Trabajar con plantillas de página de aterrizaje</strong></a>
 </div>
 <p>
 </td>
