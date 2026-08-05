@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Comprenda el concepto de grupo de control y aprenda a utilizar un grupo de control para aplicarlo a su envío.
 
->[!VIDEO](https://video.tv.adobe.com/v/335606?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446921?captions=spa&quality=12&learn=on){transcript=true}
