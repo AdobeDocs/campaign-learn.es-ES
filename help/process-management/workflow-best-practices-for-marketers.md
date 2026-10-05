@@ -11,29 +11,38 @@ role: User
 level: Beginner
 last-substantial-update: 2022-11-03T00:00:00.000Z
 exl-id: 9b52c0a8-48da-4b88-8b95-fd0fc47b06b5
-TQID: https://experienceleague.adobe.com/If4eTovaNrulh7ki1tCq-QvOABxB4shlnlaKCvkn6Tk
+TQID: 'https://experienceleague.adobe.com/If4eTovaNrulh7ki1tCq-QvOABxB4shlnlaKCvkn6Tk'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
   - id: a658c786-869b-4194-a780-2594d663adda
+    internal-label: Data management
 subfeature_v2:
   - id: ce296ecd-3d06-45ab-83c3-37214e8ce31c
+    internal-label: Approvals
+  - id: fcb46c0f-76e1-48bc-9dd0-fcf9d97526cf
+    internal-label: Workflows
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
-source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+    internal-label: Data management
+source-git-commit: 369f9c3691b6326e521ebc9139aac1d2ee7c3ce2
 workflow-type: tm+mt
-source-wordcount: 71
+source-wordcount: '71'
 ht-degree: 100%
-
 ---
-
 # Principales 5 prácticas recomendadas de flujo de trabajo para especialistas en marketing a partir de LoyaltyOne
 
 Los flujos de trabajo, una potente capacidad de Adobe Campaign, le ayudan a administrar campañas y a llegar a los clientes de la forma más sencilla. Conozca y aplique las cinco prácticas recomendadas esenciales de flujo de trabajo para especialistas en marketing de Adam Wilson, Associate Director of Marketing, en LoyaltyOne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448124?captions=spa&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on){transcript=true}
