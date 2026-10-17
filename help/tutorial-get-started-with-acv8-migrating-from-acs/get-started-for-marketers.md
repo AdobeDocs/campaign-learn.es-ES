@@ -313,11 +313,11 @@ Adobe Campaign v8 es compatible con Android™ y con el canal push de iOS. Para 
 <p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates">
+<a href="https://experienceleague.adobe.com/es/docs/campaign-web/v8/landing-pages/lp-templates">
 <img alt="Validación" src="_assets/lp-reporting.jpg">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates"><strong>Trabajar con plantillas de página de aterrizaje</strong></a>
+<a href="https://experienceleague.adobe.com/es/docs/campaign-web/v8/landing-pages/lp-templates"><strong>Trabajar con plantillas de página de aterrizaje</strong></a>
 </div>
 <p>
 </td>
