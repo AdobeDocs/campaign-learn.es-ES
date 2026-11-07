@@ -46,4 +46,4 @@ Aprenda a configurar y administrar permisos de usuario para Campaign v8:
 * Derechos asignados
 * Añadir permisos a nivel de carpeta
 
->[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505213/?captions=spa&learn=on)

@@ -70,7 +70,7 @@ Obtenga información sobre el modelo de permisos general: operadores, grupos de 
    * Creación de grupos de operadores y asignación de derechos asignados
    * Asignación de perfiles de producto ⇄ grupos de operadores
 
->[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505213/?captions=spa&learn=on)
 
 Consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"} para obtener una guía paso a paso detallada por escrito.
 
